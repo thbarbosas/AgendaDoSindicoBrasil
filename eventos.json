@@ -1,7 +1,7 @@
 {
  "meta": {
-  "atualizadoEm": "2026-10-26T11:58:00-03:00",
-  "turno": "manhã",
+  "atualizadoEm": "2026-10-26T13:51:00-03:00",
+  "turno": "tarde",
   "agenda": "Atualização automática às 7h43 e às 13h43 (horário de Brasília)",
   "observacao": "Datas, locais e preços conforme os sites oficiais e a imprensa do setor. Confirme sempre no link de inscrição antes de comprar."
  },
@@ -377,7 +377,7 @@
    "fim": "2026-10-30",
    "cidade": "Itapema",
    "uf": "SC",
-   "local": "Jornada Porter Itapema by Sicredi",
+   "local": "Sicredi Sede Regional Vale Litoral, Rua 452, 81",
    "preco": "Consulte a página de ingressos",
    "gratuito": false,
    "link": "https://www.sympla.com.br/evento/2026-jornada-porter-itapema/3570540"
@@ -1897,6 +1897,334 @@
    "preco": "Gratuito",
    "gratuito": true,
    "link": "https://www.sympla.com.br/evento/beer-ideas-o-futuro-da-gestao-em-condominios/3298761"
+  },
+  {
+   "id": "cobracon-5-2026",
+   "nome": "5º Cobracon: Congresso Brasileiro de Condomínios",
+   "tipo": "Congresso",
+   "organizador": "Instituto Abrascond",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-09-09",
+   "fim": "2026-09-12",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "local": "São Paulo Expo, Rod. dos Imigrantes, 1",
+   "preco": "Consulte a Sympla",
+   "gratuito": false,
+   "link": "https://www.sympla.com.br/evento/5-cobracon-congresso-brasileiro-de-condominios-focus-media/3514720"
+  },
+  {
+   "id": "brcondos-connect-pinda-2026",
+   "nome": "Brcondos Connect",
+   "tipo": "Encontro",
+   "organizador": "BRCondos",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-09-16",
+   "fim": "2026-09-16",
+   "cidade": "Pindamonhangaba",
+   "uf": "SP",
+   "local": "Hotel Summit, Av. Dr. Francisco Lessa Júnior, 2385",
+   "preco": "Gratuito (vagas limitadas)",
+   "gratuito": true,
+   "link": "https://www.sympla.com.br/evento/lgc/3545454",
+   "lat": -22.92,
+   "lon": -45.46
+  },
+  {
+   "id": "circuito-sindicos-valor-belem-169-2026",
+   "nome": "#169 Circuito Síndicos de Valor Belém",
+   "tipo": "Encontro",
+   "organizador": "Síndicos de Valor",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-05-27",
+   "fim": "2026-05-27",
+   "cidade": "Belém",
+   "uf": "PA",
+   "local": "Sindcon/Secovi, Tv. Rui Barbosa, 877",
+   "preco": "Consulte a Sympla",
+   "gratuito": false,
+   "link": "https://www.sympla.com.br/evento/169-circuito-sindicos-de-valor-em-belem/3364100"
+  },
+  {
+   "id": "conferencia-sindicos-rj-2026",
+   "nome": "Conferência de Síndicos do Rio de Janeiro",
+   "tipo": "Congresso",
+   "organizador": "Grupo DM",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-04-10",
+   "fim": "2026-04-10",
+   "cidade": "Rio de Janeiro",
+   "uf": "RJ",
+   "local": "VillageMall, Av. das Américas, 3900, Barra da Tijuca",
+   "preco": "Passaporte VIP, valores na Sympla",
+   "gratuito": false,
+   "link": "https://www.sympla.com.br/evento/conferencia-de-sindicos-do-rio-de-janeiro/3316582"
+  },
+  {
+   "id": "encontro-sindicos-meier-2026",
+   "nome": "Encontro de Síndicos Méier (Expo Síndico)",
+   "tipo": "Encontro",
+   "organizador": "Grupo DM",
+   "publico": [
+    "Síndicos"
+   ],
+   "inicio": "2026-02-27",
+   "fim": "2026-02-27",
+   "cidade": "Rio de Janeiro",
+   "uf": "RJ",
+   "local": "ibis Rio Nova América, Del Castilho",
+   "preco": "Consulte a Sympla",
+   "gratuito": false,
+   "link": "https://www.sympla.com.br/evento/encontro-de-sindicos-meier/3311908"
+  },
+  {
+   "id": "workshop-sindico-livre-poa-2026",
+   "nome": "Workshop Síndico Livre: o Síndico do Futuro com IA no WhatsApp",
+   "tipo": "Workshop",
+   "organizador": "Next Wave",
+   "publico": [
+    "Síndicos"
+   ],
+   "inicio": "2026-07-22",
+   "fim": "2026-07-22",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "local": "Instituto Caldeira, Tijolo Hub, R. Frederico Mentz, 1606",
+   "preco": "Consulte a Sympla",
+   "gratuito": false,
+   "link": "https://www.sympla.com.br/evento/workshop-sindico-livre-o-sindico-do-futuro-com-ia-no-whatsapp/3480638"
+  },
+  {
+   "id": "condoweek-salvador-2026",
+   "nome": "Condomínio Week Salvador 2026 / 2º Encontro de Síndicos",
+   "tipo": "Encontro",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-11-14",
+   "fim": "2026-11-15",
+   "cidade": "Salvador",
+   "uf": "BA",
+   "local": "Centro de Convenções, Av. Octávio Mangabeira, Boca do Rio",
+   "preco": "Consulte a página de inscrição",
+   "gratuito": false,
+   "link": "https://doity.com.br/condominio-week-salvador-2026-2-encontro-de-sindicos"
+  },
+  {
+   "id": "conecta-aguas-do-rio-2026",
+   "nome": "1º Evento para Síndicos: Conecta Águas do Rio",
+   "tipo": "Encontro",
+   "organizador": "Condonecta / Águas do Rio",
+   "publico": [
+    "Síndicos"
+   ],
+   "inicio": "2026-07-31",
+   "fim": "2026-07-31",
+   "cidade": "Rio de Janeiro",
+   "uf": "RJ",
+   "local": "Armazém 2, Av. Rodrigues Alves, 10, Saúde",
+   "preco": "Consulte a Sympla",
+   "gratuito": false,
+   "link": "https://www.sympla.com.br/evento/evento-para-sindicos-conecta-aguas-do-rio/3461127"
+  },
+  {
+   "id": "conexao-administradora-assosindicosrs-2026",
+   "nome": "Conexão com a Administradora (AssosíndicosRS)",
+   "tipo": "Encontro",
+   "organizador": "AssosíndicosRS",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-02-19",
+   "fim": "2026-02-19",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "local": "Guarida, Av. Protásio Alves, 1309, Petrópolis",
+   "preco": "Consulte a Sympla",
+   "gratuito": false,
+   "link": "https://www.sympla.com.br/evento/conexao-com-a-administradora-um-projeto-da-assosindicosrs/3301226"
+  },
+  {
+   "id": "convivium-gestao-pratica-2026",
+   "nome": "Convivium Condomínios: Gestão na Prática",
+   "tipo": "Encontro",
+   "organizador": "Convivium Condomínios",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-04-28",
+   "fim": "2026-04-28",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "local": "Colégio Módulo, R. Tito, 1175, Lapa",
+   "preco": "Só para convidados",
+   "gratuito": false,
+   "link": "https://www.sympla.com.br/evento/convivium-condominios-gestao-na-pratica/3377371"
+  },
+  {
+   "id": "hubstation-campinas-2026",
+   "nome": "Hubstation 2026: Campinas",
+   "tipo": "Encontro",
+   "organizador": "Hubstation",
+   "publico": [
+    "Síndicos",
+    "Administradoras",
+    "Incorporadoras"
+   ],
+   "inicio": "2026-04-10",
+   "fim": "2026-04-10",
+   "cidade": "Campinas",
+   "uf": "SP",
+   "local": "A definir",
+   "preco": "Consulte a Sympla",
+   "gratuito": false,
+   "link": "https://www.sympla.com.br/evento/eventos-hubstation-2026/3286368"
+  },
+  {
+   "id": "hubstation-sao-paulo-2026",
+   "nome": "Hubstation 2026: São Paulo",
+   "tipo": "Encontro",
+   "organizador": "Hubstation",
+   "publico": [
+    "Síndicos",
+    "Administradoras",
+    "Incorporadoras"
+   ],
+   "inicio": "2026-10-23",
+   "fim": "2026-10-23",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "local": "A definir",
+   "preco": "Consulte a Sympla",
+   "gratuito": false,
+   "link": "https://www.sympla.com.br/evento/eventos-hubstation-2026/3286368"
+  },
+  {
+   "id": "hubstation-rio-2026",
+   "nome": "Hubstation 2026: Rio de Janeiro",
+   "tipo": "Encontro",
+   "organizador": "Hubstation",
+   "publico": [
+    "Síndicos",
+    "Administradoras",
+    "Incorporadoras"
+   ],
+   "inicio": "2026-11-25",
+   "fim": "2026-11-25",
+   "cidade": "Rio de Janeiro",
+   "uf": "RJ",
+   "local": "A definir",
+   "preco": "Consulte a Sympla",
+   "gratuito": false,
+   "link": "https://www.sympla.com.br/evento/eventos-hubstation-2026/3286368"
+  },
+  {
+   "id": "expo-condominio-completo-2026",
+   "nome": "Expo Condomínio Completo 2026",
+   "tipo": "Feira",
+   "organizador": "Realiza Editora & Eventos",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-08-26",
+   "fim": "2026-08-28",
+   "cidade": "Vila Velha",
+   "uf": "ES",
+   "local": "Shopping Vila Velha, Av. Luciano das Neves, 2418",
+   "preco": "Consulte a Sympla",
+   "gratuito": false,
+   "link": "https://www.sympla.com.br/evento/expo-condominio-completo-2026/3493168",
+   "lat": -20.33,
+   "lon": -40.29
+  },
+  {
+   "id": "sindico-experience-rj-2026",
+   "nome": "Síndico Experience 2026",
+   "tipo": "Encontro",
+   "organizador": "Ala",
+   "publico": [
+    "Síndicos"
+   ],
+   "inicio": "2026-05-20",
+   "fim": "2026-05-20",
+   "cidade": "Rio de Janeiro",
+   "uf": "RJ",
+   "local": "Sociedade Hípica Brasileira",
+   "preco": "Não informado",
+   "gratuito": false,
+   "link": "https://www.correiodamanha.com.br/estado-do-rio/2026/05/286825-sindico-experience-2026-reune-tecnologia-seguranca-e-gestao-condominial.html"
+  },
+  {
+   "id": "congresso-direito-condominial-piracicaba-2026",
+   "nome": "1º Congresso de Direito Condominial e Imobiliário de Piracicaba",
+   "tipo": "Congresso",
+   "organizador": "OAB Piracicaba",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-05-27",
+   "fim": "2026-05-27",
+   "cidade": "Piracicaba",
+   "uf": "SP",
+   "local": "Teatro Municipal Erotides de Campos, Engenho Central",
+   "preco": "Consulte a Sympla",
+   "gratuito": false,
+   "link": "https://www.sympla.com.br/evento/1-congresso-de-direito-condominial-e-imobiliario-de-piracicaba/3376114",
+   "lat": -22.73,
+   "lon": -47.65
+  },
+  {
+   "id": "encontro-atlas-schindler-2026",
+   "nome": "Encontro na Atlas Schindler: elevadores e gestão condominial",
+   "tipo": "Encontro",
+   "organizador": "SíndicoLab",
+   "publico": [
+    "Síndicos"
+   ],
+   "inicio": "2026-04-09",
+   "fim": "2026-04-09",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "local": "Atlas Schindler, Av. do Estado, 6116, Cambuci",
+   "preco": "Consulte a Sympla",
+   "gratuito": false,
+   "link": "https://www.sympla.com.br/evento/encontro-exclusivo-na-atlas-schindler-sobre-elevadores-e-gestao-condominial/3366932"
+  },
+  {
+   "id": "cafe-sindicos-planning-blumenau-2026",
+   "nome": "Café Síndicos Planning Blumenau",
+   "tipo": "Encontro",
+   "organizador": "Síndicos Planning",
+   "publico": [
+    "Síndicos"
+   ],
+   "inicio": "2026-05-14",
+   "fim": "2026-05-14",
+   "cidade": "Blumenau",
+   "uf": "SC",
+   "local": "Áurea One Capital | XP, Av. Brasil, 800, Ponta Aguda",
+   "preco": "Inscrição sujeita a confirmação",
+   "gratuito": false,
+   "link": "https://www.sympla.com.br/evento/cafe-sindicos-planing-blumenau/3417778",
+   "lat": -26.92,
+   "lon": -49.07
   }
  ]
 }
