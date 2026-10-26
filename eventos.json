@@ -1,0 +1,1900 @@
+{
+ "meta": {
+  "atualizadoEm": "2026-10-26T11:58:00-03:00",
+  "turno": "manhã",
+  "agenda": "Atualização automática às 7h43 e às 13h43 (horário de Brasília)",
+  "observacao": "Datas, locais e preços conforme os sites oficiais e a imprensa do setor. Confirme sempre no link de inscrição antes de comprar."
+ },
+ "eventos": [
+  {
+   "id": "sindexpo-sp-2027",
+   "nome": "SindExpo São Paulo 2027",
+   "tipo": "Feira",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2027-10-01",
+   "fim": "2027-10-31",
+   "dataAprox": "Outubro de 2027 (data exata a confirmar)",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "local": "A confirmar",
+   "preco": "A confirmar",
+   "gratuito": false,
+   "link": "https://sindexpo.com.br/",
+   "organizador": "SindExpo"
+  },
+  {
+   "id": "sindexpo-poa-2027",
+   "nome": "SindExpo Porto Alegre 2027",
+   "tipo": "Feira",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2027-07-23",
+   "fim": "2027-07-24",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "local": "BarraShoppingSul",
+   "preco": "A confirmar",
+   "gratuito": false,
+   "link": "https://sindexpo.com.br/",
+   "organizador": "SindExpo"
+  },
+  {
+   "id": "sindday-2027",
+   "nome": "SindDay 2027",
+   "tipo": "Encontro",
+   "publico": [
+    "Síndicos"
+   ],
+   "inicio": "2027-06-04",
+   "fim": "2027-06-04",
+   "cidade": "Florianópolis",
+   "uf": "SC",
+   "local": "Majestic Palace Hotel",
+   "preco": "Consulte a Sympla",
+   "gratuito": false,
+   "link": "https://www.sympla.com.br/evento/sindday-2027/3486804"
+  },
+  {
+   "id": "fesindico-aracaju-2027",
+   "nome": "Fesíndico Aracaju 2027",
+   "tipo": "Feira",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2027-05-14",
+   "fim": "2027-05-15",
+   "cidade": "Aracaju",
+   "uf": "SE",
+   "local": "Centro de Convenções AM Malls Sergipe",
+   "preco": "A confirmar",
+   "gratuito": false,
+   "link": "https://www.fesindico.com.br/aracaju",
+   "organizador": "Fesíndico"
+  },
+  {
+   "id": "sindexpo-bsb-2027",
+   "nome": "SindExpo Brasília 2027",
+   "tipo": "Feira",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2027-04-01",
+   "fim": "2027-04-30",
+   "dataAprox": "Abril de 2027 (data exata a confirmar)",
+   "cidade": "Brasília",
+   "uf": "DF",
+   "local": "A confirmar",
+   "preco": "A confirmar",
+   "gratuito": false,
+   "link": "https://sindexpo.com.br/",
+   "organizador": "SindExpo"
+  },
+  {
+   "id": "condomais-2027",
+   "nome": "Condo+ 2027: Feira de Segurança, Manutenção e Serviços",
+   "tipo": "Feira",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2027-03-09",
+   "fim": "2027-03-10",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "local": "Centro de Eventos São Luís",
+   "preco": "Credenciamento gratuito para profissionais",
+   "gratuito": true,
+   "link": "https://www.feiracondomais.com.br/"
+  },
+  {
+   "id": "condo-fest-2026",
+   "nome": "Condo Fest",
+   "tipo": "Encontro",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-12-08",
+   "fim": "2026-12-08",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "local": "A confirmar",
+   "preco": "Consulte o site",
+   "gratuito": false,
+   "link": "https://secovi.com.br/evento/condo-fest/"
+  },
+  {
+   "id": "inovacx-2026",
+   "nome": "2º InovaCX: Incorporação e Administração Imobiliária",
+   "tipo": "Congresso",
+   "publico": [
+    "Incorporadoras",
+    "Administradoras"
+   ],
+   "inicio": "2026-12-01",
+   "fim": "2026-12-01",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "local": "A confirmar",
+   "preco": "Consulte o site",
+   "gratuito": false,
+   "link": "https://secovi.com.br/evento/2o-inovacx-incorporacao-e-administracao-imobiliaria/"
+  },
+  {
+   "id": "festa-sindico-proempi-2026",
+   "nome": "10ª Festa do Síndico Proempi",
+   "tipo": "Encontro",
+   "publico": [
+    "Síndicos"
+   ],
+   "inicio": "2026-11-30",
+   "fim": "2026-11-30",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "local": "A confirmar",
+   "preco": "Consulte o site",
+   "gratuito": false,
+   "link": "https://secovi.com.br/evento/10a-festa-do-sindico-proempi/"
+  },
+  {
+   "id": "dia-do-sindico-bh-2026",
+   "nome": "22º Dia do Síndico",
+   "tipo": "Congresso",
+   "publico": [
+    "Síndicos"
+   ],
+   "inicio": "2026-11-28",
+   "fim": "2026-11-28",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "local": "A confirmar",
+   "preco": "Inscrições abertas, vagas limitadas",
+   "gratuito": false,
+   "link": "https://lp.jornaldosindicobh.com.br/dia-do-s%C3%ADndico-2026"
+  },
+  {
+   "id": "cafe-sindico-sorocaba-2026",
+   "nome": "Café com Síndico Sorocaba",
+   "tipo": "Encontro",
+   "publico": [
+    "Síndicos"
+   ],
+   "inicio": "2026-11-26",
+   "fim": "2026-11-26",
+   "cidade": "Sorocaba",
+   "uf": "SP",
+   "local": "Sorocaba Park Hotel",
+   "preco": "Consulte o organizador",
+   "gratuito": false,
+   "link": "https://cafecomsindico.com/eventos"
+  },
+  {
+   "id": "cafe-expo-sindico-cipa-nov-2026",
+   "nome": "Café Expo Síndico CIPA",
+   "tipo": "Encontro",
+   "publico": [
+    "Síndicos"
+   ],
+   "inicio": "2026-11-26",
+   "fim": "2026-11-26",
+   "cidade": "Rio de Janeiro",
+   "uf": "RJ",
+   "local": "A confirmar",
+   "preco": "A confirmar",
+   "gratuito": false,
+   "link": "https://www.sindiconet.com.br/informese/eventos-condominio-crescimento-agenda-2026-dil-melo-noticias-eventos"
+  },
+  {
+   "id": "condo-meeting-campinas-2026",
+   "nome": "Webinar Condo Meeting Campinas: contabilidade na reforma tributária",
+   "tipo": "Workshop",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-11-19",
+   "fim": "2026-11-19",
+   "cidade": "Campinas",
+   "uf": "SP",
+   "local": "Online",
+   "preco": "Consulte o site",
+   "gratuito": false,
+   "link": "https://secovi.com.br/evento/webinar-condo-meeting-de-campinas-procedimentos-contabeis/"
+  },
+  {
+   "id": "paella-sindico-abcd-2026",
+   "nome": "Paella Caipira do Síndico ABCD",
+   "tipo": "Encontro",
+   "publico": [
+    "Síndicos"
+   ],
+   "inicio": "2026-11-14",
+   "fim": "2026-11-14",
+   "cidade": "São Caetano do Sul",
+   "uf": "SP",
+   "local": "Samyr Buffet Espaço Goiás, R. Oriente, 173",
+   "preco": "Consulte o organizador",
+   "gratuito": false,
+   "link": "https://cafecomsindico.com/eventos"
+  },
+  {
+   "id": "porter-summit-2026",
+   "nome": "Porter Summit 2026: Sem Limites, Infinitas Possibilidades",
+   "tipo": "Summit",
+   "organizador": "Porter",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-11-14",
+   "fim": "2026-11-14",
+   "cidade": "São José",
+   "uf": "SC",
+   "local": "Arena Opus, SC-281, 4.000",
+   "preco": "Passaporte e Mega Power, valores na Sympla",
+   "gratuito": false,
+   "link": "https://www.sympla.com.br/evento/porter-summit-2026-sem-limites-infinitas-possibilidades/3153588",
+   "lat": -27.6,
+   "lon": -48.63
+  },
+  {
+   "id": "enacex-rj-2026",
+   "nome": "Enacex RJ",
+   "tipo": "Encontro",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-11-13",
+   "fim": "2026-11-13",
+   "cidade": "Rio de Janeiro",
+   "uf": "RJ",
+   "local": "A confirmar",
+   "preco": "A confirmar",
+   "gratuito": false,
+   "link": "https://www.sindiconet.com.br/informese/eventos-condominio-crescimento-agenda-2026-dil-melo-noticias-eventos"
+  },
+  {
+   "id": "sindexpo-day-itapema-2026",
+   "nome": "SindExpo Day Itapema",
+   "tipo": "Encontro",
+   "publico": [
+    "Síndicos"
+   ],
+   "inicio": "2026-11-12",
+   "fim": "2026-11-12",
+   "cidade": "Itapema",
+   "uf": "SC",
+   "local": "Indaiá Eventos",
+   "preco": "Só para convidados (lista de espera)",
+   "gratuito": false,
+   "link": "https://fila.sympla.com.br/list/30951",
+   "organizador": "SindExpo"
+  },
+  {
+   "id": "momento-ml-zona-sul-2026",
+   "nome": "Momento Síndico ML Zona Sul",
+   "tipo": "Encontro",
+   "publico": [
+    "Síndicos"
+   ],
+   "inicio": "2026-11-12",
+   "fim": "2026-11-12",
+   "cidade": "Rio de Janeiro",
+   "uf": "RJ",
+   "local": "A confirmar",
+   "preco": "A confirmar",
+   "gratuito": false,
+   "link": "https://www.sindiconet.com.br/informese/eventos-condominio-crescimento-agenda-2026-dil-melo-noticias-eventos"
+  },
+  {
+   "id": "condohuby-seguranca-2026",
+   "nome": "Workshop: Plano de Segurança Condominial",
+   "tipo": "Workshop",
+   "organizador": "SíndicoLab / CondoHuby",
+   "publico": [
+    "Síndicos"
+   ],
+   "inicio": "2026-11-12",
+   "fim": "2026-11-12",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "local": "CondoHuby, Av. das Nações Unidas, 11.633",
+   "preco": "Gratuito (vagas limitadas)",
+   "gratuito": true,
+   "link": "https://www.sympla.com.br/evento/plano-de-seguranca-condominial---com-eytan-magal/3625688"
+  },
+  {
+   "id": "conexao-imobiliaria-secovi-2026",
+   "nome": "Conexão Imobiliária Secovi-SP 2026",
+   "tipo": "Congresso",
+   "publico": [
+    "Incorporadoras",
+    "Administradoras"
+   ],
+   "inicio": "2026-11-10",
+   "fim": "2026-11-10",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "local": "A confirmar",
+   "preco": "Consulte o site",
+   "gratuito": false,
+   "link": "https://secovi.com.br/eventos/"
+  },
+  {
+   "id": "cafe-sindico-praia-grande-2026",
+   "nome": "Café com Síndico Praia Grande",
+   "tipo": "Encontro",
+   "publico": [
+    "Síndicos"
+   ],
+   "inicio": "2026-11-05",
+   "fim": "2026-11-05",
+   "cidade": "Praia Grande",
+   "uf": "SP",
+   "local": "Entre Nós Espaço de Eventos, R. Xavantes, 922",
+   "preco": "Consulte o organizador",
+   "gratuito": false,
+   "link": "https://cafecomsindico.com/eventos"
+  },
+  {
+   "id": "jornada-porter-jornada-porter-itapema-2026",
+   "nome": "Jornada Porter Itapema",
+   "tipo": "Encontro",
+   "organizador": "Porter",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-10-30",
+   "fim": "2026-10-30",
+   "cidade": "Itapema",
+   "uf": "SC",
+   "local": "Jornada Porter Itapema by Sicredi",
+   "preco": "Consulte a página de ingressos",
+   "gratuito": false,
+   "link": "https://www.sympla.com.br/evento/2026-jornada-porter-itapema/3570540"
+  },
+  {
+   "id": "condohuby-30anos-2026",
+   "nome": "Workshop: Vencendo as dificuldades da gestão condominial há 30 anos",
+   "tipo": "Workshop",
+   "organizador": "SíndicoLab / CondoHuby",
+   "publico": [
+    "Síndicos"
+   ],
+   "inicio": "2026-10-30",
+   "fim": "2026-10-30",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "local": "CondoHuby, Av. das Nações Unidas, 11.633",
+   "preco": "Gratuito (vagas limitadas)",
+   "gratuito": true,
+   "link": "https://www.sympla.com.br/evento/vencendo-as-dificuldades-da-gestao-condominial-ha-30-anos/3625665"
+  },
+  {
+   "id": "congresso-juridico-construcao-2026",
+   "nome": "14º Congresso Jurídico da Construção",
+   "tipo": "Congresso",
+   "publico": [
+    "Incorporadoras"
+   ],
+   "inicio": "2026-10-28",
+   "fim": "2026-10-28",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "local": "A confirmar",
+   "preco": "Consulte o site",
+   "gratuito": false,
+   "link": "https://secovi.com.br/evento/14a-edicao-do-congresso-juridico-da-construcao/"
+  },
+  {
+   "id": "condo-meeting-supercondominios",
+   "nome": "Condo Meeting: reforma tributária e governança em supercondomínios",
+   "tipo": "Encontro",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-10-27",
+   "fim": "2026-10-27",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "local": "Secovi-SP",
+   "preco": "Consulte o site",
+   "gratuito": false,
+   "link": "https://secovi.com.br/evento/condo-meeting-reforma-tributaria-e-governanca-em-supercondominios/"
+  },
+  {
+   "id": "secovi-vpitu-2026",
+   "nome": "Seminário Jurídico de Incorporação e Terrenos Urbanos",
+   "tipo": "Seminário",
+   "publico": [
+    "Incorporadoras"
+   ],
+   "inicio": "2026-10-26",
+   "fim": "2026-10-26",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "local": "Secovi-SP",
+   "preco": "Consulte o site",
+   "gratuito": false,
+   "link": "https://secovi.com.br/evento/seminario-juridico-da-vpitu-secovi-sp-2/"
+  },
+  {
+   "id": "condoexpert-pr-2026",
+   "nome": "CondoExpert Paraná 2026",
+   "tipo": "Feira",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-10-23",
+   "fim": "2026-10-23",
+   "cidade": "Curitiba",
+   "uf": "PR",
+   "local": "Centro de Eventos Positivo, Parque Barigui",
+   "preco": "R$ 59",
+   "gratuito": false,
+   "link": "https://www.jacredenciei.com.br/e/condoexpertparana2026"
+  },
+  {
+   "id": "expo-sindico-copa-2026",
+   "nome": "Expo Síndico Copacabana Palace (13º Congresso APSA)",
+   "tipo": "Congresso",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-10-22",
+   "fim": "2026-10-22",
+   "cidade": "Rio de Janeiro",
+   "uf": "RJ",
+   "local": "Hotel Copacabana Palace",
+   "preco": "Consulte a Sympla",
+   "gratuito": false,
+   "link": "https://www.sympla.com.br/evento/expo-sindico-copacabana-palace-13-congresso-apsa/3316729"
+  },
+  {
+   "id": "arena-condoexpo-sp-2026",
+   "nome": "Arena Condoexpo.SP (SegSummit)",
+   "tipo": "Feira",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-10-21",
+   "fim": "2026-10-21",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "local": "Distrito Anhembi, Sala 105",
+   "preco": "Gratuito com inscrição",
+   "gratuito": true,
+   "link": "https://www.sympla.com.br/evento/arena-condo-expo-sp/3610631"
+  },
+  {
+   "id": "meeting-condo-station-2026",
+   "nome": "6º Meeting Condo Station",
+   "tipo": "Encontro",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-10-16",
+   "fim": "2026-10-16",
+   "cidade": "Curitiba",
+   "uf": "PR",
+   "local": "FIEP Campus da Indústria",
+   "preco": "Consulte o formulário",
+   "gratuito": false,
+   "link": "https://sindico.net/lxmtr"
+  },
+  {
+   "id": "congresso-mercado-bc-2026",
+   "nome": "II Congresso do Mercado Condominial",
+   "tipo": "Congresso",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-10-15",
+   "fim": "2026-10-16",
+   "cidade": "Balneário Camboriú",
+   "uf": "SC",
+   "local": "Hotel Mercure Internacional",
+   "preco": "Consulte a Sympla",
+   "gratuito": false,
+   "link": "https://www.sympla.com.br/evento/ii-congresso-do-mercado-condominial-de-balneario-camboriu/3566977"
+  },
+  {
+   "id": "resing-2026",
+   "nome": "Resing: Reencontro de Síndicos e Gestores da PB",
+   "tipo": "Encontro",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-10-15",
+   "fim": "2026-10-16",
+   "cidade": "João Pessoa",
+   "uf": "PB",
+   "local": "A confirmar",
+   "preco": "A confirmar",
+   "gratuito": false,
+   "link": "https://www.condominiointerativo.com.br/noticia/4713/noticias/eventos-condominiais-movimentam-pe-pb-e-rn-no-segundo-semestre-de-2026.html"
+  },
+  {
+   "id": "jornada-porter-jornada-porter-caxias-do-sul-2026",
+   "nome": "Jornada Porter Caxias do Sul",
+   "tipo": "Encontro",
+   "organizador": "Porter",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-10-14",
+   "fim": "2026-10-14",
+   "cidade": "Caxias do Sul",
+   "uf": "RS",
+   "local": "Consulte a página da Porter",
+   "preco": "Consulte a página de ingressos",
+   "gratuito": false,
+   "link": "https://porter.com.br/jornada/",
+   "lat": -29.17,
+   "lon": -51.18
+  },
+  {
+   "id": "jornada-porter-jornada-porter-barreiras-2026",
+   "nome": "Jornada Porter Barreiras",
+   "tipo": "Encontro",
+   "organizador": "Porter",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-10-08",
+   "fim": "2026-10-08",
+   "cidade": "Barreiras",
+   "uf": "BA",
+   "local": "Consulte a página da Porter",
+   "preco": "Consulte a página de ingressos",
+   "gratuito": false,
+   "link": "https://porter.com.br/jornada/",
+   "lat": -12.15,
+   "lon": -45.0
+  },
+  {
+   "id": "jornada-porter-jornada-porter-porto-alegre-2026",
+   "nome": "Jornada Porter Porto Alegre",
+   "tipo": "Encontro",
+   "organizador": "Porter",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-10-06",
+   "fim": "2026-10-06",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "local": "Consulte a página da Porter",
+   "preco": "Consulte a página de ingressos",
+   "gratuito": false,
+   "link": "https://www.blueticket.com.br/evento/41959"
+  },
+  {
+   "id": "congresso-gestao-pe-2026",
+   "nome": "V Congresso de Gestão Condominial (Secovi-PE)",
+   "tipo": "Congresso",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-10-02",
+   "fim": "2026-10-02",
+   "cidade": "Recife",
+   "uf": "PE",
+   "local": "Teatro RioMar",
+   "preco": "R$ 300 (grátis para associados)",
+   "gratuito": false,
+   "link": "https://secovi-pe.com.br/cursos"
+  },
+  {
+   "id": "invest-sindicos-belem-2026",
+   "nome": "3º Congresso Invest Síndicos & Feira de Negócios",
+   "tipo": "Congresso",
+   "publico": [
+    "Síndicos"
+   ],
+   "inicio": "2026-09-26",
+   "fim": "2026-09-26",
+   "cidade": "Belém",
+   "uf": "PA",
+   "local": "Hotel Bristol Marambaia",
+   "preco": "A confirmar",
+   "gratuito": false,
+   "link": "https://diariodopara.com.br/noticias/congresso-em-belem-reune-sindicos-gestores-e-empreendedores-condominiais/"
+  },
+  {
+   "id": "fesindico-recife-2026",
+   "nome": "16º Fesíndico Recife",
+   "tipo": "Feira",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-09-25",
+   "fim": "2026-09-26",
+   "cidade": "Recife",
+   "uf": "PE",
+   "local": "Recife Expo Center",
+   "preco": "Consulte o site",
+   "gratuito": false,
+   "link": "https://www.fesindico.com.br/recife",
+   "organizador": "Fesíndico"
+  },
+  {
+   "id": "feira-encontro-rio-2026",
+   "nome": "Feira de Condomínios & Encontro de Síndicos",
+   "tipo": "Feira",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-09-24",
+   "fim": "2026-09-25",
+   "cidade": "Rio de Janeiro",
+   "uf": "RJ",
+   "local": "ExpoRio Cidade Nova",
+   "preco": "Gratuito com inscrição + 1 kg de alimento",
+   "gratuito": true,
+   "link": "https://www.feiraeencontro.com.br/"
+  },
+  {
+   "id": "jornada-porter-jornada-porter-santa-maria-2026",
+   "nome": "Jornada Porter Santa Maria",
+   "tipo": "Encontro",
+   "organizador": "Porter",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-09-23",
+   "fim": "2026-09-23",
+   "cidade": "Santa Maria",
+   "uf": "RS",
+   "local": "Consulte a página da Porter",
+   "preco": "Consulte a página de ingressos",
+   "gratuito": false,
+   "link": "https://porter.com.br/jornada/",
+   "lat": -29.69,
+   "lon": -53.81
+  },
+  {
+   "id": "workshop-avcb-natal-2026",
+   "nome": "Workshop AVCB",
+   "tipo": "Workshop",
+   "publico": [
+    "Síndicos"
+   ],
+   "inicio": "2026-09-19",
+   "fim": "2026-09-19",
+   "cidade": "Natal",
+   "uf": "RN",
+   "local": "A confirmar",
+   "preco": "A confirmar",
+   "gratuito": false,
+   "link": "https://www.condominiointerativo.com.br/noticia/4713/noticias/eventos-condominiais-movimentam-pe-pb-e-rn-no-segundo-semestre-de-2026.html"
+  },
+  {
+   "id": "sindexpo-sp-2026",
+   "nome": "SindExpo São Paulo 2026",
+   "tipo": "Feira",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-09-18",
+   "fim": "2026-09-19",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "local": "Centro de Eventos São Luís",
+   "preco": "Palestras gratuitas",
+   "gratuito": true,
+   "link": "https://www.sympla.com.br/evento/sindexpo-sao-paulo-2026-feira-de-negocios-para-sindicos-e-condominios/3203744",
+   "organizador": "SindExpo"
+  },
+  {
+   "id": "jornada-porter-jornada-porter-petropolis-2026",
+   "nome": "Jornada Porter Petrópolis",
+   "tipo": "Encontro",
+   "organizador": "Porter",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-09-15",
+   "fim": "2026-09-15",
+   "cidade": "Petrópolis",
+   "uf": "RJ",
+   "local": "Consulte a página da Porter",
+   "preco": "Consulte a página de ingressos",
+   "gratuito": false,
+   "link": "https://porter.com.br/jornada/",
+   "lat": -22.51,
+   "lon": -43.18
+  },
+  {
+   "id": "gabor-recife-2026",
+   "nome": "Gábor pelo Brasil: 2ª edição Recife",
+   "tipo": "Encontro",
+   "publico": [
+    "Síndicos"
+   ],
+   "inicio": "2026-09-12",
+   "fim": "2026-09-12",
+   "cidade": "Recife",
+   "uf": "PE",
+   "local": "A confirmar",
+   "preco": "Consulte a Sympla",
+   "gratuito": false,
+   "link": "https://www.sympla.com.br/evento/gabor-pelo-brasil-by-ponte-gestao-e-dl-gestao---2-edicao-recife/3285599"
+  },
+  {
+   "id": "conasi-salvador-2026",
+   "nome": "Conasi Salvador 2026",
+   "tipo": "Congresso",
+   "organizador": "Conasi",
+   "publico": [
+    "Administradoras",
+    "Síndicos"
+   ],
+   "inicio": "2026-09-12",
+   "fim": "2026-09-12",
+   "cidade": "Salvador",
+   "uf": "BA",
+   "local": "Gran Hotel Stella Maris",
+   "preco": "Consulte a Sympla",
+   "gratuito": false,
+   "link": "https://www.sympla.com.br/evento/conasi-salvador-2026-congresso-nacional-de-administradoras-e-sindicos-pelo-brasil/3404407"
+  },
+  {
+   "id": "jornada-porter-jornada-porter-passo-fundo-2026",
+   "nome": "Jornada Porter Passo Fundo",
+   "tipo": "Encontro",
+   "organizador": "Porter",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-09-09",
+   "fim": "2026-09-09",
+   "cidade": "Passo Fundo",
+   "uf": "RS",
+   "local": "Consulte a página da Porter",
+   "preco": "Consulte a página de ingressos",
+   "gratuito": false,
+   "link": "https://porter.com.br/jornada/",
+   "lat": -28.26,
+   "lon": -52.41
+  },
+  {
+   "id": "jornada-porter-jornada-porter-belo-horizonte-2026",
+   "nome": "Jornada Porter Belo Horizonte",
+   "tipo": "Encontro",
+   "organizador": "Porter",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-09-01",
+   "fim": "2026-09-01",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "local": "Consulte a página da Porter",
+   "preco": "Consulte a página de ingressos",
+   "gratuito": false,
+   "link": "https://porter.com.br/jornada/"
+  },
+  {
+   "id": "forum-gestao-sc-2026",
+   "nome": "II Fórum Estadual de Gestão Condominial",
+   "tipo": "Seminário",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-08-27",
+   "fim": "2026-08-27",
+   "cidade": "Itapema",
+   "uf": "SC",
+   "local": "Sede Regional Sicredi Vale Litoral",
+   "preco": "Consulte a Sympla",
+   "gratuito": false,
+   "link": "https://www.sympla.com.br/evento/2-forum-catarinense-da-gestao-condominial-patrimonio-engenharia-seguranca-e-futuro/3529256"
+  },
+  {
+   "id": "jornada-porter-jornada-porter-criciuma-2026",
+   "nome": "Jornada Porter Criciúma",
+   "tipo": "Encontro",
+   "organizador": "Porter",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-08-25",
+   "fim": "2026-08-25",
+   "cidade": "Criciúma",
+   "uf": "SC",
+   "local": "Consulte a página da Porter",
+   "preco": "Consulte a página de ingressos",
+   "gratuito": false,
+   "link": "https://porter.com.br/jornada/"
+  },
+  {
+   "id": "next-2026",
+   "nome": "Next 2026 (Superlógica)",
+   "tipo": "Congresso",
+   "publico": [
+    "Administradoras",
+    "Síndicos"
+   ],
+   "inicio": "2026-08-24",
+   "fim": "2026-08-25",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "local": "Distrito Anhembi",
+   "preco": "Pago, valores no site",
+   "gratuito": false,
+   "link": "https://www.sympla.com.br/evento/superlogica-next-2026/3339175"
+  },
+  {
+   "id": "s10-recife-2026",
+   "nome": "S10: Síndicos de Excelência",
+   "tipo": "Encontro",
+   "publico": [
+    "Síndicos"
+   ],
+   "inicio": "2026-08-22",
+   "fim": "2026-08-22",
+   "cidade": "Recife",
+   "uf": "PE",
+   "local": "A confirmar",
+   "preco": "A confirmar",
+   "gratuito": false,
+   "link": "https://forms.gle/DbUGq39KUyFZiNCg7"
+  },
+  {
+   "id": "unisindico-2026",
+   "nome": "18º Unisíndico São Paulo",
+   "tipo": "Congresso",
+   "publico": [
+    "Síndicos"
+   ],
+   "inicio": "2026-08-22",
+   "fim": "2026-08-22",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "local": "Club Hom's, Av. Paulista, 735",
+   "preco": "Gratuito para síndicos",
+   "gratuito": true,
+   "link": "https://unisindicoeventos.com.br/inscricoes-dos-sindicos/"
+  },
+  {
+   "id": "conasi-natal-2026",
+   "nome": "Conasi New Sun Natal 2026",
+   "tipo": "Congresso",
+   "organizador": "Conasi",
+   "publico": [
+    "Administradoras",
+    "Síndicos"
+   ],
+   "inicio": "2026-08-22",
+   "fim": "2026-08-22",
+   "cidade": "Natal",
+   "uf": "RN",
+   "local": "Praiamar Arena Hotel",
+   "preco": "Consulte a Sympla",
+   "gratuito": false,
+   "link": "https://www.sympla.com.br/evento/conasi-new-sun-natal-2026-congresso-nacional-de-administradoras-e-sindicos-pelo-brasil/3217527"
+  },
+  {
+   "id": "sindexperience-2026",
+   "nome": "SindExperience",
+   "tipo": "Feira",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-08-21",
+   "fim": "2026-08-22",
+   "cidade": "Santos",
+   "uf": "SP",
+   "local": "Santos Convention Center",
+   "preco": "Gratuito com inscrição",
+   "gratuito": true,
+   "link": "https://www.sindexperience.com.br/"
+  },
+  {
+   "id": "cafe-sindico-recife-2026",
+   "nome": "2º Café com o Síndico",
+   "tipo": "Encontro",
+   "publico": [
+    "Síndicos"
+   ],
+   "inicio": "2026-08-15",
+   "fim": "2026-08-15",
+   "cidade": "Recife",
+   "uf": "PE",
+   "local": "A confirmar",
+   "preco": "Consulte a Sympla",
+   "gratuito": false,
+   "link": "https://www.sympla.com.br/evento/2-cafe-com-o-sindico/3467960"
+  },
+  {
+   "id": "diferencie-se-2026",
+   "nome": "Diferencie-se: 3º Ciclo de Palestras para Gestores Condominiais",
+   "tipo": "Workshop",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-08-15",
+   "fim": "2026-08-15",
+   "cidade": "Caruaru",
+   "uf": "PE",
+   "local": "A confirmar",
+   "preco": "Consulte a Sympla",
+   "gratuito": false,
+   "link": "https://www.sympla.com.br/evento/diferencie-se---3-ciclo-de-palestras-para-gestores-condominiais/3491848"
+  },
+  {
+   "id": "conasi-rio-2026",
+   "nome": "Conasi Confiança Rio de Janeiro 2026",
+   "tipo": "Congresso",
+   "organizador": "Conasi",
+   "publico": [
+    "Administradoras",
+    "Síndicos"
+   ],
+   "inicio": "2026-08-14",
+   "fim": "2026-08-14",
+   "cidade": "Rio de Janeiro",
+   "uf": "RJ",
+   "local": "Shopping Downtown, Barra da Tijuca",
+   "preco": "Consulte a Sympla",
+   "gratuito": false,
+   "link": "https://www.sympla.com.br/evento/conasi-rio-de-janeiro-2026-congresso-nacional-de-administradoras-e-sindicos-pelo-brasil/3178640"
+  },
+  {
+   "id": "group-day-2026",
+   "nome": "Group Day 2026",
+   "tipo": "Congresso",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-08-13",
+   "fim": "2026-08-13",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "local": "BeFly Minascentro",
+   "preco": "Pago (Pass e VIP)",
+   "gratuito": false,
+   "link": "https://diariodocomercio.com.br/eventos/group-day-2026/"
+  },
+  {
+   "id": "jornada-porter-jornada-porter-ribeirao-preto-2026",
+   "nome": "Jornada Porter Ribeirão Preto",
+   "tipo": "Encontro",
+   "organizador": "Porter",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-08-11",
+   "fim": "2026-08-11",
+   "cidade": "Ribeirão Preto",
+   "uf": "SP",
+   "local": "Consulte a página da Porter",
+   "preco": "Consulte a página de ingressos",
+   "gratuito": false,
+   "link": "https://porter.com.br/jornada/"
+  },
+  {
+   "id": "konceito-summit-2026",
+   "nome": "Konceito Summit 2026",
+   "tipo": "Summit",
+   "publico": [
+    "Síndicos"
+   ],
+   "inicio": "2026-08-08",
+   "fim": "2026-08-08",
+   "cidade": "Natal",
+   "uf": "RN",
+   "local": "A confirmar",
+   "preco": "A confirmar",
+   "gratuito": false,
+   "link": "https://forms.gle/v5fUBSQAzVaXFgkD6"
+  },
+  {
+   "id": "jornada-porter-jornada-porter-aracaju-2026",
+   "nome": "Jornada Porter Aracaju",
+   "tipo": "Encontro",
+   "organizador": "Porter",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-08-04",
+   "fim": "2026-08-04",
+   "cidade": "Aracaju",
+   "uf": "SE",
+   "local": "Consulte a página da Porter",
+   "preco": "Consulte a página de ingressos",
+   "gratuito": false,
+   "link": "https://porter.com.br/jornada/"
+  },
+  {
+   "id": "jornada-porter-jornada-porter-fortaleza-2026",
+   "nome": "Jornada Porter Fortaleza",
+   "tipo": "Encontro",
+   "organizador": "Porter",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-07-29",
+   "fim": "2026-07-29",
+   "cidade": "Fortaleza",
+   "uf": "CE",
+   "local": "Consulte a página da Porter",
+   "preco": "Consulte a página de ingressos",
+   "gratuito": false,
+   "link": "https://porter.com.br/jornada/"
+  },
+  {
+   "id": "sindexpo-poa-2026",
+   "nome": "SindExpo Porto Alegre 2026",
+   "tipo": "Feira",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-07-24",
+   "fim": "2026-07-25",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "local": "Centro de Eventos do BarraShoppingSul",
+   "preco": "Consulte o site",
+   "gratuito": false,
+   "link": "https://sindexpo.com.br/",
+   "organizador": "SindExpo"
+  },
+  {
+   "id": "jornada-porter-jornada-porter-florianopolis-2026",
+   "nome": "Jornada Porter Florianópolis",
+   "tipo": "Encontro",
+   "organizador": "Porter",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-07-16",
+   "fim": "2026-07-16",
+   "cidade": "Florianópolis",
+   "uf": "SC",
+   "local": "Square SC, Rod. José Carlos Daux, 5500",
+   "preco": "Consulte a página de ingressos",
+   "gratuito": false,
+   "link": "https://www.sympla.com.br/evento/2026-jornada-porter-florianopolis/3229101"
+  },
+  {
+   "id": "jornada-porter-jornada-porter-manaus-2026",
+   "nome": "Jornada Porter Manaus",
+   "tipo": "Encontro",
+   "organizador": "Porter",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-07-07",
+   "fim": "2026-07-07",
+   "cidade": "Manaus",
+   "uf": "AM",
+   "local": "Hotel Adrianópolis All Suítes",
+   "preco": "Consulte a página de ingressos",
+   "gratuito": false,
+   "link": "https://www.sympla.com.br/evento/2026-jornada-porter-manaus/3229323"
+  },
+  {
+   "id": "encontro-recreio-zirtaeb-2026",
+   "nome": "Encontro de Síndicos Recreio (Zirtaeb)",
+   "tipo": "Encontro",
+   "publico": [
+    "Síndicos"
+   ],
+   "inicio": "2026-07-02",
+   "fim": "2026-07-02",
+   "cidade": "Rio de Janeiro",
+   "uf": "RJ",
+   "local": "Recreio dos Bandeirantes",
+   "preco": "A confirmar",
+   "gratuito": false,
+   "link": "https://www.sindiconet.com.br/informese/eventos-condominio-crescimento-agenda-2026-dil-melo-noticias-eventos"
+  },
+  {
+   "id": "jornada-porter-jornada-porter-sao-paulo-2026",
+   "nome": "Jornada Porter São Paulo",
+   "tipo": "Encontro",
+   "organizador": "Porter",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-07-01",
+   "fim": "2026-07-01",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "local": "Rua Olimpíadas, 205",
+   "preco": "Consulte a página de ingressos",
+   "gratuito": false,
+   "link": "https://www.sympla.com.br/evento/2026-jornada-porter-sao-paulo/3229315"
+  },
+  {
+   "id": "jornada-porter-jornada-porter-presidente-prudente-2026",
+   "nome": "Jornada Porter Presidente Prudente",
+   "tipo": "Encontro",
+   "organizador": "Porter",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-06-23",
+   "fim": "2026-06-23",
+   "cidade": "Presidente Prudente",
+   "uf": "SP",
+   "local": "Consulte a página da Porter",
+   "preco": "Consulte a página de ingressos",
+   "gratuito": false,
+   "link": "https://www.sympla.com.br/evento/2026-jornada-porter-presidente-prudente/3229313",
+   "lat": -22.12,
+   "lon": -51.39
+  },
+  {
+   "id": "enacon-2026",
+   "nome": "Enacon 2026: Encontro Nacional das Administradoras",
+   "tipo": "Congresso",
+   "publico": [
+    "Administradoras",
+    "Síndicos"
+   ],
+   "inicio": "2026-06-17",
+   "fim": "2026-06-19",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "local": "Millenium Centro de Convenções (Secovi-SP)",
+   "preco": "Pago, valores na Sympla",
+   "gratuito": false,
+   "link": "https://www.sympla.com.br/evento/enacon-2026---encontro-nacional-das-administradoras-de-condomInios/3291901"
+  },
+  {
+   "id": "jornada-porter-jornada-porter-teresina-2026",
+   "nome": "Jornada Porter Teresina",
+   "tipo": "Encontro",
+   "organizador": "Porter",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-06-16",
+   "fim": "2026-06-16",
+   "cidade": "Teresina",
+   "uf": "PI",
+   "local": "Consulte a página da Porter",
+   "preco": "Consulte a página de ingressos",
+   "gratuito": false,
+   "link": "https://porter.com.br/jornada/"
+  },
+  {
+   "id": "entresindicos-barra-2026",
+   "nome": "EntreSíndicos Barra",
+   "tipo": "Encontro",
+   "publico": [
+    "Síndicos"
+   ],
+   "inicio": "2026-06-09",
+   "fim": "2026-06-09",
+   "cidade": "Rio de Janeiro",
+   "uf": "RJ",
+   "local": "Barra da Tijuca",
+   "preco": "A confirmar",
+   "gratuito": false,
+   "link": "https://www.sindiconet.com.br/informese/eventos-condominio-crescimento-agenda-2026-dil-melo-noticias-eventos"
+  },
+  {
+   "id": "jornada-porter-jornada-porter-cuiaba-2026",
+   "nome": "Jornada Porter Cuiabá",
+   "tipo": "Encontro",
+   "organizador": "Porter",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-06-09",
+   "fim": "2026-06-09",
+   "cidade": "Cuiabá",
+   "uf": "MT",
+   "local": "Adriano Guedes Eventos e Buffet",
+   "preco": "Consulte a página de ingressos",
+   "gratuito": false,
+   "link": "https://www.sympla.com.br/evento/2026-jornada-porter-cuiaba/3229123"
+  },
+  {
+   "id": "entresindicos-tijuca-2026",
+   "nome": "EntreSíndicos Tijuca",
+   "tipo": "Encontro",
+   "publico": [
+    "Síndicos"
+   ],
+   "inicio": "2026-06-02",
+   "fim": "2026-06-02",
+   "cidade": "Rio de Janeiro",
+   "uf": "RJ",
+   "local": "Tijuca",
+   "preco": "A confirmar",
+   "gratuito": false,
+   "link": "https://www.sindiconet.com.br/informese/eventos-condominio-crescimento-agenda-2026-dil-melo-noticias-eventos"
+  },
+  {
+   "id": "conecta-bsb-2026",
+   "nome": "Conecta Síndicos Brasília 2026",
+   "tipo": "Feira",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-05-29",
+   "fim": "2026-05-30",
+   "cidade": "Brasília",
+   "uf": "DF",
+   "local": "CDL Brasília, SIA",
+   "preco": "Gratuito",
+   "gratuito": true,
+   "link": "https://www.sympla.com.br/evento/conecta-sindicos-brasilia-2026/3305402"
+  },
+  {
+   "id": "expomarket-fortaleza-2026",
+   "nome": "Expomarket Condomínios 2026",
+   "tipo": "Feira",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-05-28",
+   "fim": "2026-05-29",
+   "cidade": "Fortaleza",
+   "uf": "CE",
+   "local": "Shopping RioMar Fortaleza",
+   "preco": "Gratuito",
+   "gratuito": true,
+   "link": "https://www.sympla.com.br/evento/expomarket-condominios-2026/3358151"
+  },
+  {
+   "id": "cafe-cipa-zona-sul-2026",
+   "nome": "Café Cipa Zona Sul",
+   "tipo": "Encontro",
+   "publico": [
+    "Síndicos"
+   ],
+   "inicio": "2026-05-28",
+   "fim": "2026-05-28",
+   "cidade": "Rio de Janeiro",
+   "uf": "RJ",
+   "local": "Zona Sul",
+   "preco": "A confirmar",
+   "gratuito": false,
+   "link": "https://www.sindiconet.com.br/informese/eventos-condominio-crescimento-agenda-2026-dil-melo-noticias-eventos"
+  },
+  {
+   "id": "jornada-porter-jornada-porter-rio-de-janeiro-2026",
+   "nome": "Jornada Porter Rio de Janeiro",
+   "tipo": "Encontro",
+   "organizador": "Porter",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-05-26",
+   "fim": "2026-05-26",
+   "cidade": "Rio de Janeiro",
+   "uf": "RJ",
+   "local": "Consulte a página da Porter",
+   "preco": "Consulte a página de ingressos",
+   "gratuito": false,
+   "link": "https://porter.com.br/jornada/"
+  },
+  {
+   "id": "enacex-salvador-2026",
+   "nome": "Enacex Salvador",
+   "tipo": "Encontro",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-05-22",
+   "fim": "2026-05-23",
+   "cidade": "Salvador",
+   "uf": "BA",
+   "local": "A confirmar",
+   "preco": "A confirmar",
+   "gratuito": false,
+   "link": "https://www.sindiconet.com.br/informese/eventos-condominio-crescimento-agenda-2026-dil-melo-noticias-eventos"
+  },
+  {
+   "id": "academia-sindicos-joinville-2026",
+   "nome": "Academia Síndicos Planning 2026",
+   "tipo": "Workshop",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-05-22",
+   "fim": "2026-05-22",
+   "cidade": "Joinville",
+   "uf": "SC",
+   "local": "Auditório Sicredi, Perini Business Park",
+   "preco": "Lote gratuito para síndicos e administradoras",
+   "gratuito": true,
+   "link": "https://www.sympla.com.br/evento/joinville-academia-sindicos-planning-2026/3425289"
+  },
+  {
+   "id": "expo-sindico-sp-2026",
+   "nome": "Expo Síndico São Paulo 2026",
+   "tipo": "Congresso",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-05-21",
+   "fim": "2026-05-21",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "local": "Hotel Renaissance, Alameda Santos, 2233",
+   "preco": "Consulte a Sympla",
+   "gratuito": false,
+   "link": "https://www.sympla.com.br/evento/expo-sindico-sao-paulo/3316625"
+  },
+  {
+   "id": "jornada-porter-jornada-porter-brasilia-2026",
+   "nome": "Jornada Porter Brasília",
+   "tipo": "Encontro",
+   "organizador": "Porter",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-05-19",
+   "fim": "2026-05-19",
+   "cidade": "Brasília",
+   "uf": "DF",
+   "local": "Consulte a página da Porter",
+   "preco": "Consulte a página de ingressos",
+   "gratuito": false,
+   "link": "https://porter.com.br/jornada/"
+  },
+  {
+   "id": "enasin-2026",
+   "nome": "Enasin: Encontro Nacional de Síndico",
+   "tipo": "Encontro",
+   "publico": [
+    "Síndicos"
+   ],
+   "inicio": "2026-05-16",
+   "fim": "2026-05-16",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "local": "Centro de Eventos São Luís",
+   "preco": "Consulte a Sympla",
+   "gratuito": false,
+   "link": "https://sympla.com.br/evento/8-conasi-confianca-congresso-nacional-de-administradoras-e-sindicos-2026-sp/3012060"
+  },
+  {
+   "id": "conasi-2026",
+   "nome": "8º Conasi: Congresso Nacional de Administradoras e Síndicos",
+   "tipo": "Congresso",
+   "publico": [
+    "Administradoras",
+    "Síndicos"
+   ],
+   "inicio": "2026-05-15",
+   "fim": "2026-05-16",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "local": "Centro de Eventos São Luís",
+   "preco": "Consulte a Sympla",
+   "gratuito": false,
+   "link": "https://sympla.com.br/evento/8-conasi-confianca-congresso-nacional-de-administradoras-e-sindicos-2026-sp/3012060"
+  },
+  {
+   "id": "sindday-2026",
+   "nome": "SindDay 2026",
+   "tipo": "Encontro",
+   "publico": [
+    "Síndicos"
+   ],
+   "inicio": "2026-05-15",
+   "fim": "2026-05-15",
+   "cidade": "Florianópolis",
+   "uf": "SC",
+   "local": "Majestic Hotel",
+   "preco": "A confirmar",
+   "gratuito": false,
+   "link": "https://www.sympla.com.br/evento/sindday-2026-a-melhor-feira-de-networking-condominial-e-imobiliario-15-05-2026/3021994"
+  },
+  {
+   "id": "econ-28-2026",
+   "nome": "28º Econ: Encontro de Condomínios",
+   "tipo": "Congresso",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-05-14",
+   "fim": "2026-05-15",
+   "cidade": "Goiânia",
+   "uf": "GO",
+   "local": "Flamboyant Hall",
+   "preco": "A confirmar",
+   "gratuito": false,
+   "link": "https://www.sympla.com.br/evento/28-econ-condominio-2030-inteligencia-sustentabilidade-e-convivencia-digital/3288872"
+  },
+  {
+   "id": "summit-w-condo-2026",
+   "nome": "Summit W Condo (síndicas)",
+   "tipo": "Summit",
+   "publico": [
+    "Síndicos"
+   ],
+   "inicio": "2026-05-14",
+   "fim": "2026-05-14",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "local": "Rooftop UNA, JW Marriott",
+   "preco": "A confirmar",
+   "gratuito": false,
+   "link": "https://www.sindiconet.com.br/informese/eventos-condominio-crescimento-agenda-2026-dil-melo-noticias-eventos"
+  },
+  {
+   "id": "jornada-porter-jornada-porter-itajai-2026",
+   "nome": "Jornada Porter Itajaí",
+   "tipo": "Encontro",
+   "organizador": "Porter",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-05-14",
+   "fim": "2026-05-14",
+   "cidade": "Itajaí",
+   "uf": "SC",
+   "local": "Consulte a página da Porter",
+   "preco": "Consulte a página de ingressos",
+   "gratuito": false,
+   "link": "https://porter.com.br/jornada/",
+   "lat": -26.91,
+   "lon": -48.66
+  },
+  {
+   "id": "jornada-porter-jornada-porter-campinas-2026",
+   "nome": "Jornada Porter Campinas",
+   "tipo": "Encontro",
+   "organizador": "Porter",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-05-12",
+   "fim": "2026-05-12",
+   "cidade": "Campinas",
+   "uf": "SP",
+   "local": "Consulte a página da Porter",
+   "preco": "Consulte a página de ingressos",
+   "gratuito": false,
+   "link": "https://porter.com.br/jornada/"
+  },
+  {
+   "id": "momento-ml-tijuca-2026",
+   "nome": "Momento ML Tijuca",
+   "tipo": "Encontro",
+   "publico": [
+    "Síndicos"
+   ],
+   "inicio": "2026-05-07",
+   "fim": "2026-05-07",
+   "cidade": "Rio de Janeiro",
+   "uf": "RJ",
+   "local": "Tijuca",
+   "preco": "A confirmar",
+   "gratuito": false,
+   "link": "https://www.sindiconet.com.br/informese/eventos-condominio-crescimento-agenda-2026-dil-melo-noticias-eventos"
+  },
+  {
+   "id": "condo360-2026",
+   "nome": "Condo360 Summit (AABIC)",
+   "tipo": "Summit",
+   "publico": [
+    "Administradoras",
+    "Síndicos"
+   ],
+   "inicio": "2026-05-05",
+   "fim": "2026-05-05",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "local": "Hotel InterContinental, Alameda Santos, 1123",
+   "preco": "Consulte o site",
+   "gratuito": false,
+   "link": "https://aabic.org.br/condo360/"
+  },
+  {
+   "id": "jornada-porter-jornada-porter-campo-grande-2026",
+   "nome": "Jornada Porter Campo Grande",
+   "tipo": "Encontro",
+   "organizador": "Porter",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-05-05",
+   "fim": "2026-05-05",
+   "cidade": "Campo Grande",
+   "uf": "MS",
+   "local": "Consulte a página da Porter",
+   "preco": "Consulte a página de ingressos",
+   "gratuito": false,
+   "link": "https://porter.com.br/jornada/"
+  },
+  {
+   "id": "encontro-jacarepagua-2026",
+   "nome": "Encontro de Síndicos Jacarepaguá",
+   "tipo": "Encontro",
+   "publico": [
+    "Síndicos"
+   ],
+   "inicio": "2026-04-30",
+   "fim": "2026-04-30",
+   "cidade": "Rio de Janeiro",
+   "uf": "RJ",
+   "local": "Jacarepaguá",
+   "preco": "A confirmar",
+   "gratuito": false,
+   "link": "https://www.sindiconet.com.br/informese/eventos-condominio-crescimento-agenda-2026-dil-melo-noticias-eventos"
+  },
+  {
+   "id": "jornada-porter-jornada-porter-curitiba-2026",
+   "nome": "Jornada Porter Curitiba",
+   "tipo": "Encontro",
+   "organizador": "Porter",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-04-28",
+   "fim": "2026-04-28",
+   "cidade": "Curitiba",
+   "uf": "PR",
+   "local": "Consulte a página da Porter",
+   "preco": "Consulte a página de ingressos",
+   "gratuito": false,
+   "link": "https://porter.com.br/jornada/"
+  },
+  {
+   "id": "conasi-piracicaba-2026",
+   "nome": "Conasi Conecta Piracicaba 2026",
+   "tipo": "Congresso",
+   "organizador": "Conasi",
+   "publico": [
+    "Administradoras",
+    "Síndicos"
+   ],
+   "inicio": "2026-04-23",
+   "fim": "2026-04-23",
+   "cidade": "Piracicaba",
+   "uf": "SP",
+   "local": "Beira Rio Palace Hotel",
+   "preco": "Consulte a Sympla",
+   "gratuito": false,
+   "link": "https://www.sympla.com.br/evento/conasi-conecta-piracicaba/3171520",
+   "lat": -22.73,
+   "lon": -47.65
+  },
+  {
+   "id": "protel-summit-2026",
+   "nome": "Protel Summit: Encontro de Síndicos Recreio",
+   "tipo": "Summit",
+   "publico": [
+    "Síndicos"
+   ],
+   "inicio": "2026-04-16",
+   "fim": "2026-04-16",
+   "cidade": "Rio de Janeiro",
+   "uf": "RJ",
+   "local": "Recreio dos Bandeirantes",
+   "preco": "A confirmar",
+   "gratuito": false,
+   "link": "https://www.sindiconet.com.br/informese/eventos-condominio-crescimento-agenda-2026-dil-melo-noticias-eventos"
+  },
+  {
+   "id": "jornada-porter-jornada-porter-recife-2026",
+   "nome": "Jornada Porter Recife",
+   "tipo": "Encontro",
+   "organizador": "Porter",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-04-14",
+   "fim": "2026-04-14",
+   "cidade": "Recife",
+   "uf": "PE",
+   "local": "Consulte a página da Porter",
+   "preco": "Consulte a página de ingressos",
+   "gratuito": false,
+   "link": "https://porter.com.br/jornada/"
+  },
+  {
+   "id": "jornada-porter-jornada-porter-alphaville-2026",
+   "nome": "Jornada Porter Alphaville",
+   "tipo": "Encontro",
+   "organizador": "Porter",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-04-07",
+   "fim": "2026-04-07",
+   "cidade": "Barueri",
+   "uf": "SP",
+   "local": "Alphaville",
+   "preco": "Consulte a página de ingressos",
+   "gratuito": false,
+   "link": "https://porter.com.br/jornada/",
+   "lat": -23.5,
+   "lon": -46.88
+  },
+  {
+   "id": "jornada-porter-jornada-porter-londrina-2026",
+   "nome": "Jornada Porter Londrina",
+   "tipo": "Encontro",
+   "organizador": "Porter",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-03-31",
+   "fim": "2026-03-31",
+   "cidade": "Londrina",
+   "uf": "PR",
+   "local": "Shopping Aurora, Av. Ayrton Senna, 400",
+   "preco": "Consulte a página de ingressos",
+   "gratuito": false,
+   "link": "https://www.sympla.com.br/evento/jornada-porter-londrina/3229046"
+  },
+  {
+   "id": "condomais-2026",
+   "nome": "Condo+ 2026: Feira de Segurança, Manutenção e Serviços",
+   "tipo": "Feira",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-03-25",
+   "fim": "2026-03-26",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "local": "Centro de Eventos São Luís",
+   "preco": "Consulte o site",
+   "gratuito": false,
+   "link": "https://feiracondomais.com.br/"
+  },
+  {
+   "id": "jornada-porter-jornada-porter-picarras-2026",
+   "nome": "Jornada Porter Piçarras",
+   "tipo": "Encontro",
+   "organizador": "Porter",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-03-24",
+   "fim": "2026-03-24",
+   "cidade": "Piçarras",
+   "uf": "SC",
+   "local": "Consulte a página da Porter",
+   "preco": "Consulte a página de ingressos",
+   "gratuito": false,
+   "link": "https://porter.com.br/jornada/",
+   "lat": -26.76,
+   "lon": -48.67
+  },
+  {
+   "id": "conasi-campinas-2026",
+   "nome": "Conasi Confiança Campinas 2026",
+   "tipo": "Congresso",
+   "organizador": "Conasi",
+   "publico": [
+    "Administradoras",
+    "Síndicos"
+   ],
+   "inicio": "2026-03-21",
+   "fim": "2026-03-21",
+   "cidade": "Campinas",
+   "uf": "SP",
+   "local": "Hotel Premium Campinas",
+   "preco": "Consulte a Sympla",
+   "gratuito": false,
+   "link": "https://www.sympla.com.br/evento/conasi-confianca-campinas-2026-congresso-nacional-de-administradoras-e-sindicos/3140162"
+  },
+  {
+   "id": "cafe-resenha-2026",
+   "nome": "3º Café do Resenha (Resenha Condominial)",
+   "tipo": "Encontro",
+   "publico": [
+    "Síndicos"
+   ],
+   "inicio": "2026-03-21",
+   "fim": "2026-03-21",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "local": "Spazio JK, Av. Juscelino Kubitschek, 1726",
+   "preco": "Pago, por lotes",
+   "gratuito": false,
+   "link": "https://www.sympla.com.br/evento/3-cafe-do-resenha-2026/3287743"
+  },
+  {
+   "id": "workshop-governanca-bh-2026",
+   "nome": "Workshop Governança Condominial na Prática",
+   "tipo": "Workshop",
+   "publico": [
+    "Síndicos"
+   ],
+   "inicio": "2026-03-19",
+   "fim": "2026-03-19",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "local": "A confirmar",
+   "preco": "Consulte o Sindicon MG",
+   "gratuito": false,
+   "link": "https://sindiconmg.org.br/workshop-vai-discutir-gestao-condominial-em-belo-horizonte/"
+  },
+  {
+   "id": "jornada-porter-jornada-porter-belem-2026",
+   "nome": "Jornada Porter Belém",
+   "tipo": "Encontro",
+   "organizador": "Porter",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-03-17",
+   "fim": "2026-03-17",
+   "cidade": "Belém",
+   "uf": "PA",
+   "local": "Hangar Convenções & Feiras da Amazônia",
+   "preco": "Consulte a página de ingressos",
+   "gratuito": false,
+   "link": "https://www.sympla.com.br/evento/jornada-porter-belem/3229042"
+  },
+  {
+   "id": "rodada-negocios-bc-2026",
+   "nome": "23ª Rodada de Negócios Condominiais",
+   "tipo": "Encontro",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-03-12",
+   "fim": "2026-03-12",
+   "cidade": "Balneário Camboriú",
+   "uf": "SC",
+   "local": "Hotel Mercure, Av. Atlântica, 2010",
+   "preco": "Consulte a Sympla",
+   "gratuito": false,
+   "link": "https://www.sympla.com.br/evento/23-rodada-de-negocios-condominiais/3304995"
+  },
+  {
+   "id": "jornada-porter-jornada-porter-sorocaba-2026",
+   "nome": "Jornada Porter Sorocaba",
+   "tipo": "Encontro",
+   "organizador": "Porter",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-03-10",
+   "fim": "2026-03-10",
+   "cidade": "Sorocaba",
+   "uf": "SP",
+   "local": "Consulte a página da Porter",
+   "preco": "Consulte a página de ingressos",
+   "gratuito": false,
+   "link": "https://porter.com.br/jornada/"
+  },
+  {
+   "id": "aula-sindicos-manaus-2026",
+   "nome": "Aula gratuita para síndicos em Manaus",
+   "tipo": "Workshop",
+   "publico": [
+    "Síndicos"
+   ],
+   "inicio": "2026-02-26",
+   "fim": "2026-02-26",
+   "cidade": "Manaus",
+   "uf": "AM",
+   "local": "Valyup Hub de Negócios",
+   "preco": "Gratuito",
+   "gratuito": true,
+   "link": "https://www.sympla.com.br/evento/aula-gratuita-para-sindicos-em-manaus/3309012"
+  },
+  {
+   "id": "jornada-porter-jornada-porter-joinville-2026",
+   "nome": "Jornada Porter Joinville",
+   "tipo": "Encontro",
+   "organizador": "Porter",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-02-24",
+   "fim": "2026-02-24",
+   "cidade": "Joinville",
+   "uf": "SC",
+   "local": "Consulte a página da Porter",
+   "preco": "Consulte a página de ingressos",
+   "gratuito": false,
+   "link": "https://porter.com.br/jornada/"
+  },
+  {
+   "id": "beer-ideas-bh-2026",
+   "nome": "Beer & Ideas: o futuro da gestão em condomínios",
+   "tipo": "Encontro",
+   "publico": [
+    "Síndicos"
+   ],
+   "inicio": "2026-02-24",
+   "fim": "2026-02-24",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "local": "Group Software, Rua Santa Catarina, 1631",
+   "preco": "Gratuito",
+   "gratuito": true,
+   "link": "https://www.sympla.com.br/evento/beer-ideas-o-futuro-da-gestao-em-condominios/3298761"
+  }
+ ]
+}
