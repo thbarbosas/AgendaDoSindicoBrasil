@@ -463,7 +463,8 @@
    "local": "Centro de Eventos Positivo, Parque Barigui",
    "preco": "R$ 59",
    "gratuito": false,
-   "link": "https://www.jacredenciei.com.br/e/condoexpertparana2026"
+   "link": "https://www.jacredenciei.com.br/e/condoexpertparana2026",
+   "precoValor": 59
   },
   {
    "id": "expo-sindico-copa-2026",
@@ -623,7 +624,8 @@
    "local": "Teatro RioMar",
    "preco": "R$ 300 (grátis para associados)",
    "gratuito": false,
-   "link": "https://secovi-pe.com.br/cursos"
+   "link": "https://secovi-pe.com.br/cursos",
+   "precoValor": 300
   },
   {
    "id": "invest-sindicos-belem-2026",

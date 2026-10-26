@@ -121,6 +121,15 @@ svg text{font-family:var(--f-body)}
 .reg .trilho span:only-child{border-radius:4px}
 .reg b{text-align:right;font-variant-numeric:tabular-nums}
 
+.tickets{display:grid;gap:10px}
+.tk{display:grid;grid-template-columns:110px minmax(0,1fr) 92px;gap:10px;align-items:center;font-size:13px}
+.tk .nome{font-weight:600}
+.tk .trilho{height:14px;border-radius:4px;background:var(--superficie-alta);overflow:hidden}
+.tk .trilho span{display:block;height:100%;background:var(--serie-ok);border-radius:0 4px 4px 0}
+.tk .valor{text-align:right;font:800 15px var(--f-display);font-variant-numeric:tabular-nums}
+.tk .valor.vazio{font:500 12px var(--f-body);color:var(--texto-3)}
+.tk .base{grid-column:2/-1;margin-top:-6px;font-size:11px;color:var(--texto-3)}
+@media (max-width:620px){.tk{grid-template-columns:90px minmax(0,1fr) 80px}}
 /* Agenda */
 .agenda-head{display:flex;justify-content:space-between;align-items:end;gap:12px;flex-wrap:wrap}
 .agenda-head h2{font:700 28px var(--f-display)}
@@ -268,6 +277,7 @@ footer strong{font-family:var(--f-serif);font-weight:600;font-style:italic;color
     </section>
 
     <section class="grade">
+      <div class="coluna">
       <div class="painel">
         <div class="painel-head">
           <div>
@@ -278,6 +288,14 @@ footer strong{font-family:var(--f-serif);font-weight:600;font-style:italic;color
         </div>
         <svg id="mapa" viewBox="0 0 600 600" role="img" aria-label="Mapa do Brasil com eventos por estado e cidade"></svg>
         <div class="legenda"><span><i style="background:var(--serie-ok);border-radius:50%"></i>Cidade com evento disponível</span><span><i style="background:var(--serie-fim);border-radius:50%"></i>Só eventos encerrados</span></div>
+      </div>
+      <div class="painel">
+        <div class="painel-head">
+          <div><h2>Ticket médio por região</h2><div class="sub">Média do menor ingresso pago de cada evento, entre os que divulgam preço.</div></div>
+        </div>
+        <div class="tickets" id="g-ticket"></div>
+        <p class="nota" id="ticket-nota"></p>
+      </div>
       </div>
       <div class="coluna">
         <div class="painel">
@@ -461,6 +479,15 @@ function render(){
   $("#g-reg").innerHTML=Object.keys(REG).map(r=>{const l=bReg.filter(e=>e._reg===r),a=l.filter(e=>e._s!=="encerrado").length,b=l.length-a;
     return`<button class="reg" data-r="${r}" aria-pressed="${F.regiao===r}"><span>${r}</span><span class="trilho">${a?`<span style="width:${a/mx*100}%;background:var(--serie-ok)"></span>`:""}${b?`<span style="width:${b/mx*100}%;background:var(--serie-fim)"></span>`:""}</span><b>${l.length}</b></button>`}).join("");
   document.querySelectorAll(".reg").forEach(b=>{const r=b.dataset.r,l=bReg.filter(e=>e._reg===r),a=l.filter(e=>e._s!=="encerrado").length;bindTip(b,()=>`<b>${r}</b><br>${a} disponível(is) · ${l.length-a} encerrado(s)`);b.addEventListener("click",()=>{F.regiao=F.regiao===r?"":r;F.uf="";F.cidade="";render()})});
+  // ticket médio por região (ignora filtros geográficos)
+  const bTk=base(["regiao","uf","cidade"]);const brl=v=>v.toLocaleString("pt-BR",{style:"currency",currency:"BRL",maximumFractionDigits:0});
+  const tks=Object.keys(REG).map(r=>{const l=bTk.filter(e=>e._reg===r);const pagos=l.filter(e=>typeof e.precoValor==="number"&&e.precoValor>0);
+    return{r,total:l.length,pagos:pagos.length,gratis:l.filter(e=>e.gratuito).length,media:pagos.length?pagos.reduce((s,e)=>s+e.precoValor,0)/pagos.length:null,ev:pagos}});
+  const mxT=Math.max(1,...tks.map(t=>t.media||0));
+  $("#g-ticket").innerHTML=tks.map(t=>`<div class="tk" data-r="${t.r}"><span class="nome">${t.r}</span><span class="trilho">${t.media?`<span style="width:${t.media/mxT*100}%"></span>`:""}</span><span class="valor${t.media?"":" vazio"}">${t.media?brl(t.media):"sem preço"}</span><span class="base">${t.pagos} de ${t.total} eventos com preço divulgado · ${t.gratis} gratuito${t.gratis===1?"":"s"}</span></div>`).join("");
+  document.querySelectorAll(".tk").forEach(el=>{const t=tks.find(x=>x.r===el.dataset.r);bindTip(el,()=>t.ev.length?`<b>${t.r}</b><br>`+t.ev.slice(0,6).map(e=>`${esc(e.nome)}: ${brl(e.precoValor)}`).join("<br>"):`<b>${t.r}</b><br>Nenhum evento pago com preço divulgado`)});
+  const totP=tks.reduce((s,t)=>s+t.pagos,0),totE=tks.reduce((s,t)=>s+t.total,0);
+  $("#ticket-nota").textContent=`Base: ${totP} de ${totE} eventos. Muitos organizadores só mostram o valor na hora da compra, então a média se completa conforme as atualizações encontram novos preços.`;
   // lista
   const asc=F.status!=="encerrado";
   lista.sort((x,y)=>asc?x.inicio.localeCompare(y.inicio):y.inicio.localeCompare(x.inicio));
