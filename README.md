@@ -9,3 +9,5 @@ Portal: https://thbarbosas.github.io/AgendaDoSindicoBrasil/
 - `mapa.json`: contornos dos estados para o mapa.
 
 Lembretes por e-mail: https://tally.so/r/RWWDOJ
+
+Desenvolvido por Thiago Barbosa da Silva.
