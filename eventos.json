@@ -1,6 +1,6 @@
 {
  "meta": {
-  "atualizadoEm": "2026-10-26T13:51:00-03:00",
+  "atualizadoEm": "2026-11-04T13:46:43-03:00",
   "turno": "tarde",
   "agenda": "Atualização automática às 7h43 e às 13h43 (horário de Brasília)",
   "observacao": "Datas, locais e preços conforme os sites oficiais e a imprensa do setor. Confirme sempre no link de inscrição antes de comprar."
@@ -125,10 +125,11 @@
    "fim": "2026-12-08",
    "cidade": "São Paulo",
    "uf": "SP",
-   "local": "A confirmar",
-   "preco": "Consulte o site",
+   "local": "Milenium Centro de Convenções, Rua Dr. Bacelar, 1.043, Vila Clementino",
+   "preco": "Ingressos na Sympla (secovisp.com/4zvapI3); associados Secovi-SP têm cortesia",
    "gratuito": false,
-   "link": "https://secovi.com.br/evento/condo-fest/"
+   "link": "https://secovi.com.br/evento/condo-fest/",
+   "organizador": "Secovi-SP"
   },
   {
    "id": "inovacx-2026",
@@ -142,10 +143,12 @@
    "fim": "2026-12-01",
    "cidade": "São Paulo",
    "uf": "SP",
-   "local": "A confirmar",
-   "preco": "Consulte o site",
+   "local": "Milenium Centro de Convenções, Rua Dr. Bacelar, 1.043, Vila Clementino",
+   "preco": "R$ 240 (gratuito para associados Secovi-SP)",
    "gratuito": false,
-   "link": "https://secovi.com.br/evento/2o-inovacx-incorporacao-e-administracao-imobiliaria/"
+   "link": "https://secovi.com.br/evento/2o-inovacx-incorporacao-e-administracao-imobiliaria/",
+   "precoValor": 240,
+   "organizador": "Secovi-SP"
   },
   {
    "id": "festa-sindico-proempi-2026",
@@ -156,12 +159,15 @@
    ],
    "inicio": "2026-11-30",
    "fim": "2026-11-30",
-   "cidade": "São Paulo",
+   "cidade": "Jundiaí",
    "uf": "SP",
-   "local": "A confirmar",
-   "preco": "Consulte o site",
-   "gratuito": false,
-   "link": "https://secovi.com.br/evento/10a-festa-do-sindico-proempi/"
+   "local": "Pizzaria Vesúvio, R. do Retiro, 2173, Vila das Hortências",
+   "preco": "Ingresso solidário: unidades de leite em pó (troca na Proempi até 18/11)",
+   "gratuito": true,
+   "link": "https://secovi.com.br/evento/10a-festa-do-sindico-proempi/",
+   "organizador": "Proempi",
+   "lat": -23.19,
+   "lon": -46.88
   },
   {
    "id": "dia-do-sindico-bh-2026",
@@ -174,10 +180,11 @@
    "fim": "2026-11-28",
    "cidade": "Belo Horizonte",
    "uf": "MG",
-   "local": "A confirmar",
-   "preco": "Inscrições abertas, vagas limitadas",
-   "gratuito": false,
-   "link": "https://lp.jornaldosindicobh.com.br/dia-do-s%C3%ADndico-2026"
+   "local": "Hotel Mercure Belo Horizonte Lourdes, Av. do Contorno, 7315",
+   "preco": "Gratuito, com inscrição prévia",
+   "gratuito": true,
+   "link": "https://lp.jornaldosindicobh.com.br/dia-do-s%C3%ADndico-2026",
+   "organizador": "Jornal do Síndico"
   },
   {
    "id": "cafe-sindico-sorocaba-2026",
@@ -191,13 +198,13 @@
    "cidade": "Sorocaba",
    "uf": "SP",
    "local": "Sorocaba Park Hotel",
-   "preco": "Consulte o organizador",
-   "gratuito": false,
+   "preco": "Gratuito, com inscrição prévia",
+   "gratuito": true,
    "link": "https://cafecomsindico.com/eventos"
   },
   {
    "id": "cafe-expo-sindico-cipa-nov-2026",
-   "nome": "Café Expo Síndico CIPA",
+   "nome": "Café Expo Síndico CIPA Centro (4ª edição 2026)",
    "tipo": "Encontro",
    "publico": [
     "Síndicos"
@@ -206,10 +213,11 @@
    "fim": "2026-11-26",
    "cidade": "Rio de Janeiro",
    "uf": "RJ",
-   "local": "A confirmar",
-   "preco": "A confirmar",
+   "local": "Prodigy Santos Dumont by Wish, Av. Almirante Silvio de Noronha, 365, Centro",
+   "preco": "Consulte a Sympla",
    "gratuito": false,
-   "link": "https://www.sindiconet.com.br/informese/eventos-condominio-crescimento-agenda-2026-dil-melo-noticias-eventos"
+   "link": "https://www.sympla.com.br/evento/cafe-expo-sindico-cipa-centro/3316745",
+   "organizador": "Grupo DM by Dil Melo"
   },
   {
    "id": "hubstation-rio-2026",
@@ -232,20 +240,20 @@
   },
   {
    "id": "condo-meeting-campinas-2026",
-   "nome": "Webinar Condo Meeting Campinas: contabilidade na reforma tributária",
+   "nome": "Webinar Reforma Tributária na gestão condominial (Secovi-SP Campinas e Bauru)",
    "tipo": "Workshop",
    "publico": [
     "Síndicos",
     "Administradoras"
    ],
-   "inicio": "2026-11-19",
-   "fim": "2026-11-19",
+   "inicio": "2026-11-18",
+   "fim": "2026-11-18",
    "cidade": "Campinas",
    "uf": "SP",
    "local": "Online",
    "preco": "Consulte o site",
    "gratuito": false,
-   "link": "https://secovi.com.br/evento/webinar-condo-meeting-de-campinas-procedimentos-contabeis/"
+   "link": "https://secovi.com.br/evento/webinar-reforma-tributaria-gestao-condominial-bauru-campinas/"
   },
   {
    "id": "paella-sindico-abcd-2026",
@@ -259,8 +267,8 @@
    "cidade": "São Caetano do Sul",
    "uf": "SP",
    "local": "Samyr Buffet Espaço Goiás, R. Oriente, 173",
-   "preco": "Consulte o organizador",
-   "gratuito": false,
+   "preco": "Gratuito, com inscrição prévia",
+   "gratuito": true,
    "link": "https://cafecomsindico.com/eventos"
   },
   {
@@ -277,11 +285,12 @@
    "cidade": "São José",
    "uf": "SC",
    "local": "Arena Opus, SC-281, 4.000",
-   "preco": "Passaporte e Mega Power, valores na Sympla",
+   "preco": "Passaporte a partir de R$ 490 (lote 5); Mega Power R$ 1.750",
    "gratuito": false,
    "link": "https://www.sympla.com.br/evento/porter-summit-2026-sem-limites-infinitas-possibilidades/3153588",
    "lat": -27.6,
-   "lon": -48.63
+   "lon": -48.63,
+   "precoValor": 490
   },
   {
    "id": "condoweek-salvador-2026",
@@ -379,10 +388,12 @@
    "fim": "2026-11-10",
    "cidade": "São Paulo",
    "uf": "SP",
-   "local": "A confirmar",
-   "preco": "Consulte o site",
+   "local": "Milenium Centro de Convenções, Rua Dr. Bacelar, 1.043, Vila Mariana",
+   "preco": "Não associados: de R$ 480 (1º lote) a R$ 1.060 (lote atual); associados pagam metade",
    "gratuito": false,
-   "link": "https://secovi.com.br/eventos/"
+   "link": "https://secovi.com.br/evento/conexao-imobiliaria-secovi-sp-2026/",
+   "precoValor": 480,
+   "organizador": "Secovi-SP"
   },
   {
    "id": "cafe-sindico-praia-grande-2026",
@@ -396,8 +407,8 @@
    "cidade": "Praia Grande",
    "uf": "SP",
    "local": "Entre Nós Espaço de Eventos, R. Xavantes, 922",
-   "preco": "Consulte o organizador",
-   "gratuito": false,
+   "preco": "Gratuito, com inscrição prévia",
+   "gratuito": true,
    "link": "https://cafecomsindico.com/eventos"
   },
   {
@@ -637,10 +648,10 @@
    "fim": "2026-10-14",
    "cidade": "Caxias do Sul",
    "uf": "RS",
-   "local": "Consulte a página da Porter",
+   "local": "Colvale Eventos, Rua Coronel Flores, 172",
    "preco": "Consulte a página de ingressos",
    "gratuito": false,
-   "link": "https://porter.com.br/jornada/",
+   "link": "https://www.sympla.com.br/evento/lgc/3229418",
    "lat": -29.17,
    "lon": -51.18
   },
@@ -749,7 +760,7 @@
    "local": "ExpoRio Cidade Nova",
    "preco": "Gratuito com inscrição + 1 kg de alimento",
    "gratuito": true,
-   "link": "https://www.feiraeencontro.com.br/"
+   "link": "https://www.sympla.com.br/evento/feira-de-condominios-e-encontro-de-sindicos-2026/3322998"
   },
   {
    "id": "jornada-porter-jornada-porter-santa-maria-2026",
@@ -1475,7 +1486,7 @@
   },
   {
    "id": "cafe-cipa-zona-sul-2026",
-   "nome": "Café Cipa Zona Sul",
+   "nome": "Café Expo Síndico CIPA Tijuca",
    "tipo": "Encontro",
    "publico": [
     "Síndicos"
@@ -1484,10 +1495,11 @@
    "fim": "2026-05-28",
    "cidade": "Rio de Janeiro",
    "uf": "RJ",
-   "local": "Zona Sul",
-   "preco": "A confirmar",
-   "gratuito": false,
-   "link": "https://www.sindiconet.com.br/informese/eventos-condominio-crescimento-agenda-2026-dil-melo-noticias-eventos"
+   "local": "Tijuca Tênis Clube (Salão Nobre), R. Conde de Bonfim, 451, Tijuca",
+   "preco": "Gratuito (inscrição na Sympla)",
+   "gratuito": true,
+   "link": "https://www.sympla.com.br/evento/cafe-expo-sindico-cipa-tijuca/3316673",
+   "organizador": "Grupo DM by Dil Melo"
   },
   {
    "id": "circuito-sindicos-valor-belem-169-2026",
@@ -2243,6 +2255,511 @@
    "preco": "Consulte a Sympla",
    "gratuito": false,
    "link": "https://www.sympla.com.br/evento/conexao-com-a-administradora-um-projeto-da-assosindicosrs/3301226"
+  },
+  {
+   "id": "carro-eletrico-floripa-2026",
+   "nome": "Carro Elétrico nos Condomínios: Mitos, Medos e Riscos Reais",
+   "tipo": "Seminário",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-10-17",
+   "fim": "2026-10-17",
+   "cidade": "Florianópolis",
+   "uf": "SC",
+   "local": "Passeio Primavera, SC-401, 4100, 4º andar",
+   "preco": "Consulte a Sympla",
+   "gratuito": false,
+   "link": "https://www.sympla.com.br/evento/carro-elEtrico-nos-empreendimentos----mitos-medos-e-riscos-reais/3605997"
+  },
+  {
+   "id": "simper-rj-2026",
+   "nome": "16º SIMPER – Seminário de Impermeabilização",
+   "tipo": "Seminário",
+   "organizador": "AEI",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-10-21",
+   "fim": "2026-10-22",
+   "cidade": "Rio de Janeiro",
+   "uf": "RJ",
+   "local": "SENAI Tijuca",
+   "preco": "R$ 198; gratuito para síndicos (vagas limitadas) e universitários",
+   "precoValor": 198,
+   "gratuito": false,
+   "link": "https://www.sindiconet.com.br/informese/simper-2026-impermeabilizacao-rio-de-janeiro-noticias-eventos"
+  },
+  {
+   "id": "workshop-financeiro-ju-moreira-sp-2026",
+   "nome": "Workshop Descomplicando o Financeiro do Condomínio, com Ju Moreira",
+   "tipo": "Workshop",
+   "organizador": "SíndicoLab e Condohuby",
+   "publico": [
+    "Síndicos"
+   ],
+   "inicio": "2026-09-30",
+   "fim": "2026-09-30",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "local": "Condohuby, Av. das Nações Unidas, 11633, 7º andar, Brooklin",
+   "preco": "Consulte a Sympla",
+   "gratuito": false,
+   "link": "https://www.sympla.com.br/evento/workshop-descomplicando-o-financeiro-do-condominio-by-ju-moreira/3552358"
+  },
+  {
+   "id": "rodada-sindhub-catamara-floripa-2026",
+   "nome": "Rodada de Negócios SindHub – Especial Catamarã Floripa",
+   "tipo": "Encontro",
+   "organizador": "SindHub",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-11-06",
+   "fim": "2026-11-06",
+   "cidade": "Florianópolis",
+   "uf": "SC",
+   "local": "Catamarã Kattamaram IV, Av. Beira-Mar Norte",
+   "preco": "Consulte a Sympla",
+   "gratuito": false,
+   "link": "https://www.sympla.com.br/evento/rodada-de-negocios-sindhub-catamara-floripa-06-11-2026/3533034"
+  },
+  {
+   "id": "cafe-sindicos-planning-especial-blumenau-2026",
+   "nome": "Café Síndicos Planning – Edição Especial De Síndico para Síndico",
+   "tipo": "Encontro",
+   "organizador": "Síndicos Planning",
+   "publico": [
+    "Síndicos"
+   ],
+   "inicio": "2026-10-28",
+   "fim": "2026-10-28",
+   "cidade": "Blumenau",
+   "uf": "SC",
+   "local": "Áurea One Capital | XP, Av. Brasil, 800, Ponta Aguda",
+   "preco": "Consulte a Sympla",
+   "gratuito": false,
+   "link": "https://www.sympla.com.br/evento/cafe-sindicos-planning---edicao-especial--de-sindico-para-sindico/3623007",
+   "lat": -26.92,
+   "lon": -49.07
+  },
+  {
+   "id": "vclube-networking-salvador-2026",
+   "nome": "Vclube Networking – O encontro de síndicos e gestores destaque da Bahia",
+   "tipo": "Encontro",
+   "organizador": "Vclube",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-07-18",
+   "fim": "2026-07-18",
+   "cidade": "Salvador",
+   "uf": "BA",
+   "local": "Wall Street Empresarial, Av. Luís Viana Filho, 6462, Paralela",
+   "preco": "Consulte a Sympla",
+   "gratuito": false,
+   "link": "https://www.sympla.com.br/evento/vclube-networking-o-encontro-de-sindicos-e-gestores-destaque-da-bahia/3448815"
+  },
+  {
+   "id": "condomino-antissocial-poa-2026",
+   "nome": "Condômino Antissocial: o que muda com o PL 4/2025?",
+   "tipo": "Seminário",
+   "organizador": "Ecossistema Click Síndico",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-09-09",
+   "fim": "2026-09-09",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "local": "Ecossistema Click Síndico, Rua dos Andradas, 1560, 7º andar, Centro Histórico",
+   "preco": "Consulte a Sympla",
+   "gratuito": false,
+   "link": "https://www.sympla.com.br/evento/condOmino-antissocial-o-que-muda-com-o-pl-42025/3562332"
+  },
+  {
+   "id": "como-sindicos-escolhem-empresas-rj-2026",
+   "nome": "Como os Síndicos Escolhem Empresas",
+   "tipo": "Seminário",
+   "organizador": "Master Síndico BR",
+   "publico": [
+    "Síndicos"
+   ],
+   "inicio": "2026-08-12",
+   "fim": "2026-08-12",
+   "cidade": "Rio de Janeiro",
+   "uf": "RJ",
+   "local": "Shopping Downtown, Auditório, Av. das Américas, 500, Barra da Tijuca",
+   "preco": "Gratuito",
+   "gratuito": true,
+   "link": "https://www.sympla.com.br/evento/como-os-sindicos-escolhem-empresas/3512842"
+  },
+  {
+   "id": "imersao-gestao-pe-2026",
+   "nome": "2ª Imersão em Gestão de Condomínios de Pernambuco: Novos Horizontes para Gestores e Empreendedores",
+   "tipo": "Workshop",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-06-06",
+   "fim": "2026-06-06",
+   "cidade": "Recife",
+   "uf": "PE",
+   "local": "Hotel Jangadeiro, Av. Boa Viagem, 3114, Boa Viagem",
+   "preco": "Consulte a Sympla",
+   "gratuito": false,
+   "link": "https://www.sympla.com.br/evento/2-imersao-em-gestao-de-condominios-de-pernambuco-novos-horizontes-para-gestores-e-empreendedores/3405501"
+  },
+  {
+   "id": "hubstation-baixada-santista-2026",
+   "nome": "Hubstation 2026: Baixada Santista",
+   "tipo": "Encontro",
+   "organizador": "Hubstation",
+   "publico": [
+    "Síndicos",
+    "Administradoras",
+    "Incorporadoras"
+   ],
+   "inicio": "2026-05-15",
+   "fim": "2026-05-15",
+   "cidade": "Santos",
+   "uf": "SP",
+   "local": "Baixada Santista (local não divulgado)",
+   "preco": "Consulte a Sympla",
+   "gratuito": false,
+   "link": "https://www.sympla.com.br/evento/eventos-hubstation-2026/3286368"
+  },
+  {
+   "id": "hubstation-abcd-2026",
+   "nome": "Hubstation 2026: ABCD Paulista",
+   "tipo": "Encontro",
+   "organizador": "Hubstation",
+   "publico": [
+    "Síndicos",
+    "Administradoras",
+    "Incorporadoras"
+   ],
+   "inicio": "2026-08-11",
+   "fim": "2026-08-11",
+   "cidade": "Santo André",
+   "uf": "SP",
+   "local": "ABCD Paulista (local não divulgado)",
+   "preco": "Consulte a Sympla",
+   "gratuito": false,
+   "link": "https://www.sympla.com.br/evento/eventos-hubstation-2026/3286368"
+  },
+  {
+   "id": "congresso-nacional-direito-condominial-oabsp-2026",
+   "nome": "1º Congresso Nacional de Direito Condominial (OAB SP)",
+   "tipo": "Congresso",
+   "organizador": "OAB SP",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-08-06",
+   "fim": "2026-08-06",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "local": "Sede Institucional da OAB SP, Rua Maria Paula, 35, Centro",
+   "preco": "Não informado",
+   "gratuito": false,
+   "link": "https://www.oabsp.org.br/jornaldaadvocacia/26-07-20-1611-universo-da-advocacia-oab-sp-realiza-primeiro-congresso-nacional-de-direito-condominial"
+  },
+  {
+   "id": "capital-imobiliario-360-2026",
+   "nome": "2ª edição do Capital Imobiliário 360",
+   "tipo": "Seminário",
+   "publico": [
+    "Incorporadoras"
+   ],
+   "inicio": "2026-11-11",
+   "fim": "2026-11-12",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "local": "VENDE-C, Rua Diogo Jácome, 531, Vila Nova Conceição",
+   "preco": "Business R$ 1.397; VIP R$ 1.997 (associados Secovi-SP têm 10% de desconto)",
+   "precoValor": 1397,
+   "gratuito": false,
+   "link": "https://ticketandgo.com.br/evento/capitalimob2edicao"
+  },
+  {
+   "id": "congresso-edificacoes-futuro-2026",
+   "nome": "2º Congresso Edificações do Futuro & Expo",
+   "tipo": "Congresso",
+   "publico": [
+    "Incorporadoras"
+   ],
+   "inicio": "2026-12-10",
+   "fim": "2026-12-10",
+   "cidade": "Santo André",
+   "uf": "SP",
+   "local": "Teatro Municipal Carlos Gomes, Praça IV Centenário, s/n, Centro",
+   "preco": "Consulte o site (associados Secovi-SP têm 25% de desconto)",
+   "gratuito": false,
+   "link": "https://www.congressocefx.com.br/"
+  },
+  {
+   "id": "conasi-floripa-2026",
+   "nome": "Conasi Confiança Floripa 2026",
+   "tipo": "Congresso",
+   "organizador": "Conasi",
+   "publico": [
+    "Administradoras",
+    "Síndicos"
+   ],
+   "inicio": "2026-04-11",
+   "fim": "2026-04-11",
+   "cidade": "Florianópolis",
+   "uf": "SC",
+   "local": "CentroSul (Av. Gov. Gustavo Richard, 850)",
+   "preco": "Consulte a Sympla",
+   "gratuito": false,
+   "link": "https://www.sympla.com.br/evento/conasi-confianca-floripa-2026-congresso-nacional-de-administradoras-e-sindicos/3178624"
+  },
+  {
+   "id": "circuito-sindicos-valor-joao-pessoa-167-2026",
+   "nome": "#167 Circuito Síndicos de Valor João Pessoa",
+   "tipo": "Encontro",
+   "organizador": "Síndicos de Valor",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-04-28",
+   "fim": "2026-04-28",
+   "cidade": "João Pessoa",
+   "uf": "PB",
+   "local": "Bar Bessa Brasil, Av. Arthur Monteiro de Paiva, 1320 (Bessa)",
+   "preco": "Ingresso pago (valor não informado na Sympla)",
+   "gratuito": false,
+   "link": "https://www.sympla.com.br/evento/167-circuito-sindicos-de-valor-em-joao-pessoa/3337112"
+  },
+  {
+   "id": "circuito-sindicos-valor-cuiaba-176-2026",
+   "nome": "#176 Circuito Síndicos de Valor Cuiabá",
+   "tipo": "Encontro",
+   "organizador": "Síndicos de Valor",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-09-02",
+   "fim": "2026-09-02",
+   "cidade": "Cuiabá",
+   "uf": "MT",
+   "local": "CDL Cuiabá, Av. Presidente Getúlio Vargas, 750 (Centro)",
+   "preco": "Valor não informado na Sympla",
+   "gratuito": false,
+   "link": "https://www.sympla.com.br/evento/lgc/3463537"
+  },
+  {
+   "id": "imersao-condominial-campinas-5-2026",
+   "nome": "5ª Imersão Condominial",
+   "tipo": "Workshop",
+   "organizador": "Kelen Lazarin",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-09-24",
+   "fim": "2026-09-26",
+   "cidade": "Campinas",
+   "uf": "SP",
+   "local": "Grand House Eventos, R. Sargento Bombeiro Assiz Degrossoli Filho, 900, Fazenda Santa Cândida",
+   "preco": "Consulte a Sympla",
+   "gratuito": false,
+   "link": "https://www.sympla.com.br/evento/5-imersao-condominial/3439180"
+  },
+  {
+   "id": "encon-porto-velho-2026",
+   "nome": "Encon 2026: Encontro Condominial de Porto Velho",
+   "tipo": "Encontro",
+   "organizador": "Habitamais",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-08-29",
+   "fim": "2026-08-29",
+   "cidade": "Porto Velho",
+   "uf": "RO",
+   "local": "Museu do Complexo Madeira Mamoré, Av. Farquar, 1079, Centro",
+   "preco": "Consulte a Sympla (vagas limitadas)",
+   "gratuito": false,
+   "link": "https://www.sympla.com.br/evento/encon-2026---encontro-condominial-de-porto-velho/3447132",
+   "lat": -8.76,
+   "lon": -63.9
+  },
+  {
+   "id": "sessao-solene-alesp-2026",
+   "nome": "6ª Sessão Solene & Encontro Especial Mês do Síndico (ALESP)",
+   "tipo": "Encontro",
+   "organizador": "Universo Condomínio",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-11-16",
+   "fim": "2026-11-16",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "local": "Plenário JK, Assembleia Legislativa (ALESP), Av. Pedro Álvares Cabral, 201, Ibirapuera",
+   "preco": "Gratuito com inscrição prévia (vagas limitadas)",
+   "gratuito": true,
+   "link": "https://www.sympla.com.br/evento/sessao-solene-alesp-2026/3246267"
+  },
+  {
+   "id": "encontro-sindicos-jpa-set-2026",
+   "nome": "Encontro com Síndicos JPA",
+   "tipo": "Encontro",
+   "organizador": "Grupo DM by Dil Melo",
+   "publico": [
+    "Síndicos"
+   ],
+   "inicio": "2026-09-11",
+   "fim": "2026-09-11",
+   "cidade": "Rio de Janeiro",
+   "uf": "RJ",
+   "local": "Jacarepaguá",
+   "preco": "A confirmar",
+   "gratuito": false,
+   "link": "https://www.sindiconet.com.br/informese/eventos-condominio-crescimento-agenda-2026-dil-melo-noticias-eventos"
+  },
+  {
+   "id": "feijoada-sindico-superacao-cg-2026",
+   "nome": "4ª Feijoada Síndico SuperAção",
+   "tipo": "Encontro",
+   "organizador": "Síndico MS",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-12-05",
+   "fim": "2026-12-05",
+   "cidade": "Campo Grande",
+   "uf": "MS",
+   "local": "Armazém Eventos, R. José Antônio, 634, Centro",
+   "preco": "R$ 60 por pessoa (feijoada, sobremesa, bebidas e música ao vivo)",
+   "precoValor": 60,
+   "gratuito": false,
+   "link": "https://www.sympla.com.br/evento/4o-feijoada-sindico-superacao-2026/3632265"
+  },
+  {
+   "id": "encontro-sindicos-ferreira-costa-tamarineira-2026",
+   "nome": "VIII Encontro de Síndicos Ferreira Costa e Techmetria (Edição Tamarineira)",
+   "tipo": "Encontro",
+   "organizador": "Ferreira Costa e Techmetria",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-04-25",
+   "fim": "2026-04-25",
+   "cidade": "Recife",
+   "uf": "PE",
+   "local": "Auditório da Ferreira Costa Tamarineira, Rua Cônego Barata, 275, Tamarineira",
+   "preco": "Inscrição prévia na Sympla (vagas limitadas)",
+   "gratuito": false,
+   "link": "https://www.sympla.com.br/evento/viii-encontro-de-sindicos-ferreira-costa-e-techmetria-edicao-tamarineira/3356621"
+  },
+  {
+   "id": "tech-talks-khronos-floripa-2026",
+   "nome": "Tech Talks Khronos Florianópolis: estratégias de segurança para o patrimônio e a gestão do síndico",
+   "tipo": "Seminário",
+   "organizador": "Grupo Khronos",
+   "publico": [
+    "Síndicos"
+   ],
+   "inicio": "2026-03-17",
+   "fim": "2026-03-17",
+   "cidade": "Florianópolis",
+   "uf": "SC",
+   "local": "Showroom Inovalab do Grupo Khronos, Rua Henrique Valgas, 1570, sala 02, Centro",
+   "preco": "Gratuito",
+   "gratuito": true,
+   "link": "https://www.sympla.com.br/evento/tech-talks-khronos-florianopolis/3324214"
+  },
+  {
+   "id": "congresso-direito-imobiliario-oab-santos-2026",
+   "nome": "Congresso de Direito Imobiliário OAB Santos",
+   "tipo": "Congresso",
+   "organizador": "OAB Santos e Secovi-SP",
+   "publico": [
+    "Incorporadoras",
+    "Administradoras"
+   ],
+   "inicio": "2026-11-11",
+   "fim": "2026-11-11",
+   "cidade": "Santos",
+   "uf": "SP",
+   "local": "Auditório II da OAB Santos, Praça José Bonifácio, 55, 2º andar",
+   "preco": "R$ 40 (público geral); R$ 20 advogados, estudantes e associados Secovi-SP",
+   "precoValor": 40,
+   "gratuito": false,
+   "link": "https://www.oabsantos.org.br/cursos-palestras/1496-evento-presencial-congresso-de-direito-imobiliario-oab-santos"
+  },
+  {
+   "id": "cafe-expo-sindico-cipa-copacabana-2026",
+   "nome": "Café Expo Síndico CIPA Zona Sul",
+   "tipo": "Encontro",
+   "organizador": "Grupo DM by Dil Melo",
+   "publico": [
+    "Síndicos"
+   ],
+   "inicio": "2026-08-27",
+   "fim": "2026-08-27",
+   "cidade": "Rio de Janeiro",
+   "uf": "RJ",
+   "local": "Pestana Rio Atlântica, Av. Atlântica, 2964, Copacabana",
+   "preco": "Gratuito (inscrição na Sympla)",
+   "gratuito": true,
+   "link": "https://www.sympla.com.br/evento/cafe-expo-sindico-cipa-zona-sul/3316718"
+  },
+  {
+   "id": "arraia-de-valor-sao-jose-2026",
+   "nome": "IV Arraiá de Valor - Espaço Síndicos de Valor",
+   "tipo": "Encontro",
+   "organizador": "Síndicos de Valor",
+   "publico": [
+    "Síndicos"
+   ],
+   "inicio": "2026-07-18",
+   "fim": "2026-07-18",
+   "cidade": "São José",
+   "uf": "SC",
+   "local": "Espaço Síndicos de Valor, Rua Adhemar da Silva, 1146, Kobrasol",
+   "preco": "Ingressos na Sympla",
+   "gratuito": false,
+   "link": "https://www.sympla.com.br/evento/iv-edicao-do-arraia-de-valor-espaco-sindicos-de-valor/3437674",
+   "lat": -27.6,
+   "lon": -48.63
+  },
+  {
+   "id": "expo-meu-condominio-campos-2026",
+   "nome": "7ª Expo Meu Condomínio",
+   "tipo": "Feira",
+   "organizador": "Revista Meu Condomínio (Suzy Monteiro)",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-11-28",
+   "fim": "2026-11-28",
+   "cidade": "Campos dos Goytacazes",
+   "uf": "RJ",
+   "local": "CDL Campos, Av. Sete de Setembro, 274, Centro",
+   "preco": "Ingressos na Sympla",
+   "gratuito": false,
+   "link": "https://www.sympla.com.br/evento/7-expo-meu-condominio/3594946",
+   "lat": -21.75,
+   "lon": -41.32
   }
  ]
 }

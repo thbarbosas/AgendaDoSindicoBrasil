@@ -331,7 +331,6 @@ footer strong{font-family:var(--f-serif);font-weight:600;font-style:italic;color
 <footer>
   <div class="wrap">
     <div>Fontes: sites oficiais dos eventos, Sympla, Secovis regionais e imprensa do setor condominial.<br>Preços e datas podem mudar. Confirme sempre no link de inscrição.</div>
-    <strong>É mais que energia. É Super.</strong>
   </div>
 </footer>
 <div id="tip" hidden></div>
@@ -531,6 +530,5 @@ Promise.all([fetch("eventos.json?v="+Date.now(),{cache:"no-store"}).then(r=>r.js
 }).catch(()=>{$("#lista").innerHTML=`<div class="vazio">Não conseguimos carregar a agenda agora. Recarregue a página em alguns instantes.</div>`;$("#quando").textContent="Indisponível"});
 })();
 </script>
-
 </body>
 </html>
