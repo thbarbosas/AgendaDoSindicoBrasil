@@ -1,7 +1,7 @@
 {
  "meta": {
-  "atualizadoEm": "2026-11-04T13:46:43-03:00",
-  "turno": "tarde",
+  "atualizadoEm": "2026-11-09T07:47:12-03:00",
+  "turno": "manhã",
   "agenda": "Atualização automática às 7h43 e às 13h43 (horário de Brasília)",
   "observacao": "Datas, locais e preços conforme os sites oficiais e a imprensa do setor. Confirme sempre no link de inscrição antes de comprar."
  },
@@ -311,7 +311,7 @@
   },
   {
    "id": "enacex-rj-2026",
-   "nome": "Enacex RJ",
+   "nome": "CEX Experience 2026 – Encontro Regional dos Experts em Condomínios (Enacex RJ)",
    "tipo": "Encontro",
    "publico": [
     "Síndicos",
@@ -321,10 +321,10 @@
    "fim": "2026-11-13",
    "cidade": "Rio de Janeiro",
    "uf": "RJ",
-   "local": "A confirmar",
-   "preco": "A confirmar",
+   "local": "Pestana Rio Atlântica, Av. Atlântica, 2964, Copacabana",
+   "preco": "Ingressos na Sympla",
    "gratuito": false,
-   "link": "https://www.sindiconet.com.br/informese/eventos-condominio-crescimento-agenda-2026-dil-melo-noticias-eventos"
+   "link": "https://www.sympla.com.br/evento/lgc/3316740"
   },
   {
    "id": "sindexpo-day-itapema-2026",
@@ -596,10 +596,11 @@
    "fim": "2026-10-16",
    "cidade": "Curitiba",
    "uf": "PR",
-   "local": "FIEP Campus da Indústria",
-   "preco": "Consulte o formulário",
+   "local": "Centro de Eventos da FIEP, Av. Comendador Franco, 1341, Jardim Botânico",
+   "preco": "R$ 45 (inclui brunch, coffee-break e confraternização)",
    "gratuito": false,
-   "link": "https://sindico.net/lxmtr"
+   "link": "https://www.sympla.com.br/evento/6-meeting-condo-station-tecnologia-aproxima-pessoas-transformam/3574511",
+   "precoValor": 45
   },
   {
    "id": "congresso-mercado-bc-2026",
@@ -2760,6 +2761,171 @@
    "link": "https://www.sympla.com.br/evento/7-expo-meu-condominio/3594946",
    "lat": -21.75,
    "lon": -41.32
+  },
+  {
+   "id": "condo-meeting-sinop-2026",
+   "nome": "Condo Meeting Sinop-MT 2026",
+   "tipo": "Encontro",
+   "organizador": "Condo Education",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-09-16",
+   "fim": "2026-09-16",
+   "cidade": "Sinop",
+   "uf": "MT",
+   "local": "Auditório do Prédio Comercial Forconti, Rua das Helicônias, 33",
+   "preco": "Ingressos na Sympla",
+   "gratuito": false,
+   "link": "https://www.sympla.com.br/2026-condo-meeting--sinop-mt__3479604",
+   "lat": -11.86,
+   "lon": -55.51
+  },
+  {
+   "id": "forum-regional-sul-anacon-2026",
+   "nome": "I Fórum Regional Sul ANACON",
+   "tipo": "Seminário",
+   "organizador": "ANACON",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-12-02",
+   "fim": "2026-12-02",
+   "cidade": "Florianópolis",
+   "uf": "SC",
+   "local": "Sede da OAB/SC, Rua Paschoal Apóstolo Pítsica, 4860, Agronômica",
+   "preco": "Consulte a página de inscrição",
+   "gratuito": false,
+   "link": "https://www.meubilhete.com.br/forum-regional-sul-anacon"
+  },
+  {
+   "id": "condo-fest-sjc-2026",
+   "nome": "Condo Fest São José dos Campos – Festa do Síndico com show de Paulo Araújo",
+   "tipo": "Encontro",
+   "organizador": "Secovi-SP",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-11-26",
+   "fim": "2026-11-26",
+   "cidade": "São José dos Campos",
+   "uf": "SP",
+   "local": "Rua Emílio Marelo, 54, Jardim das Indústrias",
+   "preco": "Gratuito, com inscrição (vagas limitadas)",
+   "gratuito": true,
+   "link": "https://secovi.com.br/evento/condo-fest-sao-jose-dos-campos-show-com-paulo-araujo/"
+  },
+  {
+   "id": "encontro-cbic-incorporadores-norte-belem-2026",
+   "nome": "Encontro CBIC de Incorporadores e Construtores 2026 | Norte",
+   "tipo": "Encontro",
+   "organizador": "CBIC / Sinduscon-PA",
+   "publico": [
+    "Incorporadoras"
+   ],
+   "inicio": "2026-11-04",
+   "fim": "2026-11-05",
+   "cidade": "Belém",
+   "uf": "PA",
+   "local": "Sede do Sistema Fiepa, Trav. Quintino Bocaiuva, 1588, Nazaré",
+   "preco": "Inscrição no portal da CBIC",
+   "gratuito": false,
+   "link": "https://portal.cbic.org.br/eventos/865M6ZP"
+  },
+  {
+   "id": "evento-sindicos-guarida-poa-2026",
+   "nome": "Evento dos Síndicos 2026 (Guarida)",
+   "tipo": "Encontro",
+   "organizador": "Guarida",
+   "publico": [
+    "Síndicos"
+   ],
+   "inicio": "2026-05-07",
+   "fim": "2026-05-07",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "local": "Nau Live Spaces",
+   "preco": "Não informado",
+   "gratuito": false,
+   "link": "https://rdopiniao.com.br/2026/05/14/guarida-promove-evento-dos-sindicos-2026-em-porto-alegre-para-debater-os-desafios-atuais-da-gestao-condominial/"
+  },
+  {
+   "id": "encontro-secovi-bauru-sabesp-2026",
+   "nome": "Encontro Secovi-SP em Bauru – Sabesp & Mercado Imobiliário",
+   "tipo": "Encontro",
+   "organizador": "Secovi-SP",
+   "publico": [
+    "Incorporadoras",
+    "Administradoras"
+   ],
+   "inicio": "2026-11-13",
+   "fim": "2026-11-13",
+   "cidade": "Bauru",
+   "uf": "SP",
+   "local": "Auditório da ASSENAG, R. Dr. Fuas de Mattos Sabino, 1-15, Jardim América",
+   "preco": "Consulte o site (inscrição pelo Secovi-SP)",
+   "gratuito": false,
+   "link": "https://secovi.com.br/evento/encontro-secovi-sp-em-bauru-sabesp-mercado-imobiliario/",
+   "lat": -22.31,
+   "lon": -49.06
+  },
+  {
+   "id": "encontro-secovi-campinas-5-anos-2026",
+   "nome": "Encontro em Campinas – Campinas nos Próximos 5 Anos: o epicentro do futuro",
+   "tipo": "Encontro",
+   "organizador": "Secovi-SP",
+   "publico": [
+    "Incorporadoras"
+   ],
+   "inicio": "2026-11-30",
+   "fim": "2026-11-30",
+   "cidade": "Campinas",
+   "uf": "SP",
+   "local": "Auditório do Sky Galleria, Rod. Dom Pedro I, km 131,5, Jardim das Palmeiras",
+   "preco": "Consulte o site (inscrição pelo Secovi-SP)",
+   "gratuito": false,
+   "link": "https://secovi.com.br/evento/encontro-em-campinas-campinas-nos-proximos-5-anos-o-epicentro-do-futuro/"
+  },
+  {
+   "id": "forum-estadual-gestao-condominial-floripa-2026",
+   "nome": "II Fórum Estadual de Gestão Condominial – Etapa Florianópolis",
+   "tipo": "Seminário",
+   "organizador": "Síndicos Planning / Inspiracom",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-09-17",
+   "fim": "2026-09-17",
+   "cidade": "Florianópolis",
+   "uf": "SC",
+   "local": "Sede do CREA-SC, Rod. Admar Gonzaga, 2125, Itacorubi",
+   "preco": "Consulte a Sympla",
+   "gratuito": false,
+   "link": "https://www.sympla.com.br/evento/ii-forum-estadual-de-gestao-condominial---etapa-florianopolis/3555329"
+  },
+  {
+   "id": "encontro-secovi-jundiai-inteligencia-urbana-2026",
+   "nome": "Encontro em Jundiaí – Inteligência urbana: planejamento e infraestrutura",
+   "tipo": "Encontro",
+   "organizador": "Secovi-SP",
+   "publico": [
+    "Incorporadoras",
+    "Administradoras"
+   ],
+   "inicio": "2026-11-12",
+   "fim": "2026-11-12",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "local": "Auditório do Campos Elíseos Empresarial, Rua Barão de Teffé, 1.000, Jardim Ana Maria",
+   "preco": "Consulte o site (inscrição pelo Secovi-SP)",
+   "gratuito": false,
+   "link": "https://secovi.com.br/evento/encontro-em-jundiai-inteligencia-urbana/",
+   "lat": -23.19,
+   "lon": -46.88
   }
  ]
 }
