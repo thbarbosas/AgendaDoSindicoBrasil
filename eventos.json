@@ -1,7 +1,7 @@
 {
  "meta": {
-  "atualizadoEm": "2026-11-09T07:47:12-03:00",
-  "turno": "manhã",
+  "atualizadoEm": "2026-11-09T13:45:49-03:00",
+  "turno": "tarde",
   "agenda": "Atualização automática às 7h43 e às 13h43 (horário de Brasília)",
   "observacao": "Datas, locais e preços conforme os sites oficiais e a imprensa do setor. Confirme sempre no link de inscrição antes de comprar."
  },
@@ -2926,6 +2926,24 @@
    "link": "https://secovi.com.br/evento/encontro-em-jundiai-inteligencia-urbana/",
    "lat": -23.19,
    "lon": -46.88
+  },
+  {
+   "id": "seminario-direito-condominial-aplicado-bh-3-2026",
+   "nome": "3º Seminário de Direito Condominial Aplicado",
+   "tipo": "Seminário",
+   "organizador": "OAB/MG Subseção Barro Preto (Comissão de Direito Condominial)",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-08-28",
+   "fim": "2026-08-28",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "local": "Auditório Newton Paiva, Unidade Carlos Luz, Av. Presidente Carlos Luz, 220",
+   "preco": "Consulte a Sympla",
+   "gratuito": false,
+   "link": "https://www.sympla.com.br/evento/3-seminario-de-direito-condominial-aplicado/3510269"
   }
  ]
 }
