@@ -1,7 +1,7 @@
 {
  "meta": {
-  "atualizadoEm": "2026-11-09T13:45:49-03:00",
-  "turno": "tarde",
+  "atualizadoEm": "2026-11-11T07:46:15-03:00",
+  "turno": "manhã",
   "agenda": "Atualização automática às 7h43 e às 13h43 (horário de Brasília)",
   "observacao": "Datas, locais e preços conforme os sites oficiais e a imprensa do setor. Confirme sempre no link de inscrição antes de comprar."
  },
@@ -2944,6 +2944,114 @@
    "preco": "Consulte a Sympla",
    "gratuito": false,
    "link": "https://www.sympla.com.br/evento/3-seminario-de-direito-condominial-aplicado/3510269"
+  },
+  {
+   "id": "cafe-manha-sindiconet-souza-lima-sp-2026",
+   "nome": "Café da Manhã com o SíndicoNet – Oferecimento Grupo Souza Lima",
+   "tipo": "Encontro",
+   "organizador": "SíndicoNet",
+   "publico": [
+    "Síndicos"
+   ],
+   "inicio": "2026-05-20",
+   "fim": "2026-05-20",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "local": "Club Coworking Paulista, Av. Paulista, 2028, 10º andar, Bela Vista",
+   "preco": "Gratuito, com inscrição prévia",
+   "gratuito": true,
+   "link": "https://www.sympla.com.br/evento/lgc/3407355"
+  },
+  {
+   "id": "palestra-saude-mental-nr1-proempi-jundiai-2026",
+   "nome": "O novo desafio da gestão de condomínios – Saúde Mental, NR-1 e gestão de pessoas",
+   "tipo": "Seminário",
+   "organizador": "PROEMPI / Secovi-SP",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-09-29",
+   "fim": "2026-09-29",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "local": "Auditório da Associação dos Engenheiros de Jundiaí",
+   "preco": "Consulte a inscrição (Secovi-SP)",
+   "gratuito": false,
+   "link": "https://tribunadejundiai.com.br/cidades/jundiai/palestra-gestao-condominios-saude-mental-jundiai/",
+   "lat": -23.19,
+   "lon": -46.88
+  },
+  {
+   "id": "telhanorte-conecta-sindicos-sp-2026",
+   "nome": "1º Telhanorte Conecta Síndicos",
+   "tipo": "Encontro",
+   "organizador": "Telhanorte (apoio SíndicoNet)",
+   "publico": [
+    "Síndicos"
+   ],
+   "inicio": "2026-11-18",
+   "fim": "2026-11-18",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "local": "Telhanorte Morumbi",
+   "preco": "Gratuito",
+   "gratuito": true,
+   "link": "https://www.sindiconet.com.br/informese/telhanorte-conecta-sindicos-conhecimento-networking-mercado-noticias-eventos"
+  },
+  {
+   "id": "encontro-secovi-sorocaba-perspectiva-2026",
+   "nome": "Encontro de Sorocaba – Sorocaba em Perspectiva: tendências para o mercado imobiliário em 2027",
+   "tipo": "Encontro",
+   "organizador": "Secovi-SP",
+   "publico": [
+    "Incorporadoras",
+    "Administradoras"
+   ],
+   "inicio": "2026-12-04",
+   "fim": "2026-12-04",
+   "cidade": "Sorocaba",
+   "uf": "SP",
+   "local": "Auditório da OAB Sorocaba, R. Vinte e Oito de Outubro, 840",
+   "preco": "Consulte o site (inscrição pelo Secovi-SP, vagas limitadas)",
+   "gratuito": false,
+   "link": "https://secovi.com.br/evento/encontro-de-sorocaba-em-perspectiva/"
+  },
+  {
+   "id": "encontro-g12-maceio-nov-2026",
+   "nome": "Encontro G12 Master – Síndicos e gestores condominiais",
+   "tipo": "Encontro",
+   "organizador": "Conlorena Eventos",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-11-11",
+   "fim": "2026-11-11",
+   "cidade": "Maceió",
+   "uf": "AL",
+   "local": "Instituto Meraki Treinamentos (auditório), Av. Almirante Álvaro Calheiros, 1120",
+   "preco": "Consulte a Sympla",
+   "gratuito": false,
+   "link": "https://www.sympla.com.br/evento/encontro-g12-11-11-26/3643039"
+  },
+  {
+   "id": "condominio-360-maceio-2026",
+   "nome": "Condomínio 360 Maceió",
+   "tipo": "Encontro",
+   "organizador": "Conlorena Eventos",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-09-02",
+   "fim": "2026-09-02",
+   "cidade": "Maceió",
+   "uf": "AL",
+   "local": "Jatiúca Suites Resort by Slaviero Hotéis, Av. Roberto Mascarenhas Brito, 666, Cruz das Almas",
+   "preco": "Não informado (página de inscrição de patrocinadores)",
+   "gratuito": false,
+   "link": "https://www.sympla.com.br/evento/lgc/3521476"
   }
  ]
 }
