@@ -1,6 +1,6 @@
 {
  "meta": {
-  "atualizadoEm": "2026-11-11T07:46:15-03:00",
+  "atualizadoEm": "2026-11-11T09:30:09-03:00",
   "turno": "manhã",
   "agenda": "Atualização automática às 7h43 e às 13h43 (horário de Brasília)",
   "observacao": "Datas, locais e preços conforme os sites oficiais e a imprensa do setor. Confirme sempre no link de inscrição antes de comprar."
@@ -3052,6 +3052,61 @@
    "preco": "Não informado (página de inscrição de patrocinadores)",
    "gratuito": false,
    "link": "https://www.sympla.com.br/evento/lgc/3521476"
+  },
+  {
+   "id": "conexao-nr1-secovi-goias-2026",
+   "nome": "Conexão NR-1",
+   "tipo": "Encontro",
+   "organizador": "Secovi Goiás",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-06-19",
+   "fim": "2026-06-19",
+   "cidade": "Goiânia",
+   "uf": "GO",
+   "local": "Auditório do Secovi Goiás, Av. Fued José Sebba",
+   "preco": "Gratuito, com inscrição prévia",
+   "gratuito": true,
+   "link": "https://www.sympla.com.br/evento/conexao-nr-1/3457685"
+  },
+  {
+   "id": "aprimora-workshop-sindicos-brasilia-2026",
+   "nome": "APRIMORA+ 2º Workshop para Síndicos: Da Inspeção à Ação",
+   "tipo": "Workshop",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-07-23",
+   "fim": "2026-07-23",
+   "cidade": "Brasília",
+   "uf": "DF",
+   "local": "Auditório do CREA-DF, SGAS 901, Conjunto D, Asa Sul",
+   "preco": "Gratuito (doação de 1 kg de alimento não perecível)",
+   "gratuito": true,
+   "link": "https://www.sympla.com.br/evento/lgc/3491610"
+  },
+  {
+   "id": "expo-carrara-condominios-2027",
+   "nome": "Expo Carrara Condomínios 2027",
+   "tipo": "Feira",
+   "organizador": "Carrara Condomínios",
+   "publico": [
+    "Síndicos",
+    "Administradoras",
+    "Incorporadoras"
+   ],
+   "inicio": "2027-03-01",
+   "fim": "2027-03-31",
+   "dataAprox": "Março de 2027 (data exata a confirmar)",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "local": "A confirmar",
+   "preco": "A confirmar",
+   "gratuito": false,
+   "link": "https://www.carraracondominios.com.br/expo-carrara-condominios/"
   }
  ]
 }
