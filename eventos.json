@@ -1,7 +1,7 @@
 {
  "meta": {
-  "atualizadoEm": "2026-11-11T09:30:59-03:00",
-  "turno": "manhã",
+  "atualizadoEm": "2026-11-11T13:56:34-03:00",
+  "turno": "tarde",
   "agenda": "Atualização automática às 7h43 e às 13h43 (horário de Brasília)",
   "observacao": "Datas, locais e preços conforme os sites oficiais e a imprensa do setor. Confirme sempre no link de inscrição antes de comprar."
  },
@@ -3107,6 +3107,44 @@
    "preco": "A confirmar",
    "gratuito": false,
    "link": "https://www.carraracondominios.com.br/expo-carrara-condominios/"
+  },
+  {
+   "id": "pets-em-condominios-secovi-se-2026",
+   "nome": "Pets em Condomínios: direitos, deveres e convivência",
+   "tipo": "Encontro",
+   "organizador": "Secovi-SE",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-11-11",
+   "fim": "2026-11-11",
+   "cidade": "Aracaju",
+   "uf": "SE",
+   "local": "Auditório do ICTec, Polo SENAC de Inovação, Ciência e Tecnologia, Av. Barão de Maruim, 593, Centro",
+   "preco": "Gratuito (vagas limitadas)",
+   "gratuito": true,
+   "link": "https://docs.google.com/forms/d/e/1FAIpQLSftknsuUcA19wglEGD0HuptvosTyGbvKDJ045ywYS4phpSJaA/viewform"
+  },
+  {
+   "id": "circuito-sindicos-valor-florianopolis-179-2026",
+   "nome": "#179 Circuito Síndicos de Valor Florianópolis",
+   "tipo": "Encontro",
+   "organizador": "Síndicos de Valor",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-10-07",
+   "fim": "2026-10-07",
+   "cidade": "São José",
+   "uf": "SC",
+   "local": "Hotel K-Platz (Sala Oleiro), Av. Cruz e Souza, 25",
+   "preco": "Valor não informado na Sympla (inscrições revertidas ao projeto Coração de Valor)",
+   "gratuito": false,
+   "link": "https://www.sympla.com.br/evento/lgc/3555804",
+   "lat": -27.6,
+   "lon": -48.63
   }
  ]
 }
