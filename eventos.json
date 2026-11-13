@@ -1,7 +1,7 @@
 {
  "meta": {
-  "atualizadoEm": "2026-11-12T14:01:27-03:00",
-  "turno": "tarde",
+  "atualizadoEm": "2026-11-13T07:55:52-03:00",
+  "turno": "manhã",
   "agenda": "Atualização automática às 7h43 e às 13h43 (horário de Brasília)",
   "observacao": "Datas, locais e preços conforme os sites oficiais e a imprensa do setor. Confirme sempre no link de inscrição antes de comprar."
  },
@@ -3145,6 +3145,24 @@
    "link": "https://www.sympla.com.br/evento/lgc/3555804",
    "lat": -27.6,
    "lon": -48.63
+  },
+  {
+   "id": "encontro-sindicos-rn-8-2026",
+   "nome": "8º Encontro de Síndicos do RN – Feira e Talk Show",
+   "tipo": "Encontro",
+   "organizador": "BDE Imagem",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-05-15",
+   "fim": "2026-05-16",
+   "cidade": "Natal",
+   "uf": "RN",
+   "local": "Praiamar Arena",
+   "preco": "Gratuito (inscrição na plataforma oficial)",
+   "gratuito": true,
+   "link": "https://agorarn.com.br/ultimas/natal-tera-8o-encontro-de-sindicos-do-rn-e-talk-show/"
   }
  ]
 }
