@@ -460,7 +460,10 @@
    "local": "A confirmar",
    "preco": "Consulte o site",
    "gratuito": false,
-   "link": "https://secovi.com.br/evento/14a-edicao-do-congresso-juridico-da-construcao/"
+   "link": "https://secovi.com.br/evento/14a-edicao-do-congresso-juridico-da-construcao/",
+   "tags": [
+    "Construção"
+   ]
   },
   {
    "id": "condo-meeting-supercondominios",
@@ -2504,7 +2507,10 @@
    "local": "Teatro Municipal Carlos Gomes, Praça IV Centenário, s/n, Centro",
    "preco": "Consulte o site (associados Secovi-SP têm 25% de desconto)",
    "gratuito": false,
-   "link": "https://www.congressocefx.com.br/"
+   "link": "https://www.congressocefx.com.br/",
+   "tags": [
+    "Construção"
+   ]
   },
   {
    "id": "conasi-floripa-2026",
@@ -2833,7 +2839,10 @@
    "local": "Sede do Sistema Fiepa, Trav. Quintino Bocaiuva, 1588, Nazaré",
    "preco": "Inscrição no portal da CBIC",
    "gratuito": false,
-   "link": "https://portal.cbic.org.br/eventos/865M6ZP"
+   "link": "https://portal.cbic.org.br/eventos/865M6ZP",
+   "tags": [
+    "Construção"
+   ]
   },
   {
    "id": "evento-sindicos-guarida-poa-2026",
@@ -3163,6 +3172,435 @@
    "preco": "Gratuito (inscrição na plataforma oficial)",
    "gratuito": true,
    "link": "https://agorarn.com.br/ultimas/natal-tera-8o-encontro-de-sindicos-do-rn-e-talk-show/"
+  },
+  {
+   "id": "construvale-2026",
+   "nome": "Construvale 2026 – Feira Imobiliária e da Construção do Vale",
+   "tipo": "Feira",
+   "organizador": "Aconvap",
+   "publico": [
+    "Incorporadoras",
+    "Síndicos"
+   ],
+   "inicio": "2026-10-09",
+   "fim": "2026-10-12",
+   "cidade": "São José dos Campos",
+   "uf": "SP",
+   "local": "Vale Sul Shopping",
+   "preco": "Inscrição pelo site oficial",
+   "gratuito": false,
+   "link": "https://www.feiraconstruvale.com.br/",
+   "tags": [
+    "Construção"
+   ]
+  },
+  {
+   "id": "feicon-2026",
+   "nome": "FEICON 2026 – Feira Internacional da Construção",
+   "tipo": "Feira",
+   "organizador": "RX Brasil",
+   "publico": [
+    "Incorporadoras",
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-04-07",
+   "fim": "2026-04-10",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "local": "São Paulo Expo",
+   "preco": "Consulte o site oficial",
+   "gratuito": false,
+   "link": "https://www.feicon.com.br/pt-br.html",
+   "tags": [
+    "Construção"
+   ]
+  },
+  {
+   "id": "feicon-2027",
+   "nome": "FEICON 2027 – Feira Internacional da Construção",
+   "tipo": "Feira",
+   "organizador": "RX Brasil",
+   "publico": [
+    "Incorporadoras",
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2027-04-06",
+   "fim": "2027-04-09",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "local": "São Paulo Expo",
+   "preco": "Credenciamento ainda não aberto",
+   "gratuito": false,
+   "link": "https://www.feicon.com.br/pt-br.html",
+   "tags": [
+    "Construção"
+   ]
+  },
+  {
+   "id": "enic-2026",
+   "nome": "ENIC 2026 – Encontro Nacional da Indústria da Construção",
+   "tipo": "Congresso",
+   "organizador": "CBIC",
+   "publico": [
+    "Incorporadoras"
+   ],
+   "inicio": "2026-05-19",
+   "fim": "2026-05-21",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "local": "Distrito Anhembi",
+   "preco": "Consulte o site oficial",
+   "gratuito": false,
+   "link": "https://cbic.org.br/enic/",
+   "tags": [
+    "Construção"
+   ]
+  },
+  {
+   "id": "enic-2027",
+   "nome": "ENIC 2027 – Encontro Nacional da Indústria da Construção",
+   "tipo": "Congresso",
+   "organizador": "CBIC",
+   "publico": [
+    "Incorporadoras"
+   ],
+   "inicio": "2027-05-11",
+   "fim": "2027-05-13",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "local": "Distrito Anhembi",
+   "preco": "Consulte o site oficial",
+   "gratuito": false,
+   "link": "https://cbic.org.br/enic/",
+   "tags": [
+    "Construção"
+   ]
+  },
+  {
+   "id": "expo-revestir-2027",
+   "nome": "Expo Revestir 2027",
+   "tipo": "Feira",
+   "organizador": "Anfacer",
+   "publico": [
+    "Incorporadoras"
+   ],
+   "inicio": "2027-02-22",
+   "fim": "2027-02-26",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "local": "São Paulo Expo",
+   "preco": "Consulte o site oficial",
+   "gratuito": false,
+   "link": "https://www.exporevestir.com.br/",
+   "tags": [
+    "Construção"
+   ]
+  },
+  {
+   "id": "concrete-show-2026",
+   "nome": "Concrete Show South America 2026",
+   "tipo": "Feira",
+   "organizador": "Informa Markets",
+   "publico": [
+    "Incorporadoras"
+   ],
+   "inicio": "2026-08-25",
+   "fim": "2026-08-27",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "local": "São Paulo Expo",
+   "preco": "Consulte o site oficial",
+   "gratuito": false,
+   "link": "https://www.concreteshow.com.br/pt/home.html",
+   "tags": [
+    "Construção"
+   ]
+  },
+  {
+   "id": "concrete-show-2027",
+   "nome": "Concrete Show South America 2027",
+   "tipo": "Feira",
+   "organizador": "Informa Markets",
+   "publico": [
+    "Incorporadoras"
+   ],
+   "inicio": "2027-08-17",
+   "fim": "2027-08-19",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "local": "São Paulo Expo",
+   "preco": "Consulte o site oficial",
+   "gratuito": false,
+   "link": "https://www.concreteshow.com.br/pt/home.html",
+   "tags": [
+    "Construção"
+   ]
+  },
+  {
+   "id": "construsul-2026",
+   "nome": "27ª Construsul – Feira Internacional da Construção",
+   "tipo": "Feira",
+   "organizador": "Construsul",
+   "publico": [
+    "Incorporadoras"
+   ],
+   "inicio": "2026-08-04",
+   "fim": "2026-08-07",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "local": "Centro de Eventos Fiergs",
+   "preco": "Consulte o site oficial",
+   "gratuito": false,
+   "link": "https://feiraconstrusul.com.br/home/",
+   "tags": [
+    "Construção"
+   ]
+  },
+  {
+   "id": "construnordeste-2026",
+   "nome": "4º ConstruNordeste",
+   "tipo": "Feira",
+   "organizador": "ConstruNordeste",
+   "publico": [
+    "Incorporadoras"
+   ],
+   "inicio": "2026-08-12",
+   "fim": "2026-08-14",
+   "cidade": "Salvador",
+   "uf": "BA",
+   "local": "Centro de Convenções Salvador",
+   "preco": "Consulte o site oficial",
+   "gratuito": false,
+   "link": "https://www.construnordeste.com.br/",
+   "tags": [
+    "Construção"
+   ]
+  },
+  {
+   "id": "construnordeste-2027",
+   "nome": "5º ConstruNordeste",
+   "tipo": "Feira",
+   "organizador": "ConstruNordeste",
+   "publico": [
+    "Incorporadoras"
+   ],
+   "inicio": "2027-10-27",
+   "fim": "2027-10-29",
+   "cidade": "Salvador",
+   "uf": "BA",
+   "local": "Centro de Convenções Salvador",
+   "preco": "Consulte o site oficial",
+   "gratuito": false,
+   "link": "https://www.construnordeste.com.br/",
+   "tags": [
+    "Construção"
+   ]
+  },
+  {
+   "id": "expoconstruir-2026",
+   "nome": "8ª ExpoConstruir",
+   "tipo": "Feira",
+   "organizador": "Acomac-CE",
+   "publico": [
+    "Incorporadoras"
+   ],
+   "inicio": "2026-08-11",
+   "fim": "2026-08-14",
+   "cidade": "Fortaleza",
+   "uf": "CE",
+   "local": "Centro de Eventos do Ceará",
+   "preco": "Cadastro de visitante pelo site",
+   "gratuito": false,
+   "link": "https://cadastro.avancanordeste.com.br/visitante",
+   "tags": [
+    "Construção"
+   ]
+  },
+  {
+   "id": "ficons-2026",
+   "nome": "FICONS 2026 – Feira Internacional da Construção",
+   "tipo": "Feira",
+   "organizador": "FICONS",
+   "publico": [
+    "Incorporadoras"
+   ],
+   "inicio": "2026-09-15",
+   "fim": "2026-09-18",
+   "cidade": "Recife",
+   "uf": "PE",
+   "local": "Centro de Convenções de Pernambuco",
+   "preco": "Gratuito (credenciamento)",
+   "gratuito": true,
+   "link": "https://ficons.com.br/",
+   "tags": [
+    "Construção"
+   ]
+  },
+  {
+   "id": "construexpo-2026",
+   "nome": "ConstruExpo 2026",
+   "tipo": "Feira",
+   "organizador": "ConstruExpo",
+   "publico": [
+    "Incorporadoras"
+   ],
+   "inicio": "2026-08-12",
+   "fim": "2026-08-15",
+   "cidade": "Atibaia",
+   "uf": "SP",
+   "local": "Av. Jerônimo de Camargo, 6308",
+   "preco": "Gratuito (inscrição pelo site)",
+   "gratuito": true,
+   "link": "https://construexpo.com.br/",
+   "tags": [
+    "Construção"
+   ],
+   "lat": -23.12,
+   "lon": -46.55
+  },
+  {
+   "id": "construexpo-2027",
+   "nome": "ConstruExpo 2027",
+   "tipo": "Feira",
+   "organizador": "ConstruExpo",
+   "publico": [
+    "Incorporadoras"
+   ],
+   "inicio": "2027-08-11",
+   "fim": "2027-08-14",
+   "cidade": "Atibaia",
+   "uf": "SP",
+   "local": "Av. Jerônimo de Camargo, 6308",
+   "preco": "Gratuito (inscrição pelo site)",
+   "gratuito": true,
+   "link": "https://construexpo.com.br/",
+   "tags": [
+    "Construção"
+   ],
+   "lat": -23.12,
+   "lon": -46.55
+  },
+  {
+   "id": "habitacon-2027",
+   "nome": "14ª Habitacon",
+   "tipo": "Feira",
+   "organizador": "Monte Bello Eventos",
+   "publico": [
+    "Incorporadoras"
+   ],
+   "inicio": "2027-07-29",
+   "fim": "2027-07-31",
+   "cidade": "Curitiba",
+   "uf": "PR",
+   "local": "Centro de Eventos Positivo (Parque Barigui)",
+   "preco": "Consulte o site oficial",
+   "gratuito": false,
+   "link": "https://feirahabitacon.com.br/",
+   "tags": [
+    "Construção"
+   ]
+  },
+  {
+   "id": "construsummit-2026",
+   "nome": "Construsummit 2026",
+   "tipo": "Congresso",
+   "organizador": "Sienge",
+   "publico": [
+    "Incorporadoras"
+   ],
+   "inicio": "2026-07-01",
+   "fim": "2026-07-02",
+   "cidade": "Florianópolis",
+   "uf": "SC",
+   "local": "Centro Sul Convenções",
+   "preco": "Consulte o site oficial",
+   "gratuito": false,
+   "link": "https://sienge.com.br/construsummit/",
+   "tags": [
+    "Construção"
+   ]
+  },
+  {
+   "id": "modern-construction-show-2026",
+   "nome": "Modern Construction Show 2026",
+   "tipo": "Feira",
+   "organizador": "Modern Construction Show",
+   "publico": [
+    "Incorporadoras"
+   ],
+   "inicio": "2026-09-29",
+   "fim": "2026-10-01",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "local": "Distrito Anhembi – Expo 05",
+   "preco": "Consulte o site oficial",
+   "gratuito": false,
+   "link": "https://distritoanhembi.com.br/?p=16871",
+   "tags": [
+    "Construção"
+   ]
+  },
+  {
+   "id": "expo-construcao-offsite-2026",
+   "nome": "Expo Construção Off Site 2026",
+   "tipo": "Feira",
+   "organizador": "Expo Construção Off Site",
+   "publico": [
+    "Incorporadoras"
+   ],
+   "inicio": "2026-06-16",
+   "fim": "2026-06-19",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "local": "Distrito Anhembi",
+   "preco": "Consulte o site oficial",
+   "gratuito": false,
+   "link": "https://www.expoconstrucaooffsite.com.br/",
+   "tags": [
+    "Construção"
+   ]
+  },
+  {
+   "id": "construlev-expo-2026",
+   "nome": "Construlev Expo 2026",
+   "tipo": "Feira",
+   "organizador": "Construlev",
+   "publico": [
+    "Incorporadoras"
+   ],
+   "inicio": "2026-10-14",
+   "fim": "2026-10-16",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "local": "São Paulo Expo",
+   "preco": "Consulte o site oficial",
+   "gratuito": false,
+   "link": "https://construlevexpo.com.br/",
+   "tags": [
+    "Construção"
+   ]
+  },
+  {
+   "id": "encontro-cbic-incorporadores-sul-2026",
+   "nome": "Encontro CBIC de Incorporadores e Construtores 2026 | Sul",
+   "tipo": "Encontro",
+   "organizador": "CBIC",
+   "publico": [
+    "Incorporadoras"
+   ],
+   "inicio": "2026-06-18",
+   "fim": "2026-06-18",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "local": "Fiergs",
+   "preco": "Consulte o site oficial",
+   "gratuito": false,
+   "link": "https://cbic.org.br/encontro-cbic-de-incorporadores-e-construtores-2026-reune-empresarios-e-liderancas-para-debater-ambiente-de-negocios-e-desenvolvimento-da-regiao-sul/",
+   "tags": [
+    "Construção"
+   ]
   }
  ]
 }

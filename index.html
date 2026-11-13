@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-<meta name="description" content="Feiras, congressos e encontros para síndicos, administradoras e incorporadoras em todo o Brasil, com datas, preços e links de inscrição.">
+<meta name="description" content="Feiras, congressos e encontros para síndicos, administradoras e incorporadoras em todo o Brasil, incluindo feiras de construção civil, com datas, preços e links de inscrição.">
 <style>:root{color-scheme:light;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}body{margin:0;font:14px system-ui,sans-serif}img{max-width:100%}[hidden]{display:none!important}</style>
 </head>
 <body>
@@ -149,6 +149,7 @@ svg text{font-family:var(--f-body)}
 .selo.st-ok{background:var(--destaque);color:var(--branco)}
 .selo.st-agora{background:var(--agora-bg);border-color:var(--amarelo);color:var(--texto)}
 .selo.st-fim{border-color:var(--serie-fim);color:var(--texto-2)}
+.selo.constr{background:var(--amarelo);border-color:var(--amarelo);color:var(--preto)}
 .selo.gratis{border-color:var(--amarelo);background:var(--agora-bg);color:var(--texto)}
 .acao{display:grid;gap:6px;justify-items:end;text-align:right}
 .preco{font:700 14px var(--f-display);max-width:190px}
@@ -225,7 +226,7 @@ footer strong{font-family:var(--f-serif);font-weight:600;font-style:italic;color
       <div class="caps" style="color:var(--branco);opacity:.9">Mercado condominial · Brasil</div>
       <h1 style="margin-top:10px">Agenda do <span>Síndico</span> Brasil</h1>
       <div class="linha-destaque"></div>
-      <p>Feiras, congressos e encontros para síndicos, administradoras e incorporadoras em todo o país. Filtre por região, cidade e ano e vá direto para a inscrição.</p>
+      <p>Feiras, congressos e encontros para síndicos, administradoras e incorporadoras em todo o país, agora com as feiras de construção civil. Filtre por região, cidade e ano e vá direto para a inscrição.</p>
       <p class="autoria">Desenvolvido por <strong>Thiago Barbosa da Silva</strong></p>
     </div>
     <div class="atualizacao" id="atualizacao" aria-live="polite">
@@ -252,6 +253,11 @@ footer strong{font-family:var(--f-serif);font-weight:600;font-style:italic;color
     <select id="f-publico" aria-label="Público">
       <option value="">Todos os públicos</option>
       <option>Síndicos</option><option>Administradoras</option><option>Incorporadoras</option>
+    </select>
+    <select id="f-tema" aria-label="Tema">
+      <option value="">Todos os temas</option>
+      <option value="construcao">Construção civil</option>
+      <option value="condominio">Condomínios e gestão</option>
     </select>
     <label class="chk" for="f-gratis"><input type="checkbox" id="f-gratis">Só gratuitos</label>
     <input type="search" id="f-busca" placeholder="Buscar evento, local ou organizador" aria-label="Buscar">
@@ -344,7 +350,7 @@ footer strong{font-family:var(--f-serif);font-weight:600;font-style:italic;color
 const REG={Norte:["AC","AM","AP","PA","RO","RR","TO"],Nordeste:["AL","BA","CE","MA","PB","PE","PI","RN","SE"],"Centro-Oeste":["DF","GO","MS","MT"],Sudeste:["ES","MG","RJ","SP"],Sul:["PR","RS","SC"]};
 const UF2REG={};for(const r in REG)for(const u of REG[r])UF2REG[u]=r;
 const UFNOME={AC:"Acre",AL:"Alagoas",AM:"Amazonas",AP:"Amapá",BA:"Bahia",CE:"Ceará",DF:"Distrito Federal",ES:"Espírito Santo",GO:"Goiás",MA:"Maranhão",MG:"Minas Gerais",MS:"Mato Grosso do Sul",MT:"Mato Grosso",PA:"Pará",PB:"Paraíba",PE:"Pernambuco",PI:"Piauí",PR:"Paraná",RJ:"Rio de Janeiro",RN:"Rio Grande do Norte",RO:"Rondônia",RR:"Roraima",RS:"Rio Grande do Sul",SC:"Santa Catarina",SE:"Sergipe",SP:"São Paulo",TO:"Tocantins"};
-const CIDADES={"São Paulo":[-46.63,-23.55],"Rio de Janeiro":[-43.2,-22.9],"Belo Horizonte":[-43.94,-19.92],"Curitiba":[-49.27,-25.43],"Porto Alegre":[-51.23,-30.03],"Florianópolis":[-48.55,-27.6],"Balneário Camboriú":[-48.63,-26.99],"Itapema":[-48.61,-27.09],"Criciúma":[-49.37,-28.68],"Joinville":[-48.85,-26.3],"Brasília":[-47.88,-15.79],"Goiânia":[-49.25,-16.68],"Cuiabá":[-56.1,-15.6],"Campo Grande":[-54.62,-20.45],"Salvador":[-38.5,-12.97],"Recife":[-34.88,-8.05],"Caruaru":[-35.98,-8.28],"Fortaleza":[-38.52,-3.73],"Natal":[-35.2,-5.79],"João Pessoa":[-34.86,-7.12],"Aracaju":[-37.07,-10.91],"Maceió":[-35.73,-9.67],"São Luís":[-44.3,-2.53],"Teresina":[-42.8,-5.09],"Belém":[-48.5,-1.46],"Manaus":[-60.02,-3.12],"Palmas":[-48.33,-10.18],"Santos":[-46.33,-23.96],"Praia Grande":[-46.41,-24.01],"São Caetano do Sul":[-46.57,-23.62],"Santo André":[-46.53,-23.66],"Sorocaba":[-47.46,-23.5],"Campinas":[-47.06,-22.9],"Ribeirão Preto":[-47.81,-21.18],"São José dos Campos":[-45.89,-23.18],"Guarulhos":[-46.53,-23.45],"Niterói":[-43.1,-22.88],"Serra":[-40.31,-20.13],"Vitória":[-40.31,-20.32],"Uberlândia":[-48.28,-18.92],"Londrina":[-51.16,-23.31],"Maringá":[-51.94,-23.42]};
+const CIDADES={"São Paulo":[-46.63,-23.55],"Rio de Janeiro":[-43.2,-22.9],"Belo Horizonte":[-43.94,-19.92],"Curitiba":[-49.27,-25.43],"Porto Alegre":[-51.23,-30.03],"Florianópolis":[-48.55,-27.6],"Balneário Camboriú":[-48.63,-26.99],"Itapema":[-48.61,-27.09],"Criciúma":[-49.37,-28.68],"Joinville":[-48.85,-26.3],"Brasília":[-47.88,-15.79],"Goiânia":[-49.25,-16.68],"Cuiabá":[-56.1,-15.6],"Campo Grande":[-54.62,-20.45],"Salvador":[-38.5,-12.97],"Recife":[-34.88,-8.05],"Caruaru":[-35.98,-8.28],"Fortaleza":[-38.52,-3.73],"Natal":[-35.2,-5.79],"João Pessoa":[-34.86,-7.12],"Aracaju":[-37.07,-10.91],"Maceió":[-35.73,-9.67],"São Luís":[-44.3,-2.53],"Teresina":[-42.8,-5.09],"Belém":[-48.5,-1.46],"Manaus":[-60.02,-3.12],"Palmas":[-48.33,-10.18],"Santos":[-46.33,-23.96],"Praia Grande":[-46.41,-24.01],"São Caetano do Sul":[-46.57,-23.62],"Santo André":[-46.53,-23.66],"Sorocaba":[-47.46,-23.5],"Campinas":[-47.06,-22.9],"Ribeirão Preto":[-47.81,-21.18],"São José dos Campos":[-45.89,-23.18],"Guarulhos":[-46.53,-23.45],"Niterói":[-43.1,-22.88],"Serra":[-40.31,-20.13],"Vitória":[-40.31,-20.32],"Uberlândia":[-48.28,-18.92],"Londrina":[-51.16,-23.31],"Maringá":[-51.94,-23.42],"Atibaia":[-46.55,-23.12],"Bauru":[-49.06,-22.31],"Jundiaí":[-46.88,-23.19],"Piracicaba":[-47.65,-22.73]};
 const MESES=["jan","fev","mar","abr","mai","jun","jul","ago","set","out","nov","dez"];
 const MESES_L=["Janeiro","Fevereiro","Março","Abril","Maio","Junho","Julho","Agosto","Setembro","Outubro","Novembro","Dezembro"];
 const HORARIOS=[[7,43],[13,43]];
@@ -357,9 +363,10 @@ const HOJE=hojeBR();
 function situacao(e){if(e.fim<HOJE)return"encerrado";if(e.inicio<=HOJE&&!e.dataAprox)return"agora";return"disponivel"}
 
 let EV=[],MAPA=null,META={};
-const F={status:"disponivel",ano:"",regiao:"",uf:"",cidade:"",publico:"",gratis:false,q:""};
-try{const s=JSON.parse(localStorage.getItem("agenda-sindico-filtros")||"null");if(s)Object.assign(F,s)}catch(e){}
-function salvar(){try{localStorage.setItem("agenda-sindico-filtros",JSON.stringify(F))}catch(e){}}
+const F={status:"disponivel",ano:"",regiao:"",uf:"",cidade:"",publico:"",tema:"",gratis:false,q:""};
+const ehConstr=e=>(e.tags||[]).includes("Construção");
+try{const s=JSON.parse(localStorage.getItem("agenda-sindico-filtros-v2")||"null");if(s)Object.assign(F,s)}catch(e){}
+function salvar(){try{localStorage.setItem("agenda-sindico-filtros-v2",JSON.stringify(F))}catch(e){}}
 
 function proj(lon,lat){const p=MAPA.proj,r=Math.PI/180;return[p.scale*lon*r+p.translate[0],-p.scale*Math.log(Math.tan(Math.PI/4+lat*r/2))+p.translate[1]]}
 function pos(e){if(e.lat!=null&&e.lon!=null)return proj(e.lon,e.lat);const c=CIDADES[e.cidade];if(c)return proj(c[0],c[1]);return MAPA.centroides[e.uf]||[300,300]}
@@ -373,8 +380,10 @@ function base(ex){ // filtros exceto as dimensões passadas em ex
     if(!ex.includes("uf")&&F.uf&&e.uf!==F.uf)return false;
     if(!ex.includes("cidade")&&F.cidade&&e.cidade!==F.cidade)return false;
     if(F.publico&&!(e.publico||[]).includes(F.publico))return false;
+    if(F.tema==="construcao"&&!ehConstr(e))return false;
+    if(F.tema==="condominio"&&ehConstr(e))return false;
     if(F.gratis&&!e.gratuito)return false;
-    if(q&&!(e.nome+" "+e.cidade+" "+e.local+" "+e.tipo+" "+(e.organizador||"")).toLowerCase().includes(q))return false;
+    if(q&&!(e.nome+" "+e.cidade+" "+e.local+" "+e.tipo+" "+(e.organizador||"")+" "+(e.tags||[]).join(" ")+(ehConstr(e)?" construcao construção civil":"")).toLowerCase().includes(q))return false;
     return true});
 }
 
@@ -389,7 +398,7 @@ function montarSelects(){
   const cids=[...new Set(EV.filter(e=>(!F.regiao||e._reg===F.regiao)&&(!F.uf||e.uf===F.uf)).map(e=>e.cidade))].sort((a,b)=>a.localeCompare(b,"pt"));
   if(F.cidade&&!cids.includes(F.cidade))F.cidade="";
   opts($("#f-cidade"),cids.map(c=>[c,c]),"Todas as cidades",F.cidade);
-  $("#f-publico").value=F.publico;$("#f-gratis").checked=F.gratis;$("#f-busca").value=F.q;
+  $("#f-publico").value=F.publico;$("#f-tema").value=F.tema||"";$("#f-gratis").checked=F.gratis;$("#f-busca").value=F.q;
   document.querySelectorAll("#f-status button").forEach(b=>b.setAttribute("aria-pressed",b.dataset.v===F.status));
 }
 
@@ -481,11 +490,12 @@ function card(e){
   const dia=e.dataAprox?"?":+d[2];
   const st=s==="encerrado"?`<span class="selo st-fim">Encerrado</span>`:s==="agora"?`<span class="selo st-agora">Acontecendo agora</span>`:`<span class="selo st-ok">Inscrições abertas</span>`;
   const pub=(e.publico||[]).map(p=>`<span class="selo neutro">${esc(p)}</span>`).join("");
+  const constr=ehConstr(e)?`<span class="selo constr">Construção</span>`:"";
   const grat=e.gratuito?`<span class="selo gratis">Gratuito</span>`:"";
   const btn=s==="encerrado"?`<a class="btn sec" href="${esc(e.link)}" target="_blank" rel="noopener">Ver evento</a>`:`<a class="btn" href="${esc(e.link)}" target="_blank" rel="noopener">Comprar ingresso</a>`;
   return`<article class="ev${s==="encerrado"?" fim":""}">
     <div class="data"><b>${dia}</b><small>${MESES[+d[1]-1]} ${d[0].slice(2)}</small>${ate}</div>
-    <div class="info"><div class="selos">${st}<span class="selo">${esc(e.tipo)}</span>${grat}${pub}</div>
+    <div class="info"><div class="selos">${st}<span class="selo">${esc(e.tipo)}</span>${constr}${grat}${pub}</div>
       <h4>${esc(e.nome)}</h4>
       <div class="meta"><span><strong>${esc(e.cidade)} · ${esc(e.uf)}</strong> (${esc(e._reg)})</span><span>${esc(e.local)}</span>${e.organizador?`<span>Por <strong>${esc(e.organizador)}</strong></span>`:""}${e.dataAprox?`<span>${esc(e.dataAprox)}</span>`:""}</div></div>
     <div class="acao"><div class="preco">${esc(e.preco)}</div>${btn}</div>
@@ -515,9 +525,10 @@ function ligar(){
   $("#f-uf").addEventListener("change",e=>{F.uf=e.target.value;F.cidade="";if(F.uf)F.regiao=UF2REG[F.uf];render()});
   $("#f-cidade").addEventListener("change",e=>{F.cidade=e.target.value;const ev=EV.find(x=>x.cidade===F.cidade);if(ev){F.uf=ev.uf;F.regiao=ev._reg}render()});
   $("#f-publico").addEventListener("change",e=>{F.publico=e.target.value;render()});
+  $("#f-tema").addEventListener("change",e=>{F.tema=e.target.value;render()});
   $("#f-gratis").addEventListener("change",e=>{F.gratis=e.target.checked;render()});
   let t;$("#f-busca").addEventListener("input",e=>{clearTimeout(t);t=setTimeout(()=>{F.q=e.target.value;render()},180)});
-  $("#limpar").addEventListener("click",()=>{Object.assign(F,{status:"disponivel",ano:"",regiao:"",uf:"",cidade:"",publico:"",gratis:false,q:""});render()});
+  $("#limpar").addEventListener("click",()=>{Object.assign(F,{status:"disponivel",ano:"",regiao:"",uf:"",cidade:"",publico:"",tema:"",gratis:false,q:""});render()});
   matchMedia("(prefers-color-scheme: dark)").addEventListener?.("change",render);
   new MutationObserver(render).observe(document.documentElement,{attributes:true,attributeFilter:["data-theme"]});
 }
