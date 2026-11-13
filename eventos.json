@@ -1,7 +1,7 @@
 {
  "meta": {
-  "atualizadoEm": "2026-11-13T07:55:52-03:00",
-  "turno": "manhã",
+  "atualizadoEm": "2026-11-13T14:00:08-03:00",
+  "turno": "tarde",
   "agenda": "Atualização automática às 7h43 e às 13h43 (horário de Brasília)",
   "observacao": "Datas, locais e preços conforme os sites oficiais e a imprensa do setor. Confirme sempre no link de inscrição antes de comprar."
  },
@@ -3182,13 +3182,13 @@
     "Incorporadoras",
     "Síndicos"
    ],
-   "inicio": "2026-10-09",
-   "fim": "2026-10-12",
+   "inicio": "2026-11-12",
+   "fim": "2026-11-15",
    "cidade": "São José dos Campos",
    "uf": "SP",
-   "local": "Vale Sul Shopping",
-   "preco": "Inscrição pelo site oficial",
-   "gratuito": false,
+   "local": "Centro de Exposições do Vale Sul Shopping",
+   "preco": "Gratuito",
+   "gratuito": true,
    "link": "https://www.feiraconstruvale.com.br/",
    "tags": [
     "Construção"
@@ -3601,6 +3601,68 @@
    "tags": [
     "Construção"
    ]
+  },
+  {
+   "id": "feicon-rio-2026",
+   "nome": "FEICON Rio 2026 – Feira da Construção",
+   "tipo": "Feira",
+   "organizador": "RX Brasil",
+   "publico": [
+    "Incorporadoras",
+    "Síndicos"
+   ],
+   "inicio": "2026-10-06",
+   "fim": "2026-10-08",
+   "cidade": "Rio de Janeiro",
+   "uf": "RJ",
+   "local": "Riocentro",
+   "preco": "Consulte o site oficial",
+   "gratuito": false,
+   "link": "https://diariodorio.com/economia/2026/10/07/feicon-chega-ao-rio-com-mais-de-200-marcas-e-expectativa-de-10-mil-visitantes-no-riocentro.html",
+   "tags": [
+    "Construção"
+   ]
+  },
+  {
+   "id": "feicon-rio-2027",
+   "nome": "FEICON Rio 2027 – Feira da Construção",
+   "tipo": "Feira",
+   "organizador": "RX Brasil",
+   "publico": [
+    "Incorporadoras",
+    "Síndicos"
+   ],
+   "inicio": "2027-10-05",
+   "fim": "2027-10-07",
+   "cidade": "Rio de Janeiro",
+   "uf": "RJ",
+   "local": "Riocentro",
+   "preco": "Credenciamento ainda não aberto",
+   "gratuito": false,
+   "link": "https://diariodorio.com/economia/2026/10/09/feira-da-construcao-civil-feicon-rio-estreia-com-200-marcas-e-ja-tem-data-para-voltar-em-2027.html",
+   "tags": [
+    "Construção"
+   ]
+  },
+  {
+   "id": "convencao-secovi-2026",
+   "nome": "Convenção Secovi-SP 2026",
+   "tipo": "Congresso",
+   "organizador": "Secovi-SP",
+   "publico": [
+    "Síndicos",
+    "Administradoras",
+    "Incorporadoras"
+   ],
+   "inicio": "2026-08-26",
+   "fim": "2026-08-28",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "local": "Milenium Centro de Convenções (Vila Mariana)",
+   "preco": "De R$ 610 a R$ 3.550",
+   "precoValor": 610,
+   "gratuito": false,
+   "link": "https://secovi.com.br/evento/convencao-secovi-2026/"
   }
  ]
 }
