@@ -1,7 +1,7 @@
 {
  "meta": {
-  "atualizadoEm": "2026-11-14T07:50:28-03:00",
-  "turno": "manhã",
+  "atualizadoEm": "2026-11-14T13:50:11-03:00",
+  "turno": "tarde",
   "agenda": "Atualização automática às 7h43 e às 13h43 (horário de Brasília)",
   "observacao": "Datas, locais e preços conforme os sites oficiais e a imprensa do setor. Confirme sempre no link de inscrição antes de comprar."
  },
@@ -3742,6 +3742,48 @@
    "preco": "Restrito a associados da Adconce e convidados",
    "gratuito": false,
    "link": "https://mais.opovo.com.br/jornal/farol/2026/10/20/adconce-reune-setor-para-debater-nova-norma-de-riscos-psicossociais-em-condominios.html"
+  },
+  {
+   "id": "fenahabit-2026",
+   "nome": "Fenahabit 2026 – Feira Nacional da Habitação, Construção Civil e Imobiliário (20ª edição)",
+   "tipo": "Feira",
+   "publico": [
+    "Incorporadoras",
+    "Síndicos"
+   ],
+   "inicio": "2026-05-21",
+   "fim": "2026-05-24",
+   "cidade": "Blumenau",
+   "uf": "SC",
+   "local": "Parque Vila Germânica",
+   "preco": "Consulte o site oficial",
+   "gratuito": false,
+   "link": "https://portal.crea-sc.org.br/agenda_evento/fenahabit-2026-feira-destaca-inovacao-e-negocios-na-construcao-civil/",
+   "lat": -26.92,
+   "lon": -49.07,
+   "tags": [
+    "Construção"
+   ]
+  },
+  {
+   "id": "construsul-bc-2026",
+   "nome": "Construsul BC 2026 – Feira da Construção de Balneário Camboriú",
+   "tipo": "Feira",
+   "publico": [
+    "Incorporadoras",
+    "Síndicos"
+   ],
+   "inicio": "2026-05-26",
+   "fim": "2026-05-29",
+   "cidade": "Balneário Camboriú",
+   "uf": "SC",
+   "local": "Expocentro Balneário Camboriú Júlio Tedesco",
+   "preco": "Gratuito (cadastro pelo site)",
+   "gratuito": true,
+   "link": "https://www.feiraconstrusulbc.com.br",
+   "tags": [
+    "Construção"
+   ]
   }
  ]
 }
