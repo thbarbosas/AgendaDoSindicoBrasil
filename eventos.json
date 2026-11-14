@@ -1,7 +1,7 @@
 {
  "meta": {
-  "atualizadoEm": "2026-11-13T14:00:08-03:00",
-  "turno": "tarde",
+  "atualizadoEm": "2026-11-14T07:50:28-03:00",
+  "turno": "manhã",
   "agenda": "Atualização automática às 7h43 e às 13h43 (horário de Brasília)",
   "observacao": "Datas, locais e preços conforme os sites oficiais e a imprensa do setor. Confirme sempre no link de inscrição antes de comprar."
  },
@@ -3663,6 +3663,85 @@
    "precoValor": 610,
    "gratuito": false,
    "link": "https://secovi.com.br/evento/convencao-secovi-2026/"
+  },
+  {
+   "id": "megaobra-bh-2026",
+   "nome": "Megaobra 2026 – Feira e Congresso da Construção",
+   "tipo": "Feira",
+   "organizador": "Sinduscon-MG e Cubo Eventos",
+   "publico": [
+    "Incorporadoras",
+    "Síndicos"
+   ],
+   "inicio": "2026-11-24",
+   "fim": "2026-11-26",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "local": "Expominas, Av. Amazonas, 6.200, Gameleira",
+   "preco": "1º lote: R$ 30 (visitante) e R$ 75 (congressista)",
+   "precoValor": 30,
+   "gratuito": false,
+   "link": "https://feiramegaobra.com.br/",
+   "tags": [
+    "Construção"
+   ]
+  },
+  {
+   "id": "expo-revestir-2026",
+   "nome": "Expo Revestir 2026",
+   "tipo": "Feira",
+   "organizador": "Anfacer",
+   "publico": [
+    "Incorporadoras"
+   ],
+   "inicio": "2026-03-09",
+   "fim": "2026-03-13",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "local": "São Paulo Expo",
+   "preco": "Consulte o site oficial",
+   "gratuito": false,
+   "link": "https://www.exporevestir.com.br/",
+   "tags": [
+    "Construção"
+   ]
+  },
+  {
+   "id": "construir-ai-bc-2026",
+   "nome": "Feira Construir Aí 2026",
+   "tipo": "Feira",
+   "publico": [
+    "Incorporadoras"
+   ],
+   "inicio": "2026-09-08",
+   "fim": "2026-09-11",
+   "cidade": "Balneário Camboriú",
+   "uf": "SC",
+   "local": "Expocentro BC",
+   "preco": "Gratuito",
+   "gratuito": true,
+   "link": "https://lp.construir.ai/",
+   "tags": [
+    "Construção"
+   ]
+  },
+  {
+   "id": "encontro-adconce-nr1-fortaleza-2026",
+   "nome": "Encontro Adconce – Riscos Psicossociais no Ambiente Condominial (NR-1)",
+   "tipo": "Encontro",
+   "organizador": "Adconce",
+   "publico": [
+    "Administradoras",
+    "Síndicos"
+   ],
+   "inicio": "2026-10-22",
+   "fim": "2026-10-22",
+   "cidade": "Fortaleza",
+   "uf": "CE",
+   "local": "Espaço O POVO, Av. Aguanambi, 282, Joaquim Távora",
+   "preco": "Restrito a associados da Adconce e convidados",
+   "gratuito": false,
+   "link": "https://mais.opovo.com.br/jornal/farol/2026/10/20/adconce-reune-setor-para-debater-nova-norma-de-riscos-psicossociais-em-condominios.html"
   }
  ]
 }
