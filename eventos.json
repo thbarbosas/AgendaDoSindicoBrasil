@@ -1,7 +1,7 @@
 {
  "meta": {
-  "atualizadoEm": "2026-11-15T07:51:49-03:00",
-  "turno": "manhã",
+  "atualizadoEm": "2026-11-15T13:44:45-03:00",
+  "turno": "tarde",
   "agenda": "Atualização automática às 7h43 e às 13h43 (horário de Brasília)",
   "observacao": "Datas, locais e preços conforme os sites oficiais e a imprensa do setor. Confirme sempre no link de inscrição antes de comprar."
  },
@@ -3902,6 +3902,26 @@
    "preco": "Evento fechado para convidados",
    "gratuito": false,
    "link": "https://www.foconacional.com.br/2026/11/cerus-connect-reune-sindicos.html"
+  },
+  {
+   "id": "expo-construcao-offsite-2027",
+   "nome": "Expo Construção Off Site 2027",
+   "tipo": "Feira",
+   "organizador": "Expo Construção Off Site",
+   "publico": [
+    "Incorporadoras"
+   ],
+   "inicio": "2027-06-15",
+   "fim": "2027-06-18",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "local": "Local a confirmar (a edição 2026 foi no Distrito Anhembi)",
+   "preco": "Consulte o site oficial",
+   "gratuito": false,
+   "link": "https://www.expoconstrucaooffsite.com.br/",
+   "tags": [
+    "Construção"
+   ]
   }
  ]
 }
