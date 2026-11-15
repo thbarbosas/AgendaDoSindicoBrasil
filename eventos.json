@@ -1,7 +1,7 @@
 {
  "meta": {
-  "atualizadoEm": "2026-11-14T13:50:11-03:00",
-  "turno": "tarde",
+  "atualizadoEm": "2026-11-15T07:51:49-03:00",
+  "turno": "manhã",
   "agenda": "Atualização automática às 7h43 e às 13h43 (horário de Brasília)",
   "observacao": "Datas, locais e preços conforme os sites oficiais e a imprensa do setor. Confirme sempre no link de inscrição antes de comprar."
  },
@@ -3784,6 +3784,124 @@
    "tags": [
     "Construção"
    ]
+  },
+  {
+   "id": "construsul-2027",
+   "nome": "28ª Construsul – Feira Internacional da Construção",
+   "tipo": "Feira",
+   "organizador": "Sul Eventos",
+   "publico": [
+    "Incorporadoras"
+   ],
+   "inicio": "2027-08-03",
+   "fim": "2027-08-06",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "local": "Centro de Eventos Fiergs",
+   "preco": "Consulte o site oficial",
+   "gratuito": false,
+   "link": "https://feiraconstrusul.com.br/home/",
+   "tags": [
+    "Construção"
+   ]
+  },
+  {
+   "id": "expoconstruir-2027",
+   "nome": "9ª ExpoConstruir",
+   "tipo": "Feira",
+   "organizador": "Acomac-CE",
+   "publico": [
+    "Incorporadoras"
+   ],
+   "inicio": "2027-09-14",
+   "fim": "2027-09-17",
+   "cidade": "Fortaleza",
+   "uf": "CE",
+   "local": "Centro de Eventos do Ceará",
+   "preco": "Consulte o site oficial",
+   "gratuito": false,
+   "link": "https://expoconstruir.com.br/",
+   "tags": [
+    "Construção"
+   ]
+  },
+  {
+   "id": "encontro-cbic-incorporadores-centro-oeste-2026",
+   "nome": "Encontro CBIC de Incorporadores e Construtores 2026 | Centro-Oeste",
+   "tipo": "Encontro",
+   "organizador": "CBIC, Ademi-GO e Sinduscon-GO",
+   "publico": [
+    "Incorporadoras"
+   ],
+   "inicio": "2026-10-27",
+   "fim": "2026-10-28",
+   "cidade": "Goiânia",
+   "uf": "GO",
+   "local": "Centro de Convenções de Goiânia",
+   "preco": "Inscrição pelo portal da CBIC",
+   "gratuito": false,
+   "link": "https://cbic.org.br/?p=108852",
+   "tags": [
+    "Construção"
+   ]
+  },
+  {
+   "id": "encontro-cbic-incorporadores-nordeste-recife-2026",
+   "nome": "Encontro CBIC de Incorporadores e Construtores 2026 | Nordeste (Recife)",
+   "tipo": "Encontro",
+   "organizador": "CBIC e Sinduscon-PE",
+   "publico": [
+    "Incorporadoras"
+   ],
+   "inicio": "2026-09-18",
+   "fim": "2026-09-18",
+   "cidade": "Recife",
+   "uf": "PE",
+   "local": "Sede do Sinduscon-PE",
+   "preco": "Gratuito (inscrição prévia)",
+   "gratuito": true,
+   "link": "https://cbic.org.br/cbic-reune-setor-da-construcao-no-recife-nesta-sexta-feira-18-para-debater-mercado-imobiliario-credito-e-habitacao/",
+   "tags": [
+    "Construção"
+   ]
+  },
+  {
+   "id": "encontro-cbic-incorporadores-nordeste-salvador-2026",
+   "nome": "Encontro CBIC de Incorporadores e Construtores 2026 | Nordeste (Salvador)",
+   "tipo": "Encontro",
+   "organizador": "CBIC",
+   "publico": [
+    "Incorporadoras"
+   ],
+   "inicio": "2026-03-05",
+   "fim": "2026-03-06",
+   "cidade": "Salvador",
+   "uf": "BA",
+   "local": "Auditório da FIEB e SENAI Cimatec",
+   "preco": "Consulte o site oficial",
+   "gratuito": false,
+   "link": "https://cbic.org.br/encontro-cbic-de-incorporadores-e-construtores-reune-liderancas-para-avaliar-credito-e-industrializacao-em-salvador/",
+   "tags": [
+    "Construção"
+   ]
+  },
+  {
+   "id": "cerus-connect-fortaleza-2026",
+   "nome": "Cerus Connect 2026",
+   "tipo": "Encontro",
+   "organizador": "Cerus",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-11-12",
+   "fim": "2026-11-12",
+   "cidade": "Fortaleza",
+   "uf": "CE",
+   "local": "Rooftop Piazza Aldeota, Rua Nunes Valente, 1309",
+   "preco": "Evento fechado para convidados",
+   "gratuito": false,
+   "link": "https://www.foconacional.com.br/2026/11/cerus-connect-reune-sindicos.html"
   }
  ]
 }
