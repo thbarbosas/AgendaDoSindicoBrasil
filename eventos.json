@@ -1,6 +1,6 @@
 {
  "meta": {
-  "atualizadoEm": "2026-11-15T13:44:45-03:00",
+  "atualizadoEm": "2026-11-16T13:44:08-03:00",
   "turno": "tarde",
   "agenda": "Atualização automática às 7h43 e às 13h43 (horário de Brasília)",
   "observacao": "Datas, locais e preços conforme os sites oficiais e a imprensa do setor. Confirme sempre no link de inscrição antes de comprar."
@@ -3919,6 +3919,47 @@
    "preco": "Consulte o site oficial",
    "gratuito": false,
    "link": "https://www.expoconstrucaooffsite.com.br/",
+   "tags": [
+    "Construção"
+   ]
+  },
+  {
+   "id": "construnorte-2026",
+   "nome": "Construnorte 2026 – Feira da Construção Civil do Norte do Brasil",
+   "tipo": "Feira",
+   "organizador": "Sinduscon-AM / Mode On Eventos",
+   "publico": [
+    "Incorporadoras",
+    "Síndicos"
+   ],
+   "inicio": "2026-11-12",
+   "fim": "2026-11-14",
+   "cidade": "Manaus",
+   "uf": "AM",
+   "local": "Studio 5 Shopping e Convenções",
+   "preco": "Gratuito (inscrição na Sympla)",
+   "gratuito": true,
+   "link": "https://www.sympla.com.br/evento/construnorte-2026-a-maior-feira-da-construcao-civil-no-norte-do-brasil/3518152",
+   "tags": [
+    "Construção"
+   ]
+  },
+  {
+   "id": "conexao-cbic-2026",
+   "nome": "Conexão CBIC 2026",
+   "tipo": "Seminário",
+   "organizador": "CBIC / SESI / SENAI",
+   "publico": [
+    "Incorporadoras"
+   ],
+   "inicio": "2026-12-01",
+   "fim": "2026-12-01",
+   "cidade": "Brasília",
+   "uf": "DF",
+   "local": "Windsor Plaza Hotel",
+   "preco": "Inscrições a abrir (valor não divulgado)",
+   "gratuito": false,
+   "link": "https://cbic.org.br/conexao-cbic-sua-marca-junto-aos-mais-importantes-tomadores-de-decisao-do-pais/",
    "tags": [
     "Construção"
    ]
