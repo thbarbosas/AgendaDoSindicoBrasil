@@ -1,7 +1,7 @@
 {
  "meta": {
-  "atualizadoEm": "2026-11-17T13:50:43-03:00",
-  "turno": "tarde",
+  "atualizadoEm": "2026-11-18T07:51:10-03:00",
+  "turno": "manhã",
   "agenda": "Atualização automática às 7h43 e às 13h43 (horário de Brasília)",
   "observacao": "Datas, locais e preços conforme os sites oficiais e a imprensa do setor. Confirme sempre no link de inscrição antes de comprar."
  },
@@ -3960,6 +3960,100 @@
    "preco": "Inscrições a abrir (valor não divulgado)",
    "gratuito": false,
    "link": "https://cbic.org.br/conexao-cbic-sua-marca-junto-aos-mais-importantes-tomadores-de-decisao-do-pais/",
+   "tags": [
+    "Construção"
+   ]
+  },
+  {
+   "id": "6-encontro-sindicos-criciuma-2026",
+   "nome": "6º Encontro de Síndicos de Criciúma e Região (Dia do Síndico)",
+   "tipo": "Encontro",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-11-26",
+   "fim": "2026-11-26",
+   "cidade": "Criciúma",
+   "uf": "SC",
+   "local": "Auditório da Associação Empresarial de Criciúma (ACIC)",
+   "preco": "Gratuito, com inscrição",
+   "gratuito": true,
+   "link": "https://www.sympla.com.br/evento/6-edicao-de-encontro-de-sindicos-regiao-sul/3550083"
+  },
+  {
+   "id": "conexao-quem-procura-acha-2026",
+   "nome": "Conexão Quem Procura Acha 2026 – O Evento dos 4Cs (condomínio, construção, cooperativismo e comportamento)",
+   "tipo": "Encontro",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-10-30",
+   "fim": "2026-10-30",
+   "cidade": "Brasília",
+   "uf": "DF",
+   "local": "Sinduscon-DF",
+   "preco": "Consulte a Sympla",
+   "gratuito": false,
+   "link": "https://www.sympla.com.br/evento/conexao-quem-procura-acha-2026-4cs-condominio-construcao-cooperativismo-e-comportamento/3599148"
+  },
+  {
+   "id": "conexao-condominial-bni-rio-2026",
+   "nome": "Conexão Condominial 2026",
+   "tipo": "Encontro",
+   "organizador": "Esfera Condominial BNI Freguesia",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-09-29",
+   "fim": "2026-09-29",
+   "cidade": "Rio de Janeiro",
+   "uf": "RJ",
+   "local": "Auditório Fluzão, Av. Ayrton Senna, 5.250, Barra da Tijuca",
+   "preco": "Consulte o site do evento",
+   "gratuito": false,
+   "link": "https://conexaocondominialbni.com.br/"
+  },
+  {
+   "id": "summit-construcao-civil-santos-2026",
+   "nome": "Summit da Construção Civil 2026",
+   "tipo": "Summit",
+   "organizador": "Grupo Tribuna",
+   "publico": [
+    "Incorporadoras"
+   ],
+   "inicio": "2026-08-25",
+   "fim": "2026-08-25",
+   "cidade": "Santos",
+   "uf": "SP",
+   "local": "Santos (local não divulgado)",
+   "preco": "Consulte o organizador",
+   "gratuito": false,
+   "link": "https://cbic.org.br/cbic-participa-do-summit-da-construcao-civil-2026-em-santos-com-debates-sobre-os-novos-caminhos-do-setor/",
+   "tags": [
+    "Construção"
+   ]
+  },
+  {
+   "id": "fenahabit-2027",
+   "nome": "Fenahabit 2027 – Feira Nacional da Habitação, Construção Civil e Imobiliário",
+   "tipo": "Feira",
+   "publico": [
+    "Incorporadoras",
+    "Síndicos"
+   ],
+   "inicio": "2027-05-20",
+   "fim": "2027-05-23",
+   "cidade": "Blumenau",
+   "uf": "SC",
+   "local": "Centro de Eventos Vila Germânica, Rua Alberto Stein, 199",
+   "preco": "Consulte o site oficial",
+   "gratuito": false,
+   "link": "https://www.neventum.com/tradeshows/fenahabit-feira-nacional-da-habitacao-construcao-civil-e-imobiliario",
+   "lat": -26.92,
+   "lon": -49.07,
    "tags": [
     "Construção"
    ]
