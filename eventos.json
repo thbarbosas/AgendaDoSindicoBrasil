@@ -1,7 +1,7 @@
 {
  "meta": {
-  "atualizadoEm": "2026-11-18T07:51:10-03:00",
-  "turno": "manhã",
+  "atualizadoEm": "2026-11-18T13:51:19-03:00",
+  "turno": "tarde",
   "agenda": "Atualização automática às 7h43 e às 13h43 (horário de Brasília)",
   "observacao": "Datas, locais e preços conforme os sites oficiais e a imprensa do setor. Confirme sempre no link de inscrição antes de comprar."
  },
@@ -4054,6 +4054,68 @@
    "link": "https://www.neventum.com/tradeshows/fenahabit-feira-nacional-da-habitacao-construcao-civil-e-imobiliario",
    "lat": -26.92,
    "lon": -49.07,
+   "tags": [
+    "Construção"
+   ]
+  },
+  {
+   "id": "16-dia-do-sindico-feicond-jf-2026",
+   "nome": "16º Dia do Síndico & 3ª Feicond JF",
+   "tipo": "Feira",
+   "organizador": "Grupo O Síndico / AACONDO-JF",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-11-07",
+   "fim": "2026-11-07",
+   "cidade": "Juiz de Fora",
+   "uf": "MG",
+   "local": "Trade Hotel – Av. Presidente Itamar Franco, 3800, Cascatinha",
+   "preco": "Gratuito (vagas limitadas, inscrição na Sympla)",
+   "gratuito": true,
+   "link": "https://www.sympla.com.br/evento/16-dia-do-sindico-3-feicond-jf/3538779",
+   "lat": -21.7642,
+   "lon": -43.3496
+  },
+  {
+   "id": "feira-construcao-zona-da-mata-jf-2026",
+   "nome": "1ª Feira da Construção Civil da Zona da Mata",
+   "tipo": "Feira",
+   "organizador": "Sinduscon-JF",
+   "publico": [
+    "Incorporadoras"
+   ],
+   "inicio": "2026-10-30",
+   "fim": "2026-10-31",
+   "cidade": "Juiz de Fora",
+   "uf": "MG",
+   "local": "Trade Hotel",
+   "preco": "Entrada gratuita",
+   "gratuito": true,
+   "link": "https://www.itatiaia.com.br/juizdefora/feira-da-construcao-civil-da-zona-da-mata-reune-empresas-e-profissionais-em-juiz-de-fora/",
+   "lat": -21.7642,
+   "lon": -43.3496,
+   "tags": [
+    "Construção"
+   ]
+  },
+  {
+   "id": "feira-minha-casa-propria-maceio-2026",
+   "nome": "8ª Feira Minha Casa Própria (Sinduscon-AL)",
+   "tipo": "Feira",
+   "organizador": "Sinduscon-AL / Ademi-AL",
+   "publico": [
+    "Incorporadoras"
+   ],
+   "inicio": "2026-10-28",
+   "fim": "2026-11-02",
+   "cidade": "Maceió",
+   "uf": "AL",
+   "local": "Praça Central do Shopping Pátio Maceió",
+   "preco": "Não informado (consulte o organizador)",
+   "gratuito": false,
+   "link": "https://cbic.org.br/?p=109448",
    "tags": [
     "Construção"
    ]
