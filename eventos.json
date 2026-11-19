@@ -1,7 +1,7 @@
 {
  "meta": {
-  "atualizadoEm": "2026-11-18T13:51:19-03:00",
-  "turno": "tarde",
+  "atualizadoEm": "2026-11-19T07:55:37-03:00",
+  "turno": "manhã",
   "agenda": "Atualização automática às 7h43 e às 13h43 (horário de Brasília)",
   "observacao": "Datas, locais e preços conforme os sites oficiais e a imprensa do setor. Confirme sempre no link de inscrição antes de comprar."
  },
@@ -4116,6 +4116,46 @@
    "preco": "Não informado (consulte o organizador)",
    "gratuito": false,
    "link": "https://cbic.org.br/?p=109448",
+   "tags": [
+    "Construção"
+   ]
+  },
+  {
+   "id": "construlev-expo-2027",
+   "nome": "Construlev Expo 2027",
+   "tipo": "Feira",
+   "organizador": "Construlev",
+   "publico": [
+    "Incorporadoras"
+   ],
+   "inicio": "2027-10-26",
+   "fim": "2027-10-28",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "local": "São Paulo Expo, Pavilhão 2",
+   "preco": "Credenciamento para profissionais (abertura a anunciar); consulte o site oficial",
+   "gratuito": false,
+   "link": "https://construlevexpo.com.br/",
+   "tags": [
+    "Construção"
+   ]
+  },
+  {
+   "id": "construsummit-2027",
+   "nome": "Construsummit 2027",
+   "tipo": "Congresso",
+   "organizador": "Sienge",
+   "publico": [
+    "Incorporadoras"
+   ],
+   "inicio": "2027-06-02",
+   "fim": "2027-06-03",
+   "cidade": "Florianópolis",
+   "uf": "SC",
+   "local": "Centro Sul Convenções",
+   "preco": "Construpass e Construpass VIP; pré-venda a partir de 23/11/2026 (consulte o site oficial)",
+   "gratuito": false,
+   "link": "https://sienge.com.br/construsummit/",
    "tags": [
     "Construção"
    ]
