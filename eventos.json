@@ -1,7 +1,7 @@
 {
  "meta": {
-  "atualizadoEm": "2026-11-19T07:55:37-03:00",
-  "turno": "manhã",
+  "atualizadoEm": "2026-11-19T13:43:53-03:00",
+  "turno": "tarde",
   "agenda": "Atualização automática às 7h43 e às 13h43 (horário de Brasília)",
   "observacao": "Datas, locais e preços conforme os sites oficiais e a imprensa do setor. Confirme sempre no link de inscrição antes de comprar."
  },
@@ -4156,6 +4156,61 @@
    "preco": "Construpass e Construpass VIP; pré-venda a partir de 23/11/2026 (consulte o site oficial)",
    "gratuito": false,
    "link": "https://sienge.com.br/construsummit/",
+   "tags": [
+    "Construção"
+   ]
+  },
+  {
+   "id": "forum-nacional-gestao-condominial-poa-2026",
+   "nome": "5º Fórum Nacional de Gestão Condominial",
+   "tipo": "Seminário",
+   "organizador": "Assosíndicos RS",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-08-15",
+   "fim": "2026-08-15",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "local": "Hotel Plaza São Rafael",
+   "preco": "Consulte o organizador",
+   "gratuito": false,
+   "link": "https://www.jornaldocomercio.com/geral/2026/07/1257104-forum-em-porto-alegre-ira-debater-papel-do-sindico-e-novos-desafios-legais.html"
+  },
+  {
+   "id": "mercado-imobiliario-2027-secovi-sp",
+   "nome": "Mercado Imobiliário 2027: tendências que norteiam, decisões que geram resultados",
+   "tipo": "Encontro",
+   "organizador": "Secovi-SP",
+   "publico": [
+    "Incorporadoras"
+   ],
+   "inicio": "2026-12-09",
+   "fim": "2026-12-09",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "local": "Milenium Centro de Convenções (Rua Dr. Bacelar, 1.043, Vila Clementino)",
+   "preco": "Exclusivo para associados do Secovi-SP",
+   "gratuito": false,
+   "link": "https://secovi.com.br/evento/mercado-imobiliario-2027-tendencias-que-norteiam-decisoes-que-geram-resultados/"
+  },
+  {
+   "id": "construmeet-sp-2026",
+   "nome": "Construmeet SP",
+   "tipo": "Encontro",
+   "organizador": "FastBuilt (apoio Secovi-SP)",
+   "publico": [
+    "Incorporadoras"
+   ],
+   "inicio": "2026-12-10",
+   "fim": "2026-12-10",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "local": "Inovabra (Av. Angélica, 2529, 10º andar)",
+   "preco": "Gratuito, por convite",
+   "gratuito": true,
+   "link": "https://secovi.com.br/evento/construmeet-sp/",
    "tags": [
     "Construção"
    ]
