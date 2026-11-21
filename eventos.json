@@ -1,7 +1,7 @@
 {
  "meta": {
-  "atualizadoEm": "2026-11-21T07:45:42-03:00",
-  "turno": "manhã",
+  "atualizadoEm": "2026-11-21T13:46:15-03:00",
+  "turno": "tarde",
   "agenda": "Atualização automática às 7h43 e às 13h43 (horário de Brasília)",
   "observacao": "Datas, locais e preços conforme os sites oficiais e a imprensa do setor. Confirme sempre no link de inscrição antes de comprar."
  },
@@ -4232,6 +4232,26 @@
    "link": "https://www.ntradeshows.com/feira-fabricon-feira-brasileira-de-fabricantes-da-construcao-civil/",
    "lat": -26.92,
    "lon": -49.07,
+   "tags": [
+    "Construção"
+   ]
+  },
+  {
+   "id": "salao-imoveis-ademi-am-2026",
+   "nome": "Salão de Imóveis ADEMI Amazonas 2026",
+   "tipo": "Feira",
+   "organizador": "ADEMI-AM",
+   "publico": [
+    "Incorporadoras"
+   ],
+   "inicio": "2026-05-28",
+   "fim": "2026-05-31",
+   "cidade": "Manaus",
+   "uf": "AM",
+   "local": "Praça de Eventos do Amazonas Shopping",
+   "preco": "Consulte o organizador",
+   "gratuito": false,
+   "link": "https://cbic.org.br/com-apoio-da-caixa-salao-de-imoveis-ademi-amazonas-abre-programacao-para-movimentar-o-mercado-imobiliario-em-manaus/",
    "tags": [
     "Construção"
    ]
