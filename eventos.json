@@ -1,7 +1,7 @@
 {
  "meta": {
-  "atualizadoEm": "2026-11-21T13:46:15-03:00",
-  "turno": "tarde",
+  "atualizadoEm": "2026-11-22T07:46:29-03:00",
+  "turno": "manhã",
   "agenda": "Atualização automática às 7h43 e às 13h43 (horário de Brasília)",
   "observacao": "Datas, locais e preços conforme os sites oficiais e a imprensa do setor. Confirme sempre no link de inscrição antes de comprar."
  },
@@ -4252,6 +4252,49 @@
    "preco": "Consulte o organizador",
    "gratuito": false,
    "link": "https://cbic.org.br/com-apoio-da-caixa-salao-de-imoveis-ademi-amazonas-abre-programacao-para-movimentar-o-mercado-imobiliario-em-manaus/",
+   "tags": [
+    "Construção"
+   ]
+  },
+  {
+   "id": "construsul-bc-2027",
+   "nome": "Construsul BC 2027 – Feira da Construção de Balneário Camboriú",
+   "tipo": "Feira",
+   "publico": [
+    "Incorporadoras",
+    "Síndicos"
+   ],
+   "inicio": "2027-06-01",
+   "fim": "2027-06-04",
+   "cidade": "Balneário Camboriú",
+   "uf": "SC",
+   "local": "Balneário Camboriú (local a confirmar; edição 2026 no Expocentro Júlio Tedesco)",
+   "preco": "Consulte o site oficial (edição 2026 teve entrada gratuita com cadastro)",
+   "gratuito": false,
+   "link": "https://www.feiraconstrusulbc.com.br",
+   "tags": [
+    "Construção"
+   ]
+  },
+  {
+   "id": "techcon-2027",
+   "nome": "Techcon 2027 – Feira de Tecnologia da Construção e Incorporação",
+   "tipo": "Feira",
+   "organizador": "Sinduscon Oeste",
+   "publico": [
+    "Incorporadoras"
+   ],
+   "inicio": "2027-02-28",
+   "fim": "2027-03-05",
+   "dataAprox": "Previsto para 28/02 a 05/03/2027 (confirme no site oficial)",
+   "cidade": "Chapecó",
+   "uf": "SC",
+   "local": "Parque de Exposições Tancredo Neves (EFAPI)",
+   "preco": "Consulte o site oficial",
+   "gratuito": false,
+   "link": "https://www.techcon.tech",
+   "lat": -27.1004,
+   "lon": -52.6152,
    "tags": [
     "Construção"
    ]
