@@ -1,7 +1,7 @@
 {
  "meta": {
-  "atualizadoEm": "2026-11-23T07:43:55-03:00",
-  "turno": "manhã",
+  "atualizadoEm": "2026-11-23T13:50:13-03:00",
+  "turno": "tarde",
   "agenda": "Atualização automática às 7h43 e às 13h43 (horário de Brasília)",
   "observacao": "Datas, locais e preços conforme os sites oficiais e a imprensa do setor. Confirme sempre no link de inscrição antes de comprar."
  },
@@ -4554,6 +4554,28 @@
    "lat": -26.92,
    "lon": -49.07,
    "resumo": "Cerimônia do Prêmio Síndicos Planning 2026 em Blumenau. Premia síndicos e gestores de destaque da região."
+  },
+  {
+   "id": "construcon-2027-campina-grande",
+   "nome": "Construcon 2027 – Feira da Construção Civil e Arquitetura",
+   "tipo": "Feira",
+   "publico": [
+    "Incorporadoras"
+   ],
+   "inicio": "2027-07-22",
+   "fim": "2027-07-24",
+   "cidade": "Campina Grande",
+   "uf": "PB",
+   "local": "Centro de Convenções de Campina Grande (Alça Leste, Nova Brasília)",
+   "preco": "Credenciamento para profissionais do setor (valor não divulgado)",
+   "gratuito": false,
+   "link": "https://guiafornecedoresic.com.br/event/feira-construcon-2027-campina-grande-paraiba/",
+   "lat": -7.23,
+   "lon": -35.88,
+   "tags": [
+    "Construção"
+   ],
+   "resumo": "Feira da construção civil e arquitetura no Centro de Convenções de Campina Grande. Reúne fornecedores, construtoras, incorporadoras, arquitetos e engenheiros do Nordeste em torno de novidades do setor e do mercado imobiliário."
   }
  ]
 }
