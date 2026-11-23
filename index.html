@@ -368,16 +368,6 @@ function situacao(e){if(e.fim<HOJE)return"encerrado";if(e.inicio<=HOJE&&!e.dataA
 let EV=[],MAPA=null,META={};
 const F={status:"disponivel",ano:"",regiao:"",uf:"",cidade:"",publico:"",tema:"",gratis:false,q:""};
 const ehConstr=e=>(e.tags||[]).includes("Construção");
-function glpConversa(e){
-  if(e.glp)return e.glp;
-  const n=(e.nome+" "+(e.organizador||"")).toLowerCase(),p=e.publico||[],out=[];
-  if(/jur[ií]d|direito|advoca|oab/.test(n))out.push("segurança e normas da central de gás (NBR 13523)");
-  if(ehConstr(e))out.push("gás central com medição individual desde o projeto");
-  else if(p.includes("Incorporadoras"))out.push("medição individual e BioGL como diferencial de venda");
-  if(p.includes("Síndicos"))out.push(ehConstr(e)?"aquecimento de água, piscina e áreas gourmet":"medição individualizada, troca da central e aquecimento de água");
-  if(p.includes("Administradoras"))out.push("telemetria, leitura remota e fatura individual");
-  return out.slice(0,2).join("; ");
-}
 try{const s=JSON.parse(localStorage.getItem("agenda-sindico-filtros-v2")||"null");if(s)Object.assign(F,s)}catch(e){}
 function salvar(){try{localStorage.setItem("agenda-sindico-filtros-v2",JSON.stringify(F))}catch(e){}}
 
@@ -503,7 +493,6 @@ function card(e){
   const dia=e.dataAprox?"?":+d[2];
   const st=s==="encerrado"?`<span class="selo st-fim">Encerrado</span>`:s==="agora"?`<span class="selo st-agora">Acontecendo agora</span>`:`<span class="selo st-ok">Inscrições abertas</span>`;
   const pub=(e.publico||[]).map(p=>`<span class="selo neutro">${esc(p)}</span>`).join("");
-  const glp=glpConversa(e);
   const constr=ehConstr(e)?`<span class="selo constr">Construção</span>`:"";
   const grat=e.gratuito?`<span class="selo gratis">Gratuito</span>`:"";
   const btn=s==="encerrado"?`<a class="btn sec" href="${esc(e.link)}" target="_blank" rel="noopener">Ver evento</a>`:`<a class="btn" href="${esc(e.link)}" target="_blank" rel="noopener">Comprar ingresso</a>`;
@@ -512,7 +501,7 @@ function card(e){
     <div class="info"><div class="selos">${st}<span class="selo">${esc(e.tipo)}</span>${constr}${grat}${pub}</div>
       <h4>${esc(e.nome)}</h4>
       ${e.resumo?`<p class="resumo">${esc(e.resumo)}</p>`:""}
-      <div class="meta"><span><strong>${esc(e.cidade)} · ${esc(e.uf)}</strong> (${esc(e._reg)})</span><span>${esc(e.local)}</span>${e.organizador?`<span>Por <strong>${esc(e.organizador)}</strong></span>`:""}${e.dataAprox?`<span>${esc(e.dataAprox)}</span>`:""}</div>${glp?`<div class="glp"><b>GLP na conversa:</b> ${esc(glp)}</div>`:""}</div>
+      <div class="meta"><span><strong>${esc(e.cidade)} · ${esc(e.uf)}</strong> (${esc(e._reg)})</span><span>${esc(e.local)}</span>${e.organizador?`<span>Por <strong>${esc(e.organizador)}</strong></span>`:""}${e.dataAprox?`<span>${esc(e.dataAprox)}</span>`:""}</div></div>
     <div class="acao"><div class="preco">${esc(e.preco)}</div>${btn}</div>
   </article>`;
 }
