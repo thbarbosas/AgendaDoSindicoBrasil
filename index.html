@@ -373,7 +373,7 @@ function glpConversa(e){
   if(/jur[ií]d|direito|advoca|oab/.test(n))out.push("segurança e normas da central de gás (NBR 13523)");
   if(ehConstr(e))out.push("gás central com medição individual desde o projeto");
   else if(p.includes("Incorporadoras"))out.push("medição individual e BioGL como diferencial de venda");
-  if(p.includes("Síndicos"))out.push(ehConstr(e)?"aquecimento de água, piscina e áreas gourmet":"medição individualizada (SGI), troca da central e aquecimento de água");
+  if(p.includes("Síndicos"))out.push(ehConstr(e)?"aquecimento de água, piscina e áreas gourmet":"medição individualizada, troca da central e aquecimento de água");
   if(p.includes("Administradoras"))out.push("telemetria, leitura remota e fatura individual");
   return out.slice(0,2).join("; ");
 }
