@@ -1,7 +1,7 @@
 {
  "meta": {
-  "atualizadoEm": "2026-11-22T13:45:37-03:00",
-  "turno": "tarde",
+  "atualizadoEm": "2026-11-23T07:43:55-03:00",
+  "turno": "manhã",
   "agenda": "Atualização automática às 7h43 e às 13h43 (horário de Brasília)",
   "observacao": "Datas, locais e preços conforme os sites oficiais e a imprensa do setor. Confirme sempre no link de inscrição antes de comprar."
  },
@@ -4298,6 +4298,27 @@
    "tags": [
     "Construção"
    ]
+  },
+  {
+   "id": "cerimonia-premio-sindicos-planning-blumenau-2026",
+   "nome": "Cerimônia do Prêmio Síndicos Planning 2026",
+   "tipo": "Encontro",
+   "organizador": "Síndicos Planning / Diretório Condominial",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-11-28",
+   "fim": "2026-11-28",
+   "cidade": "Blumenau",
+   "uf": "SC",
+   "local": "Moinho do Vale (19h)",
+   "preco": "Ingresso individual R$ 195 (exclusivo para síndicos e administradoras); mesas de 6 lugares R$ 1.100 e de 8 lugares R$ 1.440",
+   "precoValor": 195,
+   "gratuito": false,
+   "link": "https://diretoriocondominial.com.br/premio-sindicos-planning-2026/cerimonia-premio-sindicos-planning-2026-ingressos-mesas/",
+   "lat": -26.92,
+   "lon": -49.07
   }
  ]
 }
