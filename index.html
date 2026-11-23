@@ -149,6 +149,7 @@ svg text{font-family:var(--f-body)}
 .selo.st-ok{background:var(--destaque);color:var(--branco)}
 .selo.st-agora{background:var(--agora-bg);border-color:var(--amarelo);color:var(--texto)}
 .selo.st-fim{border-color:var(--serie-fim);color:var(--texto-2)}
+.resumo{margin:2px 0 0;font:400 14px/1.45 var(--f-serif);color:var(--texto-2);display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
 .glp{font-size:13px;color:var(--texto-2)}
 .glp b{color:var(--destaque);font-weight:700}
 .selo.constr{background:var(--amarelo);border-color:var(--amarelo);color:var(--preto)}
@@ -510,6 +511,7 @@ function card(e){
     <div class="data"><b>${dia}</b><small>${MESES[+d[1]-1]} ${d[0].slice(2)}</small>${ate}</div>
     <div class="info"><div class="selos">${st}<span class="selo">${esc(e.tipo)}</span>${constr}${grat}${pub}</div>
       <h4>${esc(e.nome)}</h4>
+      ${e.resumo?`<p class="resumo">${esc(e.resumo)}</p>`:""}
       <div class="meta"><span><strong>${esc(e.cidade)} · ${esc(e.uf)}</strong> (${esc(e._reg)})</span><span>${esc(e.local)}</span>${e.organizador?`<span>Por <strong>${esc(e.organizador)}</strong></span>`:""}${e.dataAprox?`<span>${esc(e.dataAprox)}</span>`:""}</div>${glp?`<div class="glp"><b>GLP na conversa:</b> ${esc(glp)}</div>`:""}</div>
     <div class="acao"><div class="preco">${esc(e.preco)}</div>${btn}</div>
   </article>`;
