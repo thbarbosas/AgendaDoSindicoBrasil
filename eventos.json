@@ -1,7 +1,7 @@
 {
  "meta": {
-  "atualizadoEm": "2026-11-24T13:46:01-03:00",
-  "turno": "tarde",
+  "atualizadoEm": "2026-11-25T07:50:39-03:00",
+  "turno": "manhã",
   "agenda": "Atualização automática às 7h43 e às 13h43 (horário de Brasília)",
   "observacao": "Datas, locais e preços conforme os sites oficiais e a imprensa do setor. Confirme sempre no link de inscrição antes de comprar."
  },
@@ -4576,6 +4576,27 @@
     "Construção"
    ],
    "resumo": "Feira da construção civil e arquitetura no Centro de Convenções de Campina Grande. Reúne fornecedores, construtoras, incorporadoras, arquitetos e engenheiros do Nordeste em torno de novidades do setor e do mercado imobiliário."
+  },
+  {
+   "id": "incorpora-2026-abrainc",
+   "nome": "9º Incorpora – Fórum Brasileiro das Incorporadoras 2026",
+   "tipo": "Seminário",
+   "organizador": "ABRAINC",
+   "publico": [
+    "Incorporadoras"
+   ],
+   "inicio": "2026-10-07",
+   "fim": "2026-10-07",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "local": "Teatro B32 (Rua Lício Nogueira, 92, Itaim Bibi)",
+   "preco": "Ingressos na Sympla (valor não divulgado)",
+   "gratuito": false,
+   "link": "https://www.sympla.com.br/evento/9-incorpora-forum-brasileiro-das-incorporadoras-2026/3493391",
+   "tags": [
+    "Construção"
+   ],
+   "resumo": "Fórum anual da ABRAINC sobre incorporação imobiliária, com painéis sobre o cenário de 2027, financiamento, reforma tributária e gestão. Voltado a executivos de incorporadoras, investidores e lideranças do setor imobiliário."
   }
  ]
 }
