@@ -1,7 +1,7 @@
 {
  "meta": {
-  "atualizadoEm": "2026-11-25T07:50:39-03:00",
-  "turno": "manhã",
+  "atualizadoEm": "2026-11-25T13:49:32-03:00",
+  "turno": "tarde",
   "agenda": "Atualização automática às 7h43 e às 13h43 (horário de Brasília)",
   "observacao": "Datas, locais e preços conforme os sites oficiais e a imprensa do setor. Confirme sempre no link de inscrição antes de comprar."
  },
@@ -4597,6 +4597,25 @@
     "Construção"
    ],
    "resumo": "Fórum anual da ABRAINC sobre incorporação imobiliária, com painéis sobre o cenário de 2027, financiamento, reforma tributária e gestão. Voltado a executivos de incorporadoras, investidores e lideranças do setor imobiliário."
+  },
+  {
+   "id": "jantar-do-sindico-londrina-2026",
+   "nome": "26º Jantar do Síndico – Disco Party (Dia do Síndico 2026)",
+   "tipo": "Encontro",
+   "organizador": "Secovi/PR Regional Norte",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-12-05",
+   "fim": "2026-12-05",
+   "cidade": "Londrina",
+   "uf": "PR",
+   "local": "Villa Planalto (Av. Tiradentes, 6429)",
+   "preco": "Convites vendidos pelo WhatsApp; valor não informado no site",
+   "gratuito": false,
+   "link": "https://jantardosindico.com.br/",
+   "resumo": "Festa do Dia do Síndico em Londrina, promovida pelo Secovi/PR Regional Norte, com jantar, show e sorteios. Reúne síndicos, administradoras e empresas do setor condominial da região; o convite é retirado no Esquenta de 26/11 no Aurora Shopping."
   }
  ]
 }
