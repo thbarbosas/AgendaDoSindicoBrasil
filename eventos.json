@@ -1,7 +1,7 @@
 {
  "meta": {
-  "atualizadoEm": "2026-11-25T13:49:32-03:00",
-  "turno": "tarde",
+  "atualizadoEm": "2026-11-26T07:51:44-03:00",
+  "turno": "manhã",
   "agenda": "Atualização automática às 7h43 e às 13h43 (horário de Brasília)",
   "observacao": "Datas, locais e preços conforme os sites oficiais e a imprensa do setor. Confirme sempre no link de inscrição antes de comprar."
  },
@@ -4616,6 +4616,26 @@
    "gratuito": false,
    "link": "https://jantardosindico.com.br/",
    "resumo": "Festa do Dia do Síndico em Londrina, promovida pelo Secovi/PR Regional Norte, com jantar, show e sorteios. Reúne síndicos, administradoras e empresas do setor condominial da região; o convite é retirado no Esquenta de 26/11 no Aurora Shopping."
+  },
+  {
+   "id": "cafe-do-sindico-cascavel-nov-2026",
+   "nome": "Café do Síndico – Regional Oeste do Secovi-PR (novembro)",
+   "tipo": "Encontro",
+   "organizador": "Secovi-PR Regional Oeste",
+   "publico": [
+    "Síndicos"
+   ],
+   "inicio": "2026-11-25",
+   "fim": "2026-11-25",
+   "cidade": "Cascavel",
+   "uf": "PR",
+   "local": "Cascavel (local não divulgado na fonte)",
+   "preco": "Consulte o Secovi-PR Regional Oeste",
+   "gratuito": false,
+   "link": "https://sot.inf.br/noticia/62148/sindicos-esclarecem-duvidas-sobre-fim-da-escala-6x1-e-atribuicoes-nos-condominios",
+   "lat": -24.96,
+   "lon": -53.46,
+   "resumo": "Edição do Café do Síndico da Regional Oeste do Secovi-PR, em Cascavel, sobre o fim da escala 6x1 e a nota fiscal nas cobranças condominiais. Voltado a síndicos, vice-síndicos e conselheiros."
   }
  ]
 }
