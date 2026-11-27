@@ -1,7 +1,7 @@
 {
  "meta": {
-  "atualizadoEm": "2026-11-26T13:45:27-03:00",
-  "turno": "tarde",
+  "atualizadoEm": "2026-11-27T07:45:17-03:00",
+  "turno": "manhã",
   "agenda": "Atualização automática às 7h43 e às 13h43 (horário de Brasília)",
   "observacao": "Datas, locais e preços conforme os sites oficiais e a imprensa do setor. Confirme sempre no link de inscrição antes de comprar."
  },
@@ -4636,6 +4636,27 @@
    "lat": -24.96,
    "lon": -53.46,
    "resumo": "Edição do Café do Síndico da Regional Oeste do Secovi-PR, em Cascavel, sobre o fim da escala 6x1 e a nota fiscal nas cobranças condominiais. Voltado a síndicos, vice-síndicos e conselheiros."
+  },
+  {
+   "id": "salao-imovel-ademi-al-2026",
+   "nome": "Salão do Imóvel Ademi 2026",
+   "tipo": "Feira",
+   "organizador": "Ademi-AL",
+   "publico": [
+    "Incorporadoras"
+   ],
+   "inicio": "2026-08-20",
+   "fim": "2026-08-23",
+   "cidade": "Maceió",
+   "uf": "AL",
+   "local": "Centro de Convenções de Maceió",
+   "preco": "Exposição gratuita; Arena Ademi com ingressos à parte (LIDE Alagoas)",
+   "gratuito": true,
+   "link": "https://cbic.org.br/ademi-al-salao-do-imovel-reune-r-26-bilhoes-em-imoveis-e-movimenta-mercado-imobiliario-de-alagoas/",
+   "tags": [
+    "Construção"
+   ],
+   "resumo": "Feira imobiliária da Ademi-AL, com correalização do Sinduscon-AL, reunindo lançamentos residenciais de incorporadoras de Maceió e do litoral. Inclui a Arena Ademi, com palestras e workshops sobre o mercado."
   }
  ]
 }
