@@ -1,7 +1,7 @@
 {
  "meta": {
-  "atualizadoEm": "2026-11-27T07:45:17-03:00",
-  "turno": "manhã",
+  "atualizadoEm": "2026-11-27T13:50:26-03:00",
+  "turno": "tarde",
   "agenda": "Atualização automática às 7h43 e às 13h43 (horário de Brasília)",
   "observacao": "Datas, locais e preços conforme os sites oficiais e a imprensa do setor. Confirme sempre no link de inscrição antes de comprar."
  },
@@ -4657,6 +4657,27 @@
     "Construção"
    ],
    "resumo": "Feira imobiliária da Ademi-AL, com correalização do Sinduscon-AL, reunindo lançamentos residenciais de incorporadoras de Maceió e do litoral. Inclui a Arena Ademi, com palestras e workshops sobre o mercado."
+  },
+  {
+   "id": "supersindico-ponta-grossa-2026",
+   "nome": "SuperSíndico 2026 – 10ª edição e Prêmio Síndico Destaque (Ponta Grossa)",
+   "tipo": "Encontro",
+   "organizador": "SuperZelo / Secovi-PR Regional Campos Gerais",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-12-01",
+   "fim": "2026-12-01",
+   "cidade": "Ponta Grossa",
+   "uf": "PR",
+   "local": "Sicredi Nova Rússia – Av. Ernesto Viléla, 1001",
+   "preco": "Ingressos pela Sympla (gratuitos para associados do Secovi-PR, segundo a imprensa local)",
+   "gratuito": false,
+   "link": "https://www.sympla.com.br/evento/supersindico-2026/3641022",
+   "lat": -25.095,
+   "lon": -50.162,
+   "resumo": "Décima edição do SuperSíndico em Ponta Grossa, com três palestras e a entrega do Prêmio Síndico Destaque 2026 do Secovi-PR Regional Campos Gerais. Voltado a síndicos, conselheiros e administradoras da região."
   }
  ]
 }
