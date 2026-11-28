@@ -1,7 +1,7 @@
 {
  "meta": {
-  "atualizadoEm": "2026-11-28T07:46:40-03:00",
-  "turno": "manhã",
+  "atualizadoEm": "2026-11-28T13:43:31-03:00",
+  "turno": "tarde",
   "agenda": "Atualização automática às 7h43 e às 13h43 (horário de Brasília)",
   "observacao": "Datas, locais e preços conforme os sites oficiais e a imprensa do setor. Confirme sempre no link de inscrição antes de comprar."
  },
@@ -4678,6 +4678,27 @@
    "lat": -25.095,
    "lon": -50.162,
    "resumo": "Décima edição do SuperSíndico em Ponta Grossa, com três palestras e a entrega do Prêmio Síndico Destaque 2026 do Secovi-PR Regional Campos Gerais. Voltado a síndicos, conselheiros e administradoras da região."
+  },
+  {
+   "id": "cafe-sindico-ribeirao-preto-2026",
+   "nome": "Café com Síndico Ribeirão Preto",
+   "tipo": "Encontro",
+   "organizador": "Café com Síndico",
+   "publico": [
+    "Síndicos",
+    "Administradoras"
+   ],
+   "inicio": "2026-09-12",
+   "fim": "2026-09-12",
+   "cidade": "Ribeirão Preto",
+   "uf": "SP",
+   "local": "Taiwan Centro de Eventos",
+   "preco": "Gratuito, com inscrição prévia",
+   "gratuito": true,
+   "link": "https://cafecomsindico.com/eventos",
+   "lat": -21.1775,
+   "lon": -47.8103,
+   "resumo": "Edição do Café com Síndico em Ribeirão Preto, dia de palestras e estandes de expositores do mercado condominial. Gratuito, voltado a síndicos, administradores e equipes de condomínio da região."
   }
  ]
 }
